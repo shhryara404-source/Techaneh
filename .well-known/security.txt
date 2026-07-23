@@ -1,0 +1,5 @@
+Contact: mailto:shahryarvn@gmail.com
+Canonical: https://techaneh.ir/.well-known/security.txt
+Preferred-Languages: fa, en
+Expires: 2027-07-12T00:00:00.000Z
+Policy: https://techaneh.ir/#about

@@ -1,0 +1,3157 @@
+{
+  "version": 1,
+  "generatedAt": "2026-07-19T10:44:52.337Z",
+  "itemCount": 176,
+  "items": [
+    {
+      "id": "article-1",
+      "type": "article",
+      "category": "AI",
+      "title": {
+        "fa": "از رویا تا واقعیت؛ سفری به اعماق مغز دیجیتال",
+        "en": "From Dream to Reality: A Journey into the Digital Brain"
+      },
+      "text": {
+        "fa": "تا همین چند سال پیش، هوش مصنوعی فقط در فیلم‌های علمی‑تخیلی دیده می‌شد. اما امروز، این فناوری در زندگی روزمره‌ی ما رخنه کرده است. تا همین چند سال پیش، وقتی صحبت از « ماشین‌های هوشمند » می‌شد، ذهن بیشتر ما به سمت فیلم‌های علمی‑تخیلی و ربات‌های انسان‌نما می‌رفت. اما امروز، هوش مصنوعی دیگر یک رویای دوردست نیست؛ بلکه هم‌نشین روزمره‌ی همه‌ی ما شده است. از لحظه‌ای که صبح از خواب بیدار می‌شوید و دستیار صوتی گوشی‌تان زنگ هشدار را خاموش می‌کند، تا وقتی که شب هنگام، شبکه‌های اجتماعی فیلمی را به شما پیشنهاد می‌دهند که دقیقاً مطابق سلیقه‌تان است—همه‌جا ردپایی از هوش مصنوعی دیده می‌شود. اما این فناوری شگفت‌انگیز دقیقاً چیست و چگونه کار می‌کند؟ بیایید با هم سفری به اعماق این مغز دیجیتال داشته باشیم. هوش مصنوعی یا Artificial Intelligence (که به اختصار AI نامیده می‌شود)، در ساده‌ترین تعریف، به توانایی تفکر، یادگیری و تصمیم‌گیری یک ماشین یا سیستم کامپیوتری گفته می‌شود. اما این تعریف ساده، گوهر حقیقی این پدیده را پنهان می‌کند. هوش مصنوعی در واقع مجموعه‌ای از تکنیک‌ها و الگوریتم‌های ریاضی و کامپیوتری است که برای تقلید از هوش و یادگیری انسان‌ها طراحی شده‌اند. به بیان دیگر، به هوشی که یک ماشین در شرایط مختلف از خود نشان می‌دهد، هوش مصنوعی گفته می‌شود. شاید جالب باشد بدانید که هوش مصنوعی به عنوان یک شاخه‌ی آکادمیک، برای اولین بار در سال ۱۹۵۶ میلادی در کنفرانس تابستانی دارتموث، توسط جان مک‌کارتی (John McCarthy) پایه‌گذاری شد. مک‌کارتی، دانشمند علوم کامپیوتر و شناختی، برای اولین بار اصطلاح «هوش مصنوعی» را ابداع کرد و از آن زمان تا کنون، این حوزه دستخوش فراز و نشیب‌های بسیاری شده است. هدف نهایی از طراحی و ساخت سیستم‌های هوش مصنوعی، خلق ابزارهایی نرم‌افزاری و سخت‌افزاری است که بتوانند کارهایی مانند استدلال، تصمیم‌گیری، یادگیری و حل مسئله را تا حدی شبیه به انسان—و حتی گاهی دقیق‌تر از او—انجام دهند. تا همین چند سال پیش، بسیاری از این کارها فقط از عهده‌ی انسان برمی‌آمد و سیستم‌های کامپیوتری در انجام آنها ناتوان بودند. اما امروز، شاهد پیشرفت‌هایی هستیم که پیش‌تر تنها در فیلم‌های علمی‑تخیلی قابل تصور بودند. یکی از رایج‌ترین سردرگمی‌ها در این حوزه، تفاوت میان سه مفهوم هوش مصنوعی، یادگیری ماشین (Machine Learning) و یادگیری عمیق (Deep Learning) است. بهتر است این سه را به صورت یک هرم سه‌لایه تصور کنید: هوش مصنوعی (لایه‌ی بالایی و گسترده‌ترین): همه‌ی تلاش‌ها برای ساخت ماشین‌های هوشمند را در بر می‌گیرد. یادگیری ماشین (لایه‌ی میانی): زیرمجموعه‌ای از هوش مصنوعی است که به ماشین‌ها توانایی یادگیری از داده‌ها را می‌دهد، بدون اینکه برای هر کار خاصی برنامه‌نویسی شوند. یادگیری عمیق (لایه‌ی پایینی و تخصصی‌ترین): زیرمجموعه‌ای از یادگیری ماشین است که از شبکه‌های عصبی با لایه‌های متعدد برای پردازش داده‌ها استفاده می‌کند و الهام‌گرفته از ساختار مغز انسان است. سیستم‌های هوش مصنوعی، به ویژه مدل‌های بزرگ زبانی (Large Language Models) مانند ChatGPT ، کلمات را به‌صورت مستقیم درک نمی‌کنند. در واقع، آنها کلمات را به کدهای عددی به نام توکن (Token) تبدیل کرده و بر اساس احتمالات ریاضی، کلمه‌ی بعدی را پیش‌بینی می‌کنند. این یعنی وقتی شما با یک چت‌بات صحبت می‌کنید، در واقع با یک ماشین حساب پیشرفته‌ی احتمالات در حال مکالمه هستید! فرآیند کار به این شکل است که مدل‌های هوش مصنوعی روی حجم عظیمی از داده‌ها—متون، تصاویر، صداها و ...—آموزش می‌بینند. در طی این آموزش، آنها الگوها، روابط و ساختارهای پنهان در داده‌ها را شناسایی می‌کنند. پس از اتمام آموزش، وقتی شما یک سوال یا دستور (پرامپت) به آنها می‌دهید، از همان الگوهای آموخته‌شده برای تولید پاسخی استفاده می‌کنند که از نظر آماری محتمل‌ترین پاسخ به ورودی شماست. هوش مصنوعی تنها به چت‌بات‌ها خلاصه نمی‌شود. این فناوری در شاخه‌های گوناگونی ظهور پیدا کرده است: پردازش زبان طبیعی (NLP): توانایی درک، تفسیر و تولید زبان انسانی. همان چیزی که به چت‌بات‌هایی مانند ChatGPT و Gemini قدرت می‌دهد. بینایی ماشین (Computer Vision): توانایی دیدن و تفسیر تصاویر و ویدیوها؛ از تشخیص چهره در گوشی‌های هوشمند تا خودروهای خودران. رباتیک: ترکیب هوش مصنوعی با سخت‌افزار برای ساخت ربات‌هایی که بتوانند در دنیای فیزیکی عمل کنند. سیستم‌های توصیه‌گر: الگوریتم‌هایی که بر اساس سلیقه و رفتار شما، محتوای مناسب را در یوتیوب، نتفلیکس یا آمازون به شما پیشنهاد می‌دهند. هوش مصنوعی یک تکنولوژی نیست؛ یک انقلاب است. انقلابی که نحوه‌ی کار، زندگی و تعامل ما با جهان را دگرگون می‌کند. درک اصول پایه‌ی این فناوری، اولین و مهم‌ترین گام برای استفاده‌ی حرفه‌ای از آن است.",
+        "en": "Until a few years ago, artificial intelligence was confined to science fiction. Today, it permeates our daily lives. Until a few years ago, the phrase ' intelligent machines ' brought to mind sci‑fi movies and humanoid robots. Today, artificial intelligence is no longer a distant dream – it's a daily companion. From the moment your phone's voice assistant wakes you up to the personalized video recommendations on social media at night, AI leaves its footprint everywhere. But what exactly is this astonishing technology and how does it work? Let's embark on a journey into this digital brain. Artificial Intelligence (AI) is, in the simplest definition, the ability of a machine or computer system to think, learn, and make decisions. However, this simple definition conceals the true essence of the phenomenon. AI is actually a collection of mathematical and computational techniques and algorithms designed to mimic human intelligence and learning. In other words, the intelligence that a machine exhibits in various situations is what we call artificial intelligence. Interestingly, AI as an academic discipline was first established in 1956 at the Dartmouth Summer Conference by John McCarthy . McCarthy, a computer and cognitive scientist, coined the term 'artificial intelligence'. Since then, the field has seen many ups and downs – sometimes waves of optimism, sometimes funding shortages and despair. The ultimate goal of AI is to create software and hardware tools that can reason, make decisions, learn, and solve problems – sometimes even more accurately than humans. Until recently, many such tasks were solely human domains; today, we are witnessing advances once only imaginable in science fiction. One common confusion in this field is the difference between artificial intelligence, machine learning, and deep learning . Imagine them as a three‑layer pyramid: Artificial Intelligence (top, broadest layer): encompasses all efforts to build intelligent machines. Machine Learning (middle layer): a subset of AI that gives machines the ability to learn from data without being explicitly programmed. Deep Learning (bottom, most specialized layer): a subset of machine learning that uses multi‑layered neural networks to process data, inspired by the structure of the human brain. AI systems, especially large language models like ChatGPT , don't understand words directly. They convert words into numerical codes called tokens and predict the next word based on mathematical probabilities. So when you chat with a bot, you are essentially conversing with an advanced probability calculator! The process works by training models on vast amounts of data – text, images, audio, etc. During training, they identify hidden patterns, relationships, and structures. After training, when you give them a prompt, they use those learned patterns to generate the statistically most probable response. AI is not limited to chatbots; it shines in many branches: Natural Language Processing (NLP): understanding, interpreting, and generating human language – the power behind ChatGPT and Gemini. Computer Vision: seeing and interpreting images and videos; from facial recognition in smartphones to self‑driving cars. Robotics: combining AI with hardware to build robots that act in the physical world. Recommendation Systems: algorithms that suggest relevant content on YouTube, Netflix, or Amazon based on your tastes and behaviour. AI is not just a technology; it is a revolution that is reshaping how we work, live, and interact with the world. Understanding its fundamentals is the first and most crucial step toward using it professionally."
+      },
+      "url": "https://techaneh.ir/fa/articles/1-from-dream-to-reality-a-journey-into-the-digital-brain/",
+      "alternateUrl": "https://techaneh.ir/en/articles/1-from-dream-to-reality-a-journey-into-the-digital-brain/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-2",
+      "type": "article",
+      "category": "AI",
+      "title": {
+        "fa": "هنر گفت‌وگو با ماشین؛ راهنمای گام‌به‌گام پرامپت‌نویسی حرفه‌ای",
+        "en": "The Art of Talking to Machines: A Step‑by‑Step Guide to Professional Prompt Engineering"
+      },
+      "text": {
+        "fa": "حتماً برایتان پیش آمده که با چت‌باتی صحبت کرده‌اید اما پاسخ‌های سطحی دریافت کرده‌اید. ریشه‌ی مشکل در عدم نگارش صحیح پرامپت است. در این مقاله، هنر پرامپت‌نویسی را با فرمول شش‌گانه و تکنیک‌های پیشرفته یاد می‌گیرید... حتماً برای شما هم پیش آمده که با چت‌باتی مانند ChatGPT یا Gemini صحبت کرده‌اید، اما پاسخ‌هایی سطحی، کلیشه‌ای و گاهی کاملاً اشتباه دریافت کرده‌اید. شاید هم از خودتان پرسیده‌اید: «مگر این هوش مصنوعی نمی‌تواند حرف مرا بفهمد؟» ریشه‌ی این مشکل در یک سوءتفاهم بزرگ نهفته است: این تصور که هوش مصنوعی کلمات را مانند انسان درک می‌کند! در حالی که همان‌طور که در مقاله‌ی اول گفتیم، مدل‌های زبانی کلمات را به کدهای عددی تبدیل کرده و بر اساس احتمالات ریاضی پاسخ می‌دهند. اینجاست که مهندسی پرامپت (Prompt Engineering) یا همان هنر پرامپت‌نویسی وارد میدان می‌شود. پرامپت‌نویسی فرایندی است که در آن از دانش و مهارت‌های مختلف برای ایجاد دستورالعمل‌های مؤثر برای مدل‌های هوش مصنوعی استفاده می‌شود. به زبان ساده‌تر، پرامپت‌نویسی یعنی هنرِ درست سوال پرسیدن و دستور دادن به هوش مصنوعی برای گرفتن بهترین و درست‌ترین نتیجه. پرامپت‌نویسی امروز دیگر یک مهارت امتیازی نیست؛ بلکه یک توانمندی ضروری برای همه‌ی ما در دنیای امروز است. پرامپت (Prompt) به متن یا ورودی‌ای گفته می‌شود که کاربر به یک مدل زبانی بزرگ ارائه می‌دهد تا مدل بر اساس آن پاسخی تولید کند. هدف از پرامپت، ارائه‌ی اطلاعات کافی به مدل برای تولید پاسخ مطلوب است. کیفیت پاسخ‌های تولیدشده توسط مدل‌های زبانی، به شدت به کیفیت ورودی (پرامپت) وابسته است. وقتی اصول پرامپت‌نویسی را اعمال می‌کنید، انگار در حال برنامه‌نویسی به زبان طبیعی هستید؛ اما به جای کدنویسی، با کلمات خود مسیر احتمالات ریاضی مدل را هدایت می‌کنید. بر اساس آموزه‌های دوره‌های مهندسی پرامپت گوگل و سایر منابع معتبر، یک پرامپت حرفه‌ای از شش بخش کلیدی تشکیل شده است که به ترتیب اهمیت عبارتند از: وظیفه (Task) — اولویت اول و اجباری: دستور خود را همیشه با یک فعل امری دقیق آغاز کنید. زمینه (Context) — داستان را کامل کنید: پیش‌زمینه، موفقیت و محیط استفاده را توضیح دهید. نمونه‌ها (Exemplars / Few-shot) — الگو دهید: ارائه‌ی چند نمونه ورودی و خروجی به مدل، کیفیت را به شدت افزایش می‌دهد. نقش (Persona) — به مدل هویت بدهید: مشخص کنید با چه شخصیت یا تخصصی صحبت کند. قالب (Format) — ساختار خروجی را مشخص کنید: جدول، JSON، متن پاراگراف‌بندی‌شده، یا لیست. لحن (Tone) — فضا را تعیین کنید: رسمی، خودمانی، طنز، همدلانه یا آموزشی. نکته‌ی طلایی: هدایت کردن (Steering) مدل با جزئیات، همیشه نتیجه‌ی بهتری نسبت به فرمان دادن (Commanding) ساده دارد. علاوه بر فرمول شش‌گانه، تکنیک‌های پیشرفته‌تری نیز وجود دارند: تفکر زنجیره‌ای (Chain of Thought - CoT): از مدل بخواهید مراحل استدلال خود را گام‌به‌گام توضیح دهد. تکنیک‌های Zero-Shot و One-Shot: انجام کار بدون نمونه یا با یک نمونه. تکنیک RAG: ترکیب بازیابی اطلاعات از منبع خارجی با پرامپت. اشتباهات رایج شامل پرامپت‌های خیلی کوتاه، نداشتن دستورالعمل واضح، و انتظار معجزه است. یک مثال از پرامپت ضعیف: «یک پست اینستاگرامی برای محصول جدیدم بنویس.» پرامپت حرفه‌ای: «به عنوان یک متخصص تولید محتوا با ۵ سال تجربه در حوزه‌ی مد و فشن، یک پست اینستاگرامی برای معرفی یک کیف چرمی جدید بنویس. مخاطب هدف، زنان ۲۵ تا ۴۰ ساله هستند. لحن پست گرم، صمیمی و الهام‌بخش باشد و در عین حال حس برند لوکس را منتقل کند. پست را با یک تیتر جذاب شروع کن، سپس یک داستان کوتاه درباره‌ی نحوه‌ی ساخت کیف بنویس، و در انتها با یک دعوت به اقدام تمام کن. از سه پاراگراف ۲-۳ خطی استفاده کن.» پرامپت‌نویسی یک مهارت است. هرچه بیشتر تمرین کنید، بهتر می‌شوید.",
+        "en": "You've probably chatted with a bot and received shallow answers. The root cause is improper prompt writing. In this article, learn the art of prompt engineering through a six‑step formula and advanced techniques... You've likely experienced chatting with a bot like ChatGPT or Gemini , only to receive shallow, generic, or completely wrong answers. You might have wondered, 'Can't this AI understand what I mean?' The root of the problem is a big misconception: that AI understands words like a human. As we explained in the first article, language models convert words into numerical tokens and respond based on mathematical probabilities. This is where Prompt Engineering comes in – the art of crafting effective instructions for AI models. In simple terms, prompt engineering means asking the right questions and giving the right commands to get the best possible results. Today, prompt engineering is no longer an optional skill; it's essential for everyone. A prompt is the text or input a user gives to a large language model so that the model can generate a response. The goal is to provide enough information for the desired output. The quality of the generated responses heavily depends on the quality of the input. When you apply prompt‑engineering principles, it's like programming in natural language – steering the model's mathematical probabilities with your words. Based on Google's prompt engineering courses and other reliable sources, a professional prompt consists of six key components , in order of importance: Task – top priority and mandatory: always start with a precise action verb. Context – tell the whole story: background, definition of success, and the environment. Exemplars / Few‑shot – provide examples: a few input‑output pairs drastically improve quality. Persona – give the model an identity: specify the character or expertise to adopt. Format – define the output structure: table, JSON, paragraphs, or bullet list. Tone – set the mood: formal, casual, humorous, empathetic, or educational. Golden tip: steering the model with details always yields better results than simple commanding. Beyond the six‑step formula, there are advanced techniques: Chain of Thought (CoT): ask the model to explain its reasoning step‑by‑step. Zero‑Shot / One‑Shot: performing a task with no examples or just one example. RAG (Retrieval‑Augmented Generation): combining external information retrieval with the prompt. Common mistakes include overly short prompts, unclear instructions, and expecting miracles. Example of a weak prompt: 'Write an Instagram post for my new product.' A professional prompt: 'As a content marketing specialist with 5 years of experience in the fashion industry, write an Instagram post to introduce a new leather handbag. Target audience: women aged 25–40. The tone should be warm, friendly, and inspiring while conveying a luxury brand feel. Start with a catchy headline, then a short story about the handbag's craftsmanship, and end with a call‑to‑action. Use three paragraphs of 2‑3 lines each.' Prompt engineering is a skill – the more you practise, the better you become."
+      },
+      "url": "https://techaneh.ir/fa/articles/2-the-art-of-talking-to-machines-a-step-by-step-guide-to-professional-prom/",
+      "alternateUrl": "https://techaneh.ir/en/articles/2-the-art-of-talking-to-machines-a-step-by-step-guide-to-professional-prom/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-3",
+      "type": "article",
+      "category": "AI",
+      "title": {
+        "fa": "از کاربر تا متخصص؛ مسیر حرفه‌ای‌شدن با هوش مصنوعی",
+        "en": "From User to Expert: The Professional Path with AI"
+      },
+      "text": {
+        "fa": "در دو مقاله قبل با مفاهیم پایه و پرامپت‌نویسی آشنا شدید. اکنون زمان آن است که از یک کاربر معمولی به یک متخصص حرفه‌ای تبدیل شوید. این مقاله مسیر کسب درآمد، انتخاب ابزار و یادگیری را نشان می‌دهد... تا اینجا با مفاهیم پایه‌ی هوش مصنوعی و هنر پرامپت‌نویسی آشنا شدید. اما دانستن این مفاهیم به تنهایی کافی نیست. دنیای امروز به افرادی نیاز دارد که نه تنها با هوش مصنوعی «حرف بزنند»، بلکه بتوانند از آن برای خلق ارزش، حل مسائل پیچیده و حتی کسب درآمد استفاده کنند. در این مقاله، قدم در مسیر حرفه‌ای‌شدن با هوش مصنوعی می‌گذاریم و یاد می‌گیریم که چطور از یک کاربر معمولی به یک متخصص تبدیل شویم. گام اول: انتخاب ابزار مناسب. دنیای ابزارهای هوش مصنوعی امروز آنقدر گسترده است که انتخاب درست، نیمی از راه است. هر ابزار برای کار خاصی طراحی شده است: ChatGPT برای تولید محتوای متنی و کدنویسی، Claude برای تحلیل اسناد طولانی، Gemini برای پردازش چندحالته، و Midjourney و DALL‑E برای تولید تصاویر حرفه‌ای. گام دوم: تولید محتوای حرفه‌ای. یک متخصص از هوش مصنوعی برای طراحی استراتژی محتوا استفاده می‌کند، نه فقط برای نوشتن متن. او AI را در تمام مراحل به کار می‌گیرد: از ایده‌پردازی و پژوهش تا نوشتن، ویرایش و بهینه‌سازی سئو. گام سوم: هوش مصنوعی در خدمت کسب‌وکار. خودکارسازی وظایف، تحلیل داده، بهبود تجربه‌ی مشتری – همه با AI ممکن شده است. ابزارهای AI می‌توانند ورود داده‌ها، پردازش صورت‌حساب و حتی مدیریت فروش را خودکار کنند. گام چهارم: برنامه‌نویسی با هوش مصنوعی. تولید کد، دیباگ کردن، مستندسازی و یادگیری مفاهیم جدید برنامه‌نویسی با کمک AI، بهره‌وری را چند برابر می‌کند. پایتون به عنوان زبان رسمی دنیای AI شناخته می‌شود. گام پنجم: مسیر یادگیری حرفه‌ای. نقشه‌ی راه پیشنهادی: مبانی برنامه‌نویسی (پایتون)، ریاضیات و آمار، یادگیری ماشین، یادگیری عمیق، پردازش زبان طبیعی و بینایی ماشین، و پروژه‌های عملی. گام ششم: کسب درآمد. فریلنسری، توسعه‌ی ابزارهای AI، مشاوره‌ی کسب‌وکار، آموزش و تولید محتوای تصویری از جمله فرصت‌های درآمدزایی هستند. هوش مصنوعی قرار نیست جای شما را بگیرد؛ اما کسی که از AI استفاده می‌کند، جای کسی را می‌گیرد که استفاده نمی‌کند. حالا نوبت شماست که دست به کار شوید.",
+        "en": "In the previous articles, you learned the basics and prompt engineering. Now it's time to transform from a regular user into a professional expert. This article shows you the path to monetization, tool selection, and continuous learning... So far you've learned the basics of AI and the art of prompt engineering. But knowing these concepts alone is not enough. Today's world needs people who can not only 'talk' to AI, but also use it to create value, solve complex problems, and even earn income . In this article, we step onto the path of becoming a professional and learn how to transform from a regular user into an expert. Step one: choose the right tool. Today's AI tool landscape is so vast that the right choice is half the battle. Each tool is designed for a specific job: ChatGPT for text generation and coding, Claude for long‑document analysis, Gemini for multimodal processing, and Midjourney / DALL‑E for professional image creation. Step two: professional content creation. An expert uses AI to design a content strategy, not just to write text. They employ AI throughout the entire process: ideation, research, drafting, editing, and SEO optimization. Step three: AI in business. Automating tasks, data analysis, and improving customer experience – all are possible with AI. AI tools can handle data entry, invoice processing, and even sales management. Step four: coding with AI. Generating code, debugging, documentation, and learning new programming concepts with AI multiplies productivity. Python is recognized as the official language of the AI world. Step five: professional learning path. Recommended roadmap: programming fundamentals (Python), mathematics & statistics, machine learning, deep learning, NLP & computer vision, and hands‑on projects. Step six: monetization. Freelancing, developing AI tools, business consulting, teaching, and visual content production are some of the income opportunities. AI won't replace you; but someone who uses AI will replace someone who doesn't. Now it's your turn to take action."
+      },
+      "url": "https://techaneh.ir/fa/articles/3-from-user-to-expert-the-professional-path-with-ai/",
+      "alternateUrl": "https://techaneh.ir/en/articles/3-from-user-to-expert-the-professional-path-with-ai/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-4",
+      "type": "article",
+      "category": "Programming",
+      "title": {
+        "fa": "پایتون؛ زبانی برای همه، ابزاری برای هر کاری",
+        "en": "Python: A Language for Everyone, a Tool for Everything"
+      },
+      "text": {
+        "fa": "پایتون محبوب‌ترین زبان برنامه‌نویسی جهان است. در این مقاله با تاریخچه، ویژگی‌ها، کاربردها و بازار کار پایتون آشنا می‌شوید و می‌فهمید چرا باید آن را یاد بگیرید... تصور کنید زبانی وجود داشته باشد که هم‌زمان برای یک دانش‌آموز تازه‌کار و یک مهندس نرم‌افزار باتجربه جذاب باشد. زبانی که بتوانید با آن یک بازی ساده بسازید، یک وب‌سایت حرفه‌ای طراحی کنید، داده‌های میلیونی را تحلیل کنید، و حتی به ماشین‌ها یاد دهید که فکر کنند! چنین زبانی وجود دارد و اسمش پایتون است. پایتون یک زبان برنامه‌نویسی شیءگرا، متن‌باز، تفسیری، سطح‌بالا و همه‌منظوره است. سطح‌بالا یعنی جزئیات سخت‌افزاری را پنهان می‌کند؛ تفسیری یعنی خط‌به‌خط اجرا می‌شود؛ متن‌باز یعنی کد منبع آن در دسترس همه است. پایتون در سال ۱۹۹۱ توسط خیدو فان روسوم ساخته شد و نام آن از برنامه‌ی تلویزیونی «مونتی پایتون» گرفته شده است. امروز به یکی از قدرتمندترین زبان‌های دنیا تبدیل شده است. دلایل محبوبیت پایتون: سینتکس شفاف و خوانا یادگیری آسان همه‌کاره بودن اکوسیستم غنی از کتابخانه‌ها (NumPy، Pandas، TensorFlow و ...) پشتیبانی از چندالگوی برنامه‌نویسی جامعه‌ی بزرگ و مقیاس‌پذیری کاربردهای اصلی: توسعه‌ی وب (Django، Flask)، علم داده (NumPy، Pandas، Matplotlib)، هوش مصنوعی (TensorFlow، PyTorch)، اسکریپت‌نویسی و خودکارسازی، توسعه‌ی بازی (Pygame)، شبکه و امنیت، و برنامه‌نویسی علمی. بازار کار پایتون بسیار داغ است. مشاغلی مانند توسعه‌دهنده‌ی وب، تحلیل‌گر داده، دانشمند داده، مهندس یادگیری ماشین، و برنامه‌نویس هوش مصنوعی با حقوق‌های بالا در انتظار شما هستند. پایتون فقط یک زبان نیست؛ یک مهارت جهانی است.",
+        "en": "Python is the world's most popular programming language. In this article, you'll learn about its history, features, applications, and job market – and why you should learn it... Imagine a language that appeals to both a novice student and an experienced software engineer. A language that lets you build a simple game, design a professional website, analyze millions of data points, and even teach machines to think! Such a language exists – it's Python . Python is an object‑oriented, open‑source, interpreted, high‑level, general‑purpose programming language. High‑level means hardware details are hidden; interpreted means it runs line‑by‑line; open‑source means its source code is publicly available. Created in 1991 by Guido van Rossum , its name comes from the TV show 'Monty Python'. Today it has become one of the world's most powerful languages. Reasons for its popularity: Clean and readable syntax Easy to learn Versatile Rich ecosystem of libraries (NumPy, Pandas, TensorFlow, etc.) Support for multiple programming paradigms Huge community and scalability Main applications: web development (Django, Flask), data science (NumPy, Pandas, Matplotlib), artificial intelligence (TensorFlow, PyTorch), scripting & automation, game development (Pygame), networking & security, and scientific computing. The job market for Python is booming. Roles like web developer, data analyst, data scientist, machine learning engineer, and AI developer command high salaries. Python isn't just a language; it's a global skill ."
+      },
+      "url": "https://techaneh.ir/fa/articles/4-python-a-language-for-everyone-a-tool-for-everything/",
+      "alternateUrl": "https://techaneh.ir/en/articles/4-python-a-language-for-everyone-a-tool-for-everything/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-5",
+      "type": "article",
+      "category": "Programming",
+      "title": {
+        "fa": "پیش از شروع؛ سفری به قلبِ آماده‌سازی برای برنامه‌نویسی",
+        "en": "Before You Start: A Journey into Preparation for Programming"
+      },
+      "text": {
+        "fa": "قبل از نوشتن اولین خط کد، باید محیط خود را آماده کنید. این مقاله شما را گام‌به‌گام برای نصب پایتون، انتخاب IDE، نوشتن اولین برنامه و آشنایی با ابزارهای ضروری راهنمایی می‌کند... در مقاله‌ی قبل با پایتون آشنا شدیم. حالا وقت آن رسیده که دست به کار شویم. برای شروع برنامه‌نویسی، پیش‌نیازهای ساده‌ای لازم است: یک کامپیوتر (ویندوز، مک یا لینوکس)، اتصال اینترنت، و از همه مهم‌تر، ذهنیت کنجکاو و صبور . همچنین آشنایی مقدماتی با انگلیسی کمک می‌کند. نصب پایتون بسیار ساده است. به python.org بروید، آخرین نسخه را دانلود کنید. در ویندوز، حتماً گزینه « Add Python to PATH » را تیک بزنید. پس از نصب، با تایپ python --version در خط فرمان، از صحت نصب مطمئن شوید. یک محیط برنامه‌نویسی (IDE) خوب انتخاب کنید. VS Code (رایگان و قدرتمند) با افزونه‌ی Python، یا PyCharm (نسخه Community رایگان)، یا Jupyter Notebook (برای تحلیل داده). حتی IDLE ساده هم برای شروع کافی است. اولین برنامه: Hello, World! در VS Code یک فایل با پسوند .py بسازید و بنویسید: print(\"Hello, World!\") و اجرا کنید. تبریک! شما اولین برنامه‌ی خود را نوشتید. نکات کلیدی برای شروع: خودتان کد را تایپ کنید، خطاها را دوست داشته باشید (آنها معلم شما هستند)، از یک منبع معتبر پیروی کنید، تمرین کنید، با دیگران یاد بگیرید، و پروژه‌های کوچک بسازید. با خط فرمان آشنا شوید (cd، dir، ls). ابزار pip برای نصب کتابخانه‌ها ( pip install نام_کتابخانه ) را یاد بگیرید. از اشتباهات رایج مانند فراموشی کولون (:) یا فاصله‌گذاری (Indentation) نترسید.",
+        "en": "Before writing your first line of code, you must set up your environment. This article walks you step‑by‑step through installing Python, choosing an IDE, writing your first program, and learning essential tools... In the previous article, we got acquainted with Python. Now it's time to get our hands dirty. Starting programming requires simple prerequisites: a computer (Windows, Mac, or Linux), internet, and most importantly, a curious and patient mindset . Basic English knowledge is helpful. Installing Python is straightforward. Go to python.org, download the latest version. On Windows, make sure to check ' Add Python to PATH '. After installation, verify by typing python --version in the command line. Choose a good IDE . VS Code (free and powerful) with the Python extension, PyCharm (Community Edition is free), or Jupyter Notebook (for data analysis). Even the simple IDLE is enough to start. Your first program: Hello, World! In VS Code, create a file with .py extension and write: print(\"Hello, World!\") and run it. Congratulations! You've written your first program. Key tips: type the code yourself, love errors (they're your teachers), follow a reliable source, practise, learn with others, and build small projects. Get to know the command line (cd, dir, ls). Learn pip for installing libraries ( pip install library_name ). Don't fear common mistakes like missing colon (:) or indentation errors."
+      },
+      "url": "https://techaneh.ir/fa/articles/5-before-you-start-a-journey-into-preparation-for-programming/",
+      "alternateUrl": "https://techaneh.ir/en/articles/5-before-you-start-a-journey-into-preparation-for-programming/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-6",
+      "type": "article",
+      "category": "Programming",
+      "title": {
+        "fa": "قدم‌هایِ اول؛ مبانیِ برنامه‌نویسی با پایتون",
+        "en": "First Steps: Python Programming Fundamentals"
+      },
+      "text": {
+        "fa": "با متغیرها، انواع داده، عملگرها، شرط‌ها، حلقه‌ها و توابع در پایتون آشنا شوید. این مقاله پایه‌ای‌ترین مفاهیم برنامه‌نویسی را با مثال‌های ساده و کاربردی توضیح می‌دهد... در دو مقاله‌ی قبل، با پایتون و محیط آن آشنا شدیم. حالا وارد قلب برنامه‌نویسی می‌شویم: متغیرها، انواع داده، عملگرها، شرط‌ها، حلقه‌ها و توابع . متغیرها محلی برای ذخیره‌ی داده‌ها هستند. تعریف متغیر در پایتون بسیار ساده است: نام = \"علی\" , سن = 25 . قوانین نام‌گذاری: با حرف یا زیرخط شروع شود، شامل حروف و اعداد باشد، از کلمات کلیدی استفاده نشود. انواع داده در پایتون عبارتند از: اعداد صحیح (int)، اعشاری (float)، رشته‌ها (str)، بولین (bool)، لیست‌ها (list)، تاپل‌ها (tuple)، و دیکشنری‌ها (dict). برای تشخیص نوع از تابع type() استفاده کنید. عملگرها: ریاضی: + - * / // % ** مقایسه‌ای: == != > = منطقی: and or not ورودی و خروجی: print() برای نمایش و input() برای دریافت ورودی از کاربر. f‑stringها خروجی‌های زیبا می‌سازند. ساختارهای شرطی: if , elif , else برای تصمیم‌گیری. حلقه‌ها: for برای پیمایش مجموعه‌ها (با range برای تکرار تعداد مشخص) و while برای اجرا تا زمانی که شرط برقرار است. توابع با def تعریف می‌شوند، می‌توانند ورودی بگیرند (پارامتر) و خروجی بدهند ( return ). پارامترهای پیش‌فرض نیز پشتیبانی می‌شوند. یک پروژه‌ی عملی: ماشین‌حساب ساده که دو عدد و عملگر را از کاربر می‌گیرد و نتیجه را محاسبه می‌کند. این مفاهیم، الفبای پایتون هستند.",
+        "en": "Learn about variables, data types, operators, conditionals, loops, and functions in Python. This article explains the most fundamental programming concepts with simple, practical examples... In the previous two articles, we got to know Python and its environment. Now we dive into the heart of programming: variables, data types, operators, conditionals, loops, and functions . Variables are storage locations for data. Defining a variable in Python is simple: name = \"Ali\" , age = 25 . Naming rules: start with a letter or underscore, contain letters and numbers, avoid keywords. Data types in Python include: integers (int), floats (float), strings (str), booleans (bool), lists (list), tuples (tuple), and dictionaries (dict). Use type() to check the type. Operators: Arithmetic: + - * / // % ** Comparison: == != > = Logical: and or not Input/Output: print() for display, input() for user input. f‑strings produce beautiful output. Conditionals: if , elif , else for decision making. Loops: for to iterate over collections (with range for a specific count), while to run as long as a condition is true. Functions are defined with def , can take input (parameters) and return output ( return ). Default parameters are supported. A practical project: a simple calculator that takes two numbers and an operator from the user and computes the result. These concepts are the ABCs of Python."
+      },
+      "url": "https://techaneh.ir/fa/articles/6-first-steps-python-programming-fundamentals/",
+      "alternateUrl": "https://techaneh.ir/en/articles/6-first-steps-python-programming-fundamentals/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-7",
+      "type": "article",
+      "category": "Programming",
+      "title": {
+        "fa": "گام دوم؛ شیءگرایی، مدیریت خطا و قدرت‌های پنهان",
+        "en": "Step Two: Object‑Orientation, Error Handling, and Hidden Powers"
+      },
+      "text": {
+        "fa": "از مفاهیم پایه فراتر بروید: برنامه‌نویسی شیءگرا با کلاس‌ها و وراثت، مدیریت خطا با try/except، کار با فایل‌ها و ابزارهای پیشرفته‌ای مانند لیست‌فشرده و لامبدا را یاد بگیرید... اگر بخواهیم برنامه‌های واقعی و بزرگ بنویسیم، دیگر نمی‌توانیم همه چیز را با توابع ساده مدیریت کنیم. اینجاست که برنامه‌نویسی شیءگرا (OOP) وارد می‌شود. کلاس‌ها مانند قالب عمل می‌کنند و اشیاء نمونه‌های واقعی آن قالب هستند. یک کلاس ساده با class تعریف می‌شود. متد __init__ سازنده است و self به خود شیء اشاره می‌کند. ویژگی‌ها و متدها (توابع داخل کلاس) رفتار شیء را تعریف می‌کنند. وراثت: کلاس‌ها می‌توانند از یکدیگر ارث‌ببرند و ویژگی‌ها و متدها را بدون دوباره‌نویسی به ارث ببرند. با super() می‌توان سازنده‌ی کلاس پدر را فراخوانی کرد. متدها را می‌توان بازنویسی (Override) کرد. کپسوله‌سازی: با اضافه کردن دو زیرخط ( __ ) در ابتدای نام متغیر، آن را خصوصی می‌کنیم و دسترسی مستقیم را محدود می‌کنیم. مدیریت خطا: با try/except می‌توانیم جلوی کرش برنامه را بگیریم. except برای انواع خاص خطا (ValueError، ZeroDivisionError) به کار می‌رود. finally همیشه اجرا می‌شود. با raise می‌توانیم خطای سفارشی پرتاب کنیم. کار با فایل‌ها: با open() و حالت‌های r ، w ، a فایل‌ها را باز می‌کنیم. with به طور خودکار فایل را می‌بندد. کتابخانه‌ی csv برای کار با داده‌های جدولی بسیار مفید است. ابزارهای پیشرفته: لیست‌فشرده (List Comprehension) کدنویسی را در یک خط انجام می‌دهد: [x**2 for x in range(10)] . توابع لامبدا (lambda) توابع بی‌نام کوچک هستند. map و filter روی لیست‌ها اعمال می‌شوند. دیکشنری‌فشرده نیز مشابه لیست‌فشرده است. پروژه‌ی عملی: دفترچه تلفن که اطلاعات را در فایل JSON ذخیره و بازیابی می‌کند، با کلاس‌ها و مدیریت خطا.",
+        "en": "Go beyond the basics: object‑oriented programming with classes and inheritance, error handling with try/except, file handling, and advanced tools like list comprehensions and lambdas... To build real, large programs, we can't manage everything with simple functions. That's where Object‑Oriented Programming (OOP) comes in. Classes are like blueprints, and objects are real instances of those blueprints. A simple class is defined with class . The __init__ method is the constructor, and self refers to the instance. Attributes and methods define the object's behaviour. Inheritance: classes can inherit from each other, reusing attributes and methods without rewriting. super() calls the parent constructor. Methods can be overridden. Encapsulation: adding double underscores ( __ ) before a variable name makes it private, restricting direct access. Error Handling: try/except prevents crashes. except catches specific errors (ValueError, ZeroDivisionError). finally always runs. raise throws custom errors. File Handling: open() with modes r , w , a . with automatically closes the file. The csv library is great for tabular data. Advanced Tools: list comprehension condenses loops into one line: [x**2 for x in range(10)] . Lambda functions are small anonymous functions. map and filter apply functions to lists. Dictionary comprehensions work similarly. Practical project: a phonebook that saves and retrieves data in a JSON file, using classes and error handling."
+      },
+      "url": "https://techaneh.ir/fa/articles/7-step-two-object-orientation-error-handling-and-hidden-powers/",
+      "alternateUrl": "https://techaneh.ir/en/articles/7-step-two-object-orientation-error-handling-and-hidden-powers/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-8",
+      "type": "article",
+      "category": "Programming",
+      "title": {
+        "fa": "جادوی پیشرفته؛ دکوراتورها، مولدها و حرفه‌ای‌ترین ابزارها",
+        "en": "Advanced Magic: Decorators, Generators, and Professional Tools"
+      },
+      "text": {
+        "fa": "با دکوراتورها قدرت توابع را افزایش دهید، با مولدها حافظه را مدیریت کنید، با APIها با دنیای خارج ارتباط برقرار کنید، و با محیط‌های مجازی و SQLite پروژه‌های حرفه‌ای بسازید... این مقاله، نقطه‌ی عطفی در مسیر یادگیری شماست. در اینجا ابزارهایی را می‌آموزید که شما را از یک برنامه‌نویس معمولی به یک مهندس نرم‌افزار حرفه‌ای تبدیل می‌کند. دکوراتورها: توابعی که توابع دیگر را می‌گیرند و با افزودن قابلیت، آنها را برمی‌گردانند. با @ بالای تابع استفاده می‌شوند. مثال: زمان‌سنجی اجرا با time.time() ، یا ثبت گزارش. دکوراتورهای آماده مانند @staticmethod ، @classmethod و @property در کلاس‌ها. مولدها (Generators): با کلمه‌ی کلیدی yield ، یک تابع می‌تواند اجرا را مکث کند و بعداً ادامه دهد. این کار حافظه را به شدت بهینه می‌کند. برای خواندن فایل‌های بزرگ یا تولید دنباله‌های بی‌نهایت عالی هستند. کار با APIها: کتابخانه‌ی requests به شما امکان می‌دهد با سرویس‌های وب ارتباط برقرار کنید. داده‌ها را دریافت (GET)، ارسال (POST)، و پردازش کنید. همیشه پاسخ را بررسی کنید ( raise_for_status() ). محیط‌های مجازی (venv): هر پروژه را در یک محیط ایزوله نگه دارید. با python -m venv myenv بسازید، فعال کنید (Scripts\\activate یا source bin/activate)، کتابخانه‌ها را با pip نصب کنید، و با freeze نیازمندی‌ها را ذخیره کنید. پایگاه داده SQLite: به صورت توکار در پایتون وجود دارد. جداول بسازید، داده درج کنید، جستجو کنید و commit کنید. برای پروژه‌های کوچک و متوسط عالی است. پروژه‌ی عملی: یک برنامه‌ی آب‌وهوا که از API داده می‌گیرد و در SQLite ذخیره می‌کند.",
+        "en": "Enhance function power with decorators, manage memory with generators, communicate with the outside world via APIs, and build professional projects with virtual environments and SQLite... This article is a turning point in your learning journey. Here you'll acquire tools that transform you from an ordinary programmer into a professional software engineer . Decorators: functions that take other functions and return an enhanced version. Used with @ above a function. Example: timing execution with time.time() , or logging. Built‑in decorators like @staticmethod , @classmethod , and @property . Generators: using the yield keyword, a function can pause and resume later, drastically optimizing memory. Perfect for reading huge files or generating infinite sequences. Working with APIs: the requests library lets you communicate with web services. Retrieve (GET), send (POST), and process data. Always check the response ( raise_for_status() ). Virtual Environments (venv): keep each project isolated. Create with python -m venv myenv , activate (Scripts\\activate or source bin/activate), install libraries with pip , and freeze requirements. SQLite Database: built into Python. Create tables, insert data, query, and commit. Excellent for small to medium projects. Practical project: a weather app that fetches data from an API and stores it in SQLite."
+      },
+      "url": "https://techaneh.ir/fa/articles/8-advanced-magic-decorators-generators-and-professional-tools/",
+      "alternateUrl": "https://techaneh.ir/en/articles/8-advanced-magic-decorators-generators-and-professional-tools/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-9",
+      "type": "article",
+      "category": "Programming",
+      "title": {
+        "fa": "اوج حرفه‌ای‌گری؛ هم‌روندی، کتابخانه‌های علمی و مسیر بی‌نهایت",
+        "en": "Professional Peak: Concurrency, Scientific Libraries, and the Infinite Path"
+      },
+      "text": {
+        "fa": "در آخرین مقاله‌ی پایتون، با چندنخی (Threading)، پردازش موازی، NumPy و Pandas آشنا شوید. سپس یک نقشه‌ی راه برای ادامه‌ی مسیر حرفه‌ای خود دریافت کنید... به آخرین مقاله‌ی مجموعه‌ی پایتون رسیده‌ایم. در اینجا مفاهیمی را یاد می‌گیریم که شما را به یک مهندس نرم‌افزار یا دانشمند داده تبدیل می‌کند. هم‌روندی (Concurrency): برای کارهای I/O‑محور (دانلود، درخواست وب)، از threading استفاده کنید تا چند کار هم‌زمان شروع شوند. به دلیل GIL، threading برای کارهای CPU‑سنگین مناسب نیست. برای آن کارها از multiprocessing با Pool استفاده کنید که از همه‌ی هسته‌های CPU بهره می‌برد. کتابخانه‌های علمی: NumPy آرایه‌های ndarray را فراهم می‌کند که عملیات ریاضی را بسیار سریع‌تر از لیست‌های معمولی انجام می‌دهند. Pandas با DataFrame، کار با داده‌های جدولی را مانند اکسل پیشرفته آسان می‌کند (فیلتر، گروه‌بندی، خواندن CSV). الگوهای طراحی: الگوهایی مانند Singleton (تضمین وجود فقط یک نمونه از کلاس) راه‌حل‌های اثبات‌شده‌ای برای مسائل تکراری هستند. وب‌اپ ساده با Flask: یک میکروفریم‌ورک که با چند خط کد یک سرور وب راه‌اندازی می‌کند و می‌توانید مسیرهای مختلف تعریف کنید. نقشه‌ی راه آینده: اگر به توسعه‌ی وب علاقه دارید، جنگو (Django) و REST API را یاد بگیرید. اگر علم داده و هوش مصنوعی را دنبال می‌کنید، بر Pandas و NumPy مسلط شوید، سپس scikit‑learn، TensorFlow و PyTorch را بیاموزید. پایتون فقط یک وسیله است؛ هدف حل مسائل دنیای واقعی است. حالا بروید و دنیا را تغییر دهید.",
+        "en": "In the final Python article, learn about threading, multiprocessing, NumPy, and Pandas. Then get a roadmap for your continued professional journey... We've reached the final article of the Python series. Here we learn concepts that turn you into a software engineer or data scientist . Concurrency: for I/O‑bound tasks (downloads, web requests), use threading to start multiple tasks simultaneously. Due to the GIL, threading isn't great for CPU‑heavy work; use multiprocessing with Pool to leverage all CPU cores. Scientific Libraries: NumPy provides ndarray objects that perform mathematical operations much faster than regular lists. Pandas , with DataFrames, makes working with tabular data as easy as advanced Excel (filtering, grouping, reading CSV). Design Patterns: patterns like Singleton (ensuring only one instance of a class) are proven solutions for recurring problems. Simple Web App with Flask: a micro‑framework that sets up a web server in a few lines, allowing you to define various routes. Future Roadmap: If you're into web development , learn Django and REST APIs. If you're pursuing data science and AI , master Pandas and NumPy, then learn scikit‑learn, TensorFlow, and PyTorch. Python is just a tool; the goal is solving real‑world problems. Now go and change the world."
+      },
+      "url": "https://techaneh.ir/fa/articles/9-professional-peak-concurrency-scientific-libraries-and-the-infinite-path/",
+      "alternateUrl": "https://techaneh.ir/en/articles/9-professional-peak-concurrency-scientific-libraries-and-the-infinite-path/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-10",
+      "type": "article",
+      "category": "Phone",
+      "title": {
+        "fa": "آیفون ۱۸ پرو مکس؛ تاج‌گذاری یک امپراتور",
+        "en": "iPhone 18 Pro Max: Coronation of an Emperor"
+      },
+      "text": {
+        "fa": "آیفون ۱۸ پرو مکس با تراشه‌ی ۲ نانومتری A20 Pro، دوربین دیافراگم متغیر و Dynamic Island کوچک‌تر، بزرگ‌ترین جهش تاریخ آیفون را رقم می‌زند... هر ساله در پاییز، دنیای تکنولوژی نفس‌هایش را حبس می‌کند و منتظر رونمایی اپل می‌ماند. اما سال ۲۰۲۶، قرار است متفاوت باشد. آیفون ۱۸ پرو مکس نه فقط یک گوشی، بلکه یک انقلاب را به نمایش می‌گذارد. اپل با این پرچمدار، برخی از بنیادی‌ترین تغییرات تاریخ آیفون را رقم می‌زند؛ تغییراتی که سال‌ها طرفداران اپل آرزویش را داشتند. زمان رونمایی: طبق reports، سپتامبر ۲۰۲۶ (شهریور تا مهر ۱۴۰۵) شاهد معرفی خانواده آیفون ۱۸ خواهیم بود. نکته جالب اینجاست که اپل مدل‌های پرو و پرو مکس را در پاییز و مدل‌های استاندارد را در بهار ۲۰۲۷ عرضه می‌کند. طراحی: آیفون ۱۸ پرو مکس سنگین‌ترین آیفون تاریخ خواهد بود. اپل برای جای دادن باتری بزرگ‌تر و سخت‌افزار پیشرفته‌تر، ضخامت و وزن گوشی را افزایش داده است. قاب تیتانیومی حفظ شده، اما شیشه پشتی با طراحی نیمه‌شفاف جدیدی همراه خواهد شد. رنگ‌های جدید شامل آبی روشن، خاکستری تیره، نقره‌ای و رنگ خاص گیلاس تیره (Dark Cherry) هستند. ماژول دوربین نیز ضخیم‌تر و بزرگ‌تر از نسل قبل طراحی شده است. نمایشگر: یک صفحه‌نمایش ۶٫۹ اینچی LTPO+ OLED با نرخ نوسازی ۱۲۰ هرتز ProMotion. اما بزرگ‌ترین خبر، کوچک‌تر شدن جزیره پویا (Dynamic Island) تا ۳۵ درصد است. حتی برخی منابع معتقدند سنسورهای Face ID برای اولین بار به زیر صفحه‌نمایش منتقل می‌شوند. تراشه: قلب تپنده این گوشی، A20 Pro ، اولین پردازنده ۲ نانومتری اپل است که توسط TSMC ساخته می‌شود. این تراشه حدود ۱۵٪ سریع‌تر و ۳۰٪ کم‌مصرف‌تر از نسل قبل است. رم ۱۲ تا ۱۶ گیگابایت و حافظه داخلی از ۲۵۶ گیگابایت به بالا در نظر گرفته شده است. دوربین: سیستم دوربین سه‌گانه ۴۸ مگاپیکسلی با لنز دیافراگم متغیر در دوربین اصلی. این یعنی دوربین می‌تواند با توجه به نور محیط، میزان نور ورودی را تنظیم کند – دیافراگم باز برای شب و دیافراگم بسته برای روز. دوربین تله‌فوتو نیز دیافراگم بازتری دریافت می‌کند و دوربین سلفی از ۱۲ به ۲۴ مگاپیکسل ارتقا یافته است. ویژگی آیفون ۱۸ پرو مکس آیفون ۱۷ پرو مکس تراشه A20 Pro (2nm) A19 Pro (3nm) نمایشگر 6.9″ LTPO+ OLED 6.9″ LTPO OLED دوربین اصلی 48MP متغیر 48MP ثابت باتری 5100-5200mAh 5088mAh باتری و شارژ: ظرفیت باتری به ۵۱۰۰ تا ۵۲۰۰ میلی‌آمپر ساعت افزایش یافته و شارژ سیمی به ۴۰ وات ارتقا پیدا کرده است. با بهینه‌سازی‌های تراشه ۲ نانومتری، عمر باتری تفاوت محسوسی خواهد داشت. نرم‌افزار: iOS 27 با Siri کاملاً متحول‌شده و قابلیت‌های هوش مصنوعی عمیق. قیمت پایه حدود ۱۳۹۹ دلار – در بازار ایران بیش از ۴۰۰ میلیون تومان.",
+        "en": "The iPhone 18 Pro Max with its 2nm A20 Pro chip, variable‑aperture camera, and smaller Dynamic Island marks the biggest leap in iPhone history... Every autumn, the tech world holds its breath for Apple's unveiling. But 2026 will be different. The iPhone 18 Pro Max showcases not just a phone, but a revolution. Apple is making some of the most fundamental changes in iPhone history – changes fans have dreamed of for years. Launch: According to reports, September 2026 will see the introduction of the iPhone 18 family. Interestingly, Apple will release the Pro and Pro Max models in autumn, while standard models will be pushed to spring 2027. Design: The iPhone 18 Pro Max will be the heaviest iPhone ever . Apple has increased thickness and weight to accommodate a larger battery and advanced hardware. The titanium frame remains, but the back glass features a new frosted design. New colours include light blue, dark grey, silver , and a special Dark Cherry . The camera bump is noticeably thicker and larger. Display: A 6.9‑inch LTPO+ OLED with 120Hz ProMotion. But the biggest news is the 35% smaller Dynamic Island . Some sources even claim Face ID sensors will move under the display for the first time. Chip: The heart of this phone, the A20 Pro , is Apple's first 2‑nanometer processor built by TSMC. It's about 15% faster and 30% more efficient than the previous generation. RAM is 12‑16GB and storage starts at 256GB. Camera: A triple 48MP camera system with a variable aperture lens on the main sensor. This means the camera can adjust light intake based on ambient conditions – wide open for night, narrow for day. The telephoto lens also gets a wider aperture, and the selfie camera jumps from 12MP to 24MP . Feature iPhone 18 Pro Max iPhone 17 Pro Max Chip A20 Pro (2nm) A19 Pro (3nm) Display 6.9″ LTPO+ OLED 6.9″ LTPO OLED Main Camera 48MP variable 48MP fixed Battery 5100-5200mAh 5088mAh Battery & Charging: Battery capacity increases to 5100‑5200mAh and wired charging jumps to 40W . With 2nm chip optimizations, battery life will see a noticeable improvement. Software: iOS 27 with a completely revamped Siri and deep AI capabilities. Base price around $1399 – in Iran over 400 million Toman."
+      },
+      "url": "https://techaneh.ir/fa/articles/10-iphone-18-pro-max-coronation-of-an-emperor/",
+      "alternateUrl": "https://techaneh.ir/en/articles/10-iphone-18-pro-max-coronation-of-an-emperor/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-11",
+      "type": "article",
+      "category": "Phone",
+      "title": {
+        "fa": "گلکسی S26 اولترا؛ شمشیر دولبه‌ی سامسونگ",
+        "en": "Galaxy S26 Ultra: Samsung's Double‑Edged Sword"
+      },
+      "text": {
+        "fa": "گلکسی S26 اولترا با نمایشگر Privacy Display، تراشه‌ی اسنپدراگون ۸ الیت نسل ۵ و دوربین ۲۰۰ مگاپیکسلی با دیافراگم f/1.4، یک پرچمدار تمام‌عیار است... اگر اپل را امپراتوریِ محتاط و آرام بدانیم، سامسونگ را باید ارتشی خروشان نامید که هر سال با تمام توان وارد میدان می‌شود. گلکسی S26 اولترا در ۲۵ فوریه ۲۰۲۶ رونمایی شد و از مارس ۲۰۲۶ روانه بازارهای جهانی شد. سامسونگ امسال مسیر متفاوتی انتخاب کرده است: به‌جای تغییرات اساسی در سخت‌افزار، تمرکز اصلی را روی نرم‌افزار، هوش مصنوعی و قابلیت‌های خلاقانه گذاشته است. طراحی: با ابعاد ۱۶۳٫۶ در ۷۸٫۱ در ۷٫۹ میلی‌متر و وزن ۲۱۴ گرم، این گوشی یکی از باریک‌ترین و خوش‌دست‌ترین پرچمداران سنگین‌وزن بازار است. ماژول دوربین پشتی بازطراحی شده و گوشه‌ها گردتر شده‌اند. پنل دوربین از شیشه‌ی جدیدی ساخته شده که به‌صورت یکپارچه با بدنه فلزی (Armor Aluminum) ترکیب شده است. محافظت از نمایشگر بر عهده Gorilla Glass Armor 2 است. رنگ‌بندی شامل مشکی، بنفش کبالت، آبی آسمانی و سفید می‌شود. نمایشگر: ۶٫۹ اینچ Dynamic AMOLED 2X با رزولوشن +QHD و نرخ نوسازی تطبیقی ۱ تا ۱۲۰ هرتز. اما برگ برنده سامسونگ، نمایشگر حریم خصوصی (Privacy Display) است که با کنترل نحوه پخش نور در سطح پیکسل، دید جانبی صفحه را محدود می‌کند. تراشه: قلب تپنده این گوشی، اسنپدراگون ۸ الیت نسل ۵ (Snapdragon 8 Elite Gen 5 for Galaxy) است که روی فناوری ۳ نانومتر ساخته شده. این تراشه ۱۹٪ بهبود CPU، ۳۹٪ بهبود NPU و ۲۴٪ بهبود GPU را به همراه دارد. دوربین: سامسونگ همچنان در بخش دوربین حرف اول را می‌زند: دوربین اصلی: ۲۰۰ مگاپیکسل با دیافراگم f/1.4 فوق‌عریض: ۵۰ مگاپیکسل با f/1.9 تله‌فوتو ۱: ۵۰ مگاپیکسل با زوم اپتیکال ۵ برابر تله‌فوتو ۲: ۱۰ مگاپیکسل نکته کلیدی، دیافراگم f/1.4 در دوربین اصلی است که نسبت به f/1.7 نسل قبل، نور بیشتری جذب می‌کند و عکاسی در شب را به سطحی جدید می‌برد. ویژگی گلکسی S26 اولترا گلکسی S25 اولترا تراشه Snapdragon 8 Elite Gen 5 Snapdragon 8 Gen 4 دوربین اصلی 200MP f/1.4 200MP f/1.7 باتری 5000mAh 5000mAh شارژ 60W 45W باتری و شارژ: باتری ۵۰۰۰ میلی‌آمپر ساعتی با شارژ ۶۰ وات (۷۵٪ در ۳۰ دقیقه). نرم‌افزار: One UI 9 با قابلیت‌های Galaxy AI از جمله Now Nudge و Creative Studio . قیمت پایه ۱۳۰۰ دلار – در ایران ۳۴۵ تا ۴۶۰ میلیون تومان.",
+        "en": "The Galaxy S26 Ultra with Privacy Display, Snapdragon 8 Elite Gen 5, and a 200MP f/1.4 camera is a full‑fledged flagship... If Apple is the cautious, quiet empire, Samsung is the roaring army that charges in at full force every year. The Galaxy S26 Ultra was unveiled on February 25, 2026, and hit global markets in March. Samsung has chosen a different path this year: instead of major hardware changes, the focus is on software, AI, and creative features . Design: At 163.6×78.1×7.9mm and 214g, it's one of the thinnest and most ergonomic heavyweight flagships. The rear camera module has been redesigned with rounder corners. The camera panel uses new glass seamlessly integrated with the Armor Aluminum frame. Display protection comes from Gorilla Glass Armor 2 . Colours include black, cobalt violet, sky blue, and white . Display: A 6.9‑inch Dynamic AMOLED 2X with QHD+ resolution and adaptive 1‑120Hz refresh rate. But Samsung's trump card is the Privacy Display , which limits side viewing angles by controlling light emission at the pixel level. Chip: The heart of this phone is the Snapdragon 8 Elite Gen 5 for Galaxy , built on 3nm technology. It delivers a 19% CPU boost, 39% NPU boost, and 24% GPU boost. Camera: Samsung still leads in the camera department: Main: 200MP with f/1.4 aperture Ultrawide: 50MP with f/1.9 Telephoto 1: 50MP with 5x optical zoom Telephoto 2: 10MP The key highlight is the f/1.4 aperture on the main sensor, which captures more light than the previous f/1.7 and takes night photography to a new level. Feature Galaxy S26 Ultra Galaxy S25 Ultra Chip Snapdragon 8 Elite Gen 5 Snapdragon 8 Gen 4 Main Camera 200MP f/1.4 200MP f/1.7 Battery 5000mAh 5000mAh Charging 60W 45W Battery & Charging: 5000mAh battery with 60W charging (75% in 30 min). Software: One UI 9 with Galaxy AI features including Now Nudge and Creative Studio . Base price $1300 – in Iran 345‑460 million Toman."
+      },
+      "url": "https://techaneh.ir/fa/articles/11-galaxy-s26-ultra-samsung-s-double-edged-sword/",
+      "alternateUrl": "https://techaneh.ir/en/articles/11-galaxy-s26-ultra-samsung-s-double-edged-sword/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-12",
+      "type": "article",
+      "category": "Phone",
+      "title": {
+        "fa": "شیائومی ۱۶ اولترا؛ غول‌کشِ بی‌ادعا",
+        "en": "Xiaomi 16 Ultra: The Unassuming Giant Killer"
+      },
+      "text": {
+        "fa": "شیائومی ۱۶ اولترا با باتری ۶۵۰۰-۷۵۰۰ میلی‌آمپرساعت، شارژ ۱۰۰ وات، دوربین ۲۰۰ مگاپیکسلی و قیمت رقابتی، ارزش خرید فوق‌العاده‌ای دارد... سال‌هاست که شیائومی تلاش می‌کند خود را از سایه رقبای بزرگ‌تر خارج کند. شیائومی ۱۶ اولترا ، جدیدترین پرچمدار این شرکت، قرار است در نیمه اول ۲۰۲۶ رونمایی شود. اگر شیائومی ۱۵ اولترا موفق بود، ۱۶ اولترا می‌خواهد افسانه‌ای شود. طراحی: شیک و مدرن با لوگوی لایکا (Leica) روی ماژول دوربین. رنگ‌بندی شامل مشکی و سفید، وزن ۲۳۵ گرم. نمایشگر با حاشیه‌های بسیار باریک، طراحی چشم‌گیری به گوشی بخشیده است. نمایشگر: یک صفحه‌نمایش ۶٫۸۵ اینچی LTPO AMOLED با رزولوشن +۲K، نرخ نوسازی ۱۲۰ هرتز و روشنایی حداکثری ۳۰۰۰ نیت که آن را به یکی از بهترین نمایشگرهای بازار تبدیل می‌کند. تراشه: طبق شایعات، شیائومی ۱۶ اولترا نخستین گوشی دنیا با اسنپدراگون ۸ الیت ۲ خواهد بود. رم ۱۶ گیگابایت و حافظه داخلی ۵۱۲ گیگابایت. دوربین: دوربین اصلی ۲۰۰ مگاپیکسلی با زوم اپتیکال پیوسته (Continuous Optical Zoom). سه دوربین پشتی همگی ۵۰ مگاپیکسلی و دوربین سلفی ۵۰ مگاپیکسل. همکاری با لایکا کیفیت رنگ‌ها و پردازش تصویر را به سطحی حرفه‌ای می‌رساند. ویژگی شیائومی ۱۶ اولترا شیائومی ۱۵ اولترا تراشه Snapdragon 8 Elite 2 Snapdragon 8 Gen 4 باتری 6500-7500mAh 5400mAh شارژ سیمی 100W 90W دوربین اصلی 200MP زوم پیوسته 200MP استاندارد باتری و شارژ: این بخش، میدان داری بی‌چون و چرای شیائومی است. باتری ۶۵۰۰ تا ۷۵۰۰ میلی‌آمپر ساعتی با شارژ سیمی ۱۰۰ وات و شارژ بی‌سیم ۵۰ وات. هیچ رقیبی در این محدوده قیمتی به گرد پایش نمی‌رسد. نرم‌افزار: HyperOS 3.0 بر پایه اندروید ۱۶. قیمت حدود ۹۰۰ تا ۱۰۰۰ دلار – در ایران ۲۵۰ تا ۳۵۰ میلیون تومان.",
+        "en": "The Xiaomi 16 Ultra with a 6500‑7500mAh battery, 100W charging, 200MP camera, and competitive price offers incredible value... For years, Xiaomi has been trying to step out of the shadow of its larger rivals. The Xiaomi 16 Ultra , the company's latest flagship, is set to be unveiled in the first half of 2026. If the 15 Ultra was a success, the 16 Ultra aims to become legendary . Design: Chic and modern with the Leica logo on the camera module. Colours include black and white, weight 235g. The display with ultra‑thin bezels gives the phone a striking look. Display: A 6.85‑inch LTPO AMOLED with 2K+ resolution, 120Hz refresh rate, and a peak brightness of 3000 nits , making it one of the best displays on the market. Chip: According to rumours, the Xiaomi 16 Ultra will be the world's first phone with the Snapdragon 8 Elite 2 . 16GB RAM and 512GB internal storage. Camera: A 200MP main sensor with continuous optical zoom. Three 50MP rear cameras and a 50MP selfie camera. The partnership with Leica brings professional‑level colour and image processing. Feature Xiaomi 16 Ultra Xiaomi 15 Ultra Chip Snapdragon 8 Elite 2 Snapdragon 8 Gen 4 Battery 6500-7500mAh 5400mAh Wired Charging 100W 90W Main Camera 200MP continuous zoom 200MP standard Battery & Charging: This is Xiaomi's undisputed domain. A 6500‑7500mAh battery with 100W wired and 50W wireless charging. No competitor comes close in this price range. Software: HyperOS 3.0 based on Android 16. Price around $900‑1000 – in Iran 250‑350 million Toman."
+      },
+      "url": "https://techaneh.ir/fa/articles/12-xiaomi-16-ultra-the-unassuming-giant-killer/",
+      "alternateUrl": "https://techaneh.ir/en/articles/12-xiaomi-16-ultra-the-unassuming-giant-killer/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-13",
+      "type": "article",
+      "category": "Phone",
+      "title": {
+        "fa": "نبردِ سه‌گانه؛ کدام پرچمدارِ ۲۰۲۶ را بخریم؟",
+        "en": "Triple Battle: Which 2026 Flagship Should You Buy?"
+      },
+      "text": {
+        "fa": "آیفون ۱۸ پرو مکس، گلکسی S26 اولترا و شیائومی ۱۶ اولترا را از هر نظر مقایسه می‌کنیم: تراشه، دوربین، باتری، نمایشگر و قیمت. کدام یک برای شما مناسب‌تر است؟... سه گوشی، سه فلسفه، سه مسیر متفاوت. در یکسو، آیفون ۱۸ پرو مکس با تراشه ۲ نانومتری و اکوسیستم بی‌نظیر اپل. در سوی دیگر، گلکسی S26 اولترا با نمایشگر حریم خصوصی و دوربین ۲۰۰ مگاپیکسلی. و در گوشه دیگر، شیائومی ۱۶ اولترا با باتری غول‌آسا و قیمت وسوسه‌انگیز. کدام یک برای شما مناسب‌تر است؟ بیایید با هم، مو به مو و نقطه به نقطه، این سه غول را با هم مقایسه کنیم. جدول مقایسه مشخصات فنی ویژگی آیفون ۱۸ پرو مکس گلکسی S26 اولترا شیائومی ۱۶ اولترا تراشه A20 Pro (2nm) Snapdragon 8 Elite Gen 5 (3nm) Snapdragon 8 Elite 2 رم 12-16GB 12-16GB 16GB دوربین اصلی 48MP (دیافراگم متغیر) 200MP (f/1.4) 200MP (زوم پیوسته) باتری 5100-5200mAh 5000mAh 6500-7500mAh شارژ 40W 60W 100W قیمت (دلار) ~1399 1300 900-1000 مقایسه بخش‌به‌بخش تراشه و عملکرد: برنده آیفون ۱۸ پرو مکس است. تراشه ۲ نانومتری A20 Pro از نظر فناوری یک نسل از رقبا جلوتر است. اما در استفاده روزمره، اختلاف عملکرد برای اکثر کاربران محسوس نخواهد بود. دوربین: برنده گلکسی S26 اولترا است. ترکیب دوربین ۲۰۰ مگاپیکسلی با دیافراگم f/1.4، تنوع لنزها و کیفیت کلی، سامسونگ را در صدر می‌نشاند. باتری و شارژ: برنده بی‌چون و چرا شیائومی ۱۶ اولترا است. باتری ۶۵۰۰-۷۵۰۰ میلی‌آمپر ساعتی و شارژ ۱۰۰ وات، رقبا را کاملاً پشت سر می‌گذارد. نمایشگر: هر سه در سطح عالی قرار دارند. سامسونگ با Privacy Display یک برگ برنده منحصربه‌فرد دارد، اپل با Dynamic Island کوچک‌تر، و شیائومی با روشنایی ۳۰۰۰ نیت. قیمت: برنده شیائومی ۱۶ اولترا است. با حدود ۴۰۰ دلار اختلاف نسبت به آیفون، ارزش خرید بسیار بالاتری دارد. پیشنهاد نهایی: اگر در اکوسیستم اپل هستید ← آیفون ۱۸ پرو مکس. اگر عکاس حرفه‌ای هستید ← گلکسی S26 اولترا. اگر بهترین ارزش خرید را می‌خواهید ← شیائومی ۱۶ اولترا.",
+        "en": "We compare the iPhone 18 Pro Max, Galaxy S26 Ultra, and Xiaomi 16 Ultra in every aspect: chip, camera, battery, display, and price. Which one suits you best?... Three phones, three philosophies, three different paths. On one side, the iPhone 18 Pro Max with its 2nm chip and Apple's unparalleled ecosystem. On the other, the Galaxy S26 Ultra with its privacy display and 200MP camera. And in the corner, the Xiaomi 16 Ultra with its massive battery and tempting price. Which one is right for you? Let's compare these three giants point by point. Spec Comparison Table Feature iPhone 18 Pro Max Galaxy S26 Ultra Xiaomi 16 Ultra Chip A20 Pro (2nm) Snapdragon 8 Elite Gen 5 (3nm) Snapdragon 8 Elite 2 RAM 12-16GB 12-16GB 16GB Main Camera 48MP (variable aperture) 200MP (f/1.4) 200MP (continuous zoom) Battery 5100-5200mAh 5000mAh 6500-7500mAh Charging 40W 60W 100W Price (USD) ~1399 1300 900-1000 Section-by-Section Comparison Chip & Performance: The iPhone 18 Pro Max wins. The 2nm A20 Pro is a generation ahead of its rivals. However, the performance difference won't be noticeable for most users in daily use. Camera: The Galaxy S26 Ultra wins. The combination of a 200MP sensor with f/1.4 aperture, lens variety, and overall quality puts Samsung on top. Battery & Charging: The Xiaomi 16 Ultra is the undisputed winner. A 6500-7500mAh battery and 100W charging leave competitors far behind. Display: All three are excellent. Samsung has a unique trump card with Privacy Display, Apple with its smaller Dynamic Island, and Xiaomi with 3000 nits brightness. Price: The Xiaomi 16 Ultra wins. With about a $400 difference compared to the iPhone, it offers far better value. Final Recommendation: If you're in the Apple ecosystem → iPhone 18 Pro Max. If you're a professional photographer → Galaxy S26 Ultra. If you want the best value → Xiaomi 16 Ultra."
+      },
+      "url": "https://techaneh.ir/fa/articles/13-triple-battle-which-2026-flagship-should-you-buy/",
+      "alternateUrl": "https://techaneh.ir/en/articles/13-triple-battle-which-2026-flagship-should-you-buy/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-14",
+      "type": "article",
+      "category": "Laptop",
+      "title": {
+        "fa": "مک‌بوک پرو ۲۰۲۶؛ وقتی اپل از M5 تا M7 را یکجا رو می‌کند",
+        "en": "MacBook Pro 2026: When Apple Unveils M5 to M7 All at Once"
+      },
+      "text": {
+        "fa": "اپل در سال ۲۰۲۶ سه نسل تراشه را روانه‌ی بازار می‌کند. با M5 Pro/Max، M6 (۲ نانومتر) و M7 آشنا شوید... سال ۲۰۲۶ برای اپل، سالی کاملاً متفاوت است. این شرکت نه فقط یک لپ‌تاپ، بلکه یک استراتژی جدید را به نمایش گذاشته است. استراتژی‌ای که در آن، اپل برای اولین بار مسیر پردازنده‌های خود را به‌طور بنیادین تغییر می‌دهد. در مارس ۲۰۲۶، اپل از مک‌بوک پروهای مجهز به تراشه‌های M5 Pro و M5 Max رونمایی کرد. اما این فقط آغاز ماجرا بود. چون در نیمه دوم ۲۰۲۶، اولین لپ‌تاپ‌های با تراشه ۲ نانومتری M6 و در نیمه اول ۲۰۲۷، M7 Pro و M7 Max با طراحی کاملاً جدید از راه می‌رسند. نسل اول: M5 Pro و M5 Max (مارس ۲۰۲۶) تراشه‌های M5 Pro و M5 Max با معماری Fusion طراحی شده‌اند که دو قالب سیلیکونی را در یک تراشه ترکیب می‌کند. هر دو تراشه دارای تا ۱۸ هسته CPU (۶ هسته Super Core + ۱۲ هسته عملکردی) هستند. حافظه یکپارچه تا ۱۲۸ گیگابایت در نسخه M5 Max و حافظه داخلی از ۱ ترابایت شروع می‌شود. نمایشگر Liquid Retina XDR با گزینه نانو‌بافت برای کاهش بازتاب نور. پشتیبانی از Wi‑Fi 7 و Thunderbolt 5 . عمر باتری ۲۴ ساعت . قیمت از ۲۴۹۹ دلار برای ۱۴ اینچ و ۳۴۹۹ دلار برای ۱۶ اینچ. نسل دوم: M6 (نیمه دوم ۲۰۲۶) اپل تصمیم جسورانه‌ای گرفته است: تراشه‌های M6 Pro و M6 Max کاملاً کنسل شده‌اند و فقط نسخه استاندارد M6 عرضه می‌شود. این اولین تراشه ۲ نانومتری اپل برای مک است. پهنای باند حافظه از ۱۵۳ به ۲۰۰ گیگابایت بر ثانیه افزایش می‌یابد و GPU بازطراحی‌شده با ۱۲ هسته ارائه می‌شود. M6 ابتدا روی مدل‌های ۱۴ اینچی入门 عرضه خواهد شد. نسل سوم: M7 (نیمه اول ۲۰۲۷) مک‌بوک پرو با طراحی کاملاً بازطراحی‌شده و تراشه‌های M7 Pro و M7 Max از راه می‌رسد. این مدل‌ها جایگزین مستقیم M5 Pro/Max خواهند بود و قرار است پرقدرت‌ترین لپ‌تاپ‌های تاریخ اپل باشند. اگر هم‌اکنون نیاز دارید ← M5 Pro/Max. اگر می‌توانید صبر کنید ← M6. اگر بهترین مطلق را می‌خواهید ← منتظر M7 بمانید.",
+        "en": "Apple will release three generations of chips in 2026. Meet the M5 Pro/Max, M6 (2nm), and M7... 2026 is a completely different year for Apple. The company isn't just showcasing a laptop, but a new strategy – one where Apple fundamentally changes its processor roadmap for the first time. In March 2026, Apple unveiled MacBook Pros with M5 Pro and M5 Max chips. But that was just the beginning. In the second half of 2026, the first 2nm M6 laptops arrive, and in the first half of 2027, M7 Pro and M7 Max with a completely new design. First Generation: M5 Pro & M5 Max (March 2026) The M5 Pro and M5 Max chips are built with Fusion architecture, combining two silicon dies into one chip. Both feature up to 18 CPU cores (6 Super Cores + 12 performance cores). Unified memory reaches up to 128GB on the M5 Max, and internal storage starts at 1TB. The Liquid Retina XDR display offers a nano‑texture option to reduce glare. Support for Wi‑Fi 7 and Thunderbolt 5 . 24‑hour battery life. Pricing starts at $2499 for the 14‑inch and $3499 for the 16‑inch. Second Generation: M6 (H2 2026) Apple has made a bold decision: M6 Pro and M6 Max chips are completely cancelled, and only the standard M6 will be released. This is Apple's first 2nm chip for Mac. Memory bandwidth increases from 153 to 200 GB/s , and a redesigned 12‑core GPU is offered. The M6 will initially launch on entry‑level 14‑inch models. Third Generation: M7 (H1 2027) The MacBook Pro arrives with a completely redesigned chassis and M7 Pro/Max chips. These models will directly replace the M5 Pro/Max and are set to be the most powerful laptops in Apple's history . If you need one now → M5 Pro/Max. If you can wait → M6. If you want the absolute best → wait for M7."
+      },
+      "url": "https://techaneh.ir/fa/articles/14-macbook-pro-2026-when-apple-unveils-m5-to-m7-all-at-once/",
+      "alternateUrl": "https://techaneh.ir/en/articles/14-macbook-pro-2026-when-apple-unveils-m5-to-m7-all-at-once/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-15",
+      "type": "article",
+      "category": "Laptop",
+      "title": {
+        "fa": "MSI Titan 18 HX؛ اژدهایی که آتش می‌بارد",
+        "en": "MSI Titan 18 HX: A Dragon That Breathes Fire"
+      },
+      "text": {
+        "fa": "MSI Titan 18 HX Dragon Edition با RTX 5090 و طراحی خاص ۴۰ سالگی، و Raider 16 Max با ۳۰۰ وات قدرت را بررسی کنید... در دنیای گیمینگ و پردازش‌های سنگین، MSI همیشه نامی آشنا بوده است. اما در سال ۲۰۲۶، این شرکت تایوانی تصمیم گرفته است که نه فقط یک لپ‌تاپ، بلکه یک بیانیه را به بازار عرضه کند. MSI Titan 18 HX Dragon Edition ، پرچمدار ۴۰ سالگی MSI، لپ‌تاپی است که ادعا می‌کند قدرت یک رایانه شخصی رومیزی را در بدنه‌ای قابل‌حمل جای داده است. Titan 18 HX Dragon Edition (ژوئن ۲۰۲۶) این لپ‌تاپ فقط یک دستگاه نیست؛ یک اثر هنری است. بدنه با تکنیک حکاکی فلزی دقیق و فرآیند آندایزینگ تزئین شده است. طراحی آن از صورت‌فلکی « تاج‌نشین (Draco) » الهام گرفته شده است. ویژگی مشخصات پردازنده Intel Core Ultra 9 290HX Plus کارت گرافیک NVIDIA RTX 5090 (24GB GDDR7) نمایشگر 18″ 4K 240Hz Mini LED قیمت 5000-6000 دلار Raider 16 Max (آوریل ۲۰۲۶) اگر Titan 18 HX اژدهای تمام‌عیار است، Raider 16 Max را باید گرگ تنها ی دنیای لپ‌تاپ‌ها نامید. MSI ادعا می‌کند این قدرتمندترین لپ‌تاپ ۱۶ اینچی روی کره زمین است. ویژگی مشخصات توان ترکیبی 300W (CPU + GPU) نمایشگر 2.5K OLED 240Hz سیستم خنک‌کننده Cooler Boost Trinity+ (سه فن، شش لوله حرارتی، پنج دریچه) قیمت 3500-4500 دلار اگر به دنبال بهترین مطلق و یک محصول کلکسیونی هستید ← Titan 18 HX. اگر قدرتمندترین ۱۶ اینچی با قیمت منطقی‌تر می‌خواهید ← Raider 16 Max.",
+        "en": "Check out the MSI Titan 18 HX Dragon Edition with RTX 5090 and 40th‑anniversary design, plus the 300W Raider 16 Max... In the world of gaming and heavy processing, MSI has always been a familiar name. But in 2026, this Taiwanese company has decided to bring not just a laptop, but a statement to the market. The MSI Titan 18 HX Dragon Edition , MSI's 40th‑anniversary flagship, claims to pack desktop PC power into a portable body. Titan 18 HX Dragon Edition (June 2026) This laptop isn't just a device; it's a work of art . The body is decorated with precision metal engraving and anodizing processes. Its design is inspired by the constellation Draco . Feature Specification Processor Intel Core Ultra 9 290HX Plus Graphics NVIDIA RTX 5090 (24GB GDDR7) Display 18″ 4K 240Hz Mini LED Price $5000-6000 Raider 16 Max (April 2026) If the Titan 18 HX is the full‑fledged dragon, the Raider 16 Max should be called the lone wolf of the laptop world. MSI claims this is the most powerful 16‑inch laptop on the planet. Feature Specification Combined Power 300W (CPU + GPU) Display 2.5K OLED 240Hz Cooling System Cooler Boost Trinity+ (three fans, six heat pipes, five vents) Price $3500-4500 If you want the absolute best and a collectible item → Titan 18 HX. If you want the most powerful 16‑inch at a more reasonable price → Raider 16 Max."
+      },
+      "url": "https://techaneh.ir/fa/articles/15-msi-titan-18-hx-a-dragon-that-breathes-fire/",
+      "alternateUrl": "https://techaneh.ir/en/articles/15-msi-titan-18-hx-a-dragon-that-breathes-fire/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-16",
+      "type": "article",
+      "category": "Laptop",
+      "title": {
+        "fa": "ROG Strix SCAR 18؛ شکارچیِ بی‌چون و چرا",
+        "en": "ROG Strix SCAR 18: The Ultimate Predator"
+      },
+      "text": {
+        "fa": "ایسوس با ROG Strix SCAR 18 (۳۲۰ وات، RTX 5090) و Zephyrus Duo (دو نمایشگر OLED) رکوردشکنی کرده است... اگر MSI را اژدها و اپل را امپراتور بدانیم، ایسوس را باید شکارچی بی‌باک نامید. شرکتی که هر سال با نوآوری‌هایش، مرزهای ممکن را جابه‌جا می‌کند. در سال ۲۰۲۶، ایسوس با خانواده ROG Strix SCAR 18 و ROG Zephyrus Duo ، بار دیگر ثابت کرده است که در دنیای لپ‌تاپ‌های گیمینگ، حرف اول را می‌زند. ROG Strix SCAR 18 (2026) این لپ‌تاپ در ۱۵ مه ۲۰۲۶ و در رویداد ROG DAY 2026 در گوانگژو رونمایی شد. قلب تپنده آن، پردازنده Intel Core Ultra 9 290HX Plus و کارت گرافیک NVIDIA GeForce RTX 5090 است. اما عددی که واقعاً نفس‌ها را بند می‌آورد، ۳۲۰ وات توان ترکیبی CPU و GPU است. این یعنی ROG Strix SCAR 18 پرقدرت‌ترین لپ‌تاپ گیمینگ تاریخ ایسوس است و حتی از MSI Raider 16 Max (با ۳۰۰ وات) نیز پیشی می‌گیرد. ویژگی مشخصات پردازنده Intel Core Ultra 9 290HX Plus کارت گرافیک NVIDIA RTX 5090 رم تا ۱۲۸ گیگابایت DDR5-6400 حافظه داخلی تا ۸ ترابایت PCIe Gen5 SSD نمایشگر ۱۸ اینچ 4K Mini LED، ۲۴۰ هرتز، ۱۶۰۰ نیت سیستم خنک‌کننده Glacier Cooling Architecture 4.0 (سه فن، محفظه بخار) قیمت ۴۰۰۰-۵۰۰۰ دلار نمایشگر این لپ‌تاپ با ۱٬۶۰۰ نیت روشنایی ، ۱۰۰٪ پوشش رنگ DCI-P3 و فناوری ELMB برای کاهش محوشدگی حرکت، یکی از بهترین‌های بازار است. همچنین در نسخه Super Edition، نمایشگر ماتریس‌نوری AniMe Vision روی درب لپ‌تاپ قرار دارد که انیمیشن‌ها و لوگوهای سفارشی را نمایش می‌دهد. ROG Zephyrus Duo (2026) اگر SCAR 18 شکارچی قدرت است، Zephyrus Duo را باید نوآور خستگی‌ناپذیر نامید. این لپ‌تاپ، اولین لپ‌تاپ گیمینگ ۱۶ اینچی با دو صفحه‌نمایش OLED در جهان است. مجموع قطر دو صفحه به بیش از ۲۱ اینچ می‌رسد. ویژگی‌های نمایشگرها: زمان پاسخ‌گویی ۰٫۲ میلی‌ثانیه ، نرخ نوسازی ۱۲۰ هرتز، روشنایی ۱۱۰۰ نیت، گواهی VESA DisplayHDR True Black 1000 و دقت رنگ Delta E . یکی از جذاب‌ترین ویژگی‌ها، صفحه‌کلید مغناطیسی جداشدنی با ضخامت ۵٫۱ میلی‌متر و کورس ۱٫۷ میلی‌متر است که از طریق بلوتوث نیز کار می‌کند. اگر به دنبال بیشترین قدرت ممکن و بهترین نمایشگر هستید ← ROG Strix SCAR 18. اگر خلاقیت و نوآوری برایتان اولویت دارد و به دو صفحه‌نمایش نیاز دارید ← ROG Zephyrus Duo.",
+        "en": "ASUS breaks records with the ROG Strix SCAR 18 (320W, RTX 5090) and Zephyrus Duo (dual OLED displays)... If MSI is the dragon and Apple the emperor, ASUS should be called the fearless predator . A company that pushes the boundaries of what's possible every year with its innovations. In 2026, ASUS with the ROG Strix SCAR 18 and ROG Zephyrus Duo families has once again proven it leads the gaming laptop world. ROG Strix SCAR 18 (2026) This laptop was unveiled on May 15, 2026, at the ROG DAY 2026 event in Guangzhou. Its beating heart is the Intel Core Ultra 9 290HX Plus processor and NVIDIA GeForce RTX 5090 graphics. But the number that truly takes your breath away is the 320W combined power of CPU and GPU. This makes the ROG Strix SCAR 18 the most powerful gaming laptop in ASUS history, even surpassing the MSI Raider 16 Max (at 300W). Feature Specification Processor Intel Core Ultra 9 290HX Plus Graphics NVIDIA RTX 5090 RAM Up to 128GB DDR5-6400 Storage Up to 8TB PCIe Gen5 SSD Display 18″ 4K Mini LED, 240Hz, 1600 nits Cooling Glacier Cooling Architecture 4.0 (three fans, vapor chamber) Price $4000-5000 The display, with 1,600 nits brightness , 100% DCI-P3 color gamut, and ELMB technology for motion blur reduction, is one of the best on the market. Additionally, the Super Edition features an AniMe Vision dot‑matrix display on the lid that shows custom animations and logos. ROG Zephyrus Duo (2026) If the SCAR 18 is the power predator, the Zephyrus Duo should be called the tireless innovator . This is the world's first 16‑inch gaming laptop with dual OLED displays . The combined diagonal of both screens exceeds 21 inches. Display features: 0.2ms response time, 120Hz refresh rate, 1100 nits brightness, VESA DisplayHDR True Black 1000 certification, and Delta E color accuracy. One of the most attractive features is the detachable magnetic keyboard at just 5.1mm thick with 1.7mm key travel, which also works via Bluetooth. If you want maximum power and the best display → ROG Strix SCAR 18. If creativity and innovation are your priority and you need dual displays → ROG Zephyrus Duo."
+      },
+      "url": "https://techaneh.ir/fa/articles/16-rog-strix-scar-18-the-ultimate-predator/",
+      "alternateUrl": "https://techaneh.ir/en/articles/16-rog-strix-scar-18-the-ultimate-predator/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-17",
+      "type": "article",
+      "category": "Laptop",
+      "title": {
+        "fa": "نبردِ سه‌گانه؛ کدام لپ‌تاپِ پرچمدارِ ۲۰۲۶ را بخریم؟",
+        "en": "Triple Battle: Which 2026 Flagship Laptop Should You Buy?"
+      },
+      "text": {
+        "fa": "مک‌بوک پرو M5 Max، MSI Titan 18 HX و ROG Strix SCAR 18 را مقایسه می‌کنیم. از عملکرد و نمایشگر تا باتری و قیمت... سه لپ‌تاپ، سه فلسفه، سه مسیر کاملاً متفاوت. در یکسو، مک‌بوک پرو M5 Max با اکوسیستم بی‌نظیر اپل و تعادل بی‌نظیر بین قدرت و مصرف انرژی. در سوی دیگر، MSI Titan 18 HX Dragon Edition با قدرت یک رایانه شخصی در بدنه‌ای هنری. و در گوشه سوم، ROG Strix SCAR 18 با رکوردشکنی ۳۲۰ وات و نمایشگر خیره‌کننده. کدام یک برای شما مناسب‌تر است؟ جدول مقایسه مشخصات فنی ویژگی مک‌بوک پرو M5 Max MSI Titan 18 HX ROG Strix SCAR 18 پردازنده Apple M5 Max Intel Core Ultra 9 Intel Core Ultra 9 کارت گرافیک یکپارچه ۴۰ هسته‌ای RTX 5090 RTX 5090 حداکثر رم ۱۲۸ گیگابایت ۶۴-۱۲۸ گیگابایت ۱۲۸ گیگابایت باتری تا ۲۴ ساعت ۳-۴ ساعت ۳-۴ ساعت وزن ~۲٫۱ کیلوگرم ~۳٫۳ کیلوگرم ~۳٫۳ کیلوگرم قیمت ~۳۵۰۰ دلار ۵۰۰۰-۶۰۰۰ دلار ۴۰۰۰-۵۰۰۰ دلار مقایسه بخش‌به‌بخش عملکرد: ROG Strix SCAR 18 با ۳۲۰ وات توان، پرقدرت‌ترین است. اما مک‌بوک پرو با وجود قدرت کمتر، در کارهای حرفه‌ای مانند ویرایش ویدیو و برنامه‌نویسی، عملکردی قابل‌رقابت دارد. در بازی‌ها اما لپ‌تاپ‌های ویندوزی با RTX 5090 بی‌رقیب هستند. باتری و قابلیت حمل: این بخش میدان داری بی‌چون و چرای مک‌بوک پرو است. با ۲۴ ساعت عمر باتری و وزن ۲٫۱ کیلوگرم، در سیاره‌ای دیگر نسبت به رقبای ۳٫۳ کیلوگرمی با عمر ۳-۴ ساعت قرار دارد. نمایشگر: هر سه عالی هستند. ROG Strix با ۱۶۰۰ نیت روشنایی برتری جزئی دارد. مک‌بوک پرو با فناوری نانو‌بافت در محیط‌های روشن عالی است. MSI Titan با طراحی هنری منحصربه‌فردش می‌درخشد. ارزش خرید: ROG Strix SCAR 18 با توجه به قدرت و قیمت، بهترین ارزش خرید را در میان لپ‌تاپ‌های گیمینگ دارد. مک‌بوک پرو با قیمت ۳۵۰۰ دلار، برای کاربران حرفه‌ای گزینه مناسبی است. MSI Titan به عنوان محصول کلکسیونی، قیمت بالاتری دارد. پیشنهاد نهایی: اگر کاربر حرفه‌ای، برنامه‌نویس یا تولیدکننده محتوا هستید ← مک‌بوک پرو M5 Max. اگر گیمر حرفه‌ای هستید و بهترین نمایشگر را می‌خواهید ← ROG Strix SCAR 18. اگر کلکسیونر هستید و به دنبال یک اثر هنری می‌گردید ← MSI Titan 18 HX Dragon Edition.",
+        "en": "We compare the MacBook Pro M5 Max, MSI Titan 18 HX, and ROG Strix SCAR 18. From performance and display to battery and price... Three laptops, three philosophies, three completely different paths. On one side, the MacBook Pro M5 Max with Apple's unparalleled ecosystem and perfect balance between power and efficiency. On the other, the MSI Titan 18 HX Dragon Edition with desktop PC power in an artistic body. And in the third corner, the ROG Strix SCAR 18 with its record‑breaking 320W and stunning display. Which one is right for you? Spec Comparison Table Feature MacBook Pro M5 Max MSI Titan 18 HX ROG Strix SCAR 18 Processor Apple M5 Max Intel Core Ultra 9 Intel Core Ultra 9 Graphics Integrated 40‑core RTX 5090 RTX 5090 Max RAM 128GB 64‑128GB 128GB Battery Up to 24h 3‑4h 3‑4h Weight ~2.1 kg ~3.3 kg ~3.3 kg Price ~$3500 $5000‑6000 $4000‑5000 Section-by-Section Comparison Performance: The ROG Strix SCAR 18 with 320W is the most powerful. However, the MacBook Pro, despite having less raw power, delivers competitive performance in professional tasks like video editing and coding. For gaming, the Windows laptops with RTX 5090 are unmatched. Battery & Portability: This section is the undisputed domain of the MacBook Pro . With 24‑hour battery life and 2.1 kg weight, it's on a different planet compared to the 3.3 kg rivals with 3‑4 hour battery life. Display: All three are excellent. The ROG Strix has a slight edge with 1600 nits brightness. The MacBook Pro excels in bright environments with its nano‑texture technology. The MSI Titan shines with its unique artistic design. Value: The ROG Strix SCAR 18 offers the best value among gaming laptops considering its power and price. The MacBook Pro at $3500 is a great option for professional users. The MSI Titan, as a collectible item, commands a higher price. Final Recommendation: If you're a professional, developer, or content creator → MacBook Pro M5 Max. If you're a hardcore gamer and want the best display → ROG Strix SCAR 18. If you're a collector looking for a work of art → MSI Titan 18 HX Dragon Edition."
+      },
+      "url": "https://techaneh.ir/fa/articles/17-triple-battle-which-2026-flagship-laptop-should-you-buy/",
+      "alternateUrl": "https://techaneh.ir/en/articles/17-triple-battle-which-2026-flagship-laptop-should-you-buy/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "article-18",
+      "type": "article",
+      "category": "BuyingGuide",
+      "title": {
+        "fa": "راهنمای جامع خرید موبایل ۲۰۲۶ | هر بودجه، بهترین انتخاب",
+        "en": "Complete Mobile Buying Guide 2026 | Best Choice for Every Budget"
+      },
+      "text": {
+        "fa": "از گوشی‌های اقتصادی تا پرچمداران بالای ۳۰۰ میلیون تومان. بهترین انتخاب در هر بازه قیمتی سال ۲۰۲۶ را اینجا پیدا کنید... سال ۲۰۲۶، سالی بی‌نظیر برای بازار موبایل است. از یک سو، افزایش قیمت قطعات باعث شده بسیاری از گوشی‌های جدید با قیمت‌های بالاتری عرضه شوند. از سوی دیگر، پیشرفت‌های خیره‌کننده در تراشه‌ها، دوربین‌ها و فناوری‌های هوش مصنوعی، گوشی‌های ۲۰۲۶ را به سطحی جدید رسانده است. این راهنما، تمام گوشی‌های مهم بازار را بر اساس بودجه دسته‌بندی کرده و مشخصات فنی، نقاط قوت و ضعف هر کدام را بررسی می‌کند. بازه قیمتی زیر ۲۰ میلیون تومان | گوشی‌های اقتصادی در این بودجه، باید روی کاربری روان در کارهای روزمره، باتری بادوام و نمایشگر قابل قبول تمرکز کنید. سامسونگ گلکسی A27 5G: نمایشگر ۶٫۷ اینچ ۱۲۰Hz، پردازنده اسنپدراگون ۶ نسل ۳، رم ۸GB، دوربین اصلی ۵۰MP با OIS، باتری ۵۰۰۰mAh، ضدآب IP64. قیمت: ۱۲-۱۳.۵ میلیون تومان. ردمی نوت ۱۵ پرو پلاس: نمایشگر ۱۲۰Hz AMOLED، دوربین ۱۰۸MP، باتری ۵۵۰۰mAh، شارژ ۴۵W. قیمت: ۱۳-۱۵ میلیون تومان. بازه قیمتی ۲۰ تا ۵۰ میلیون تومان | میان‌رده‌های قدرتمند سامسونگ گلکسی A56 5G: نمایشگر ۶٫۷ اینچ FHD+ Super AMOLED ۱۲۰Hz، پردازنده Exynos 1580، رم ۸-۱۲GB، دوربین اصلی ۵۰MP با OIS، باتری ۵۰۰۰mAh، شارژ ۴۵W، ضدآب IP67، ۶ سال به‌روزرسانی. قیمت: ۲۵-۳۰ میلیون تومان. vivo V60 Lite: نمایشگر ۶٫۷۷ اینچ AMOLED ۱۲۰Hz، پردازنده Dimensity 7360، دوربین اصلی ۵۰MP Sony IMX882، دوربین سلفی ۳۲MP، باتری ۶۵۰۰mAh، شارژ ۹۰W. قیمت: ۲۲-۲۸ میلیون تومان. بازه قیمتی ۵۰ تا ۱۵۰ میلیون تومان | بالارده‌ها و قاتل‌های پرچمدار پوکو F8 Pro: پردازنده اسنپدراگون ۸ الیت، نمایشگر ۶٫۵۹ اینچ AMOLED ۱۲۰Hz، دوربین ۵۰MP، باتری ۶۲۱۰mAh. قیمت: ۵۰-۶۰ میلیون تومان. اپل آیفون ۱۷: نمایشگر ۶٫۳ اینچ ۱۲۰Hz ProMotion (برای اولین بار در آیفون استاندارد)، پردازنده A19، رم ۸GB، حافظه از ۲۵۶GB، دوربین دوگانه ۴۸MP. قیمت: ۱۰۰-۱۲۰ میلیون تومان. بازه قیمتی ۱۵۰ تا ۳۰۰ میلیون تومان | پرچمداران واقعی سامسونگ گلکسی S26 Ultra: نمایشگر ۶٫۹ اینچ Dynamic AMOLED 2X با Privacy Display، پردازنده اسنپدراگون ۸ الیت نسل ۵، دوربین ۲۰۰MP، باتری ۵۰۰۰mAh، شارژ ۶۰W. قیمت: ۲۵۰-۳۰۰ میلیون تومان. vivo X300 Ultra: پردازنده Dimensity 9500 (۳ نانومتر)، دو دوربین ۲۰۰MP، باتری ۶۶۰۰mAh. قیمت: حدود ۲۰۰ میلیون تومان. بازه قیمتی بالای ۳۰۰ میلیون تومان | فراتر از پرچمدار اپل آیفون ۱۸ پرو مکس (پاییز ۲۰۲۶): اولین تراشه ۲ نانومتری A20 Pro، دوربین با دیافراگم متغیر، Dynamic Island کوچک‌تر. قیمت: بیش از ۴۰۰ میلیون تومان. جدول خلاصه بهترین انتخاب در هر بازه قیمتی بازه قیمتی بهترین انتخاب دلیل زیر ۲۰ میلیون سامسونگ گلکسی A27 5G نمایشگر ۱۲۰Hz، پردازنده اسنپدراگون، Galaxy AI ۲۰ تا ۵۰ میلیون سامسونگ گلکسی A56 5G ۶ سال به‌روزرسانی، IP67، دوربین ۵۰MP با OIS ۵۰ تا ۱۵۰ میلیون اپل آیفون ۱۷ اولین آیفون استاندارد با ۱۲۰Hz، تراشه A19، ۸GB RAM ۱۵۰ تا ۳۰۰ میلیون سامسونگ گلکسی S26 Ultra نمایشگر Privacy، تراشه ۳nm، دوربین ۲۰۰MP بالای ۳۰۰ میلیون آیفون ۱۸ پرو مکس اولین تراشه ۲nm، جدیدترین فناوری اپل نکات طلایی قبل از خرید: هوش مصنوعی شرط اول ۲۰۲۶ است (گوشی‌هایی با کمتر از ۸GB رم توان اجرای کامل قابلیت‌های AI را ندارند). به‌روزرسانی‌های نرم‌افزاری را جدی بگیرید (سامسونگ ۶ سال، اپل ۵+ سال). نمایشگر ۱۲۰Hz استاندارد جدید است. «خرید جدید» همیشه بهترین نیست—مدل‌های سال قبل گاهی ارزش خرید بالاتری دارند.",
+        "en": "From budget phones to flagships over $2000. Find the best pick for every price range in 2026... 2026 is an incredible year for the mobile market. On one hand, rising component prices have pushed many new phones to higher price points. On the other, stunning advances in chips, cameras, and AI technologies have taken 2026 phones to a new level. This guide categorizes all the important phones on the market by budget and examines their specifications, strengths, and weaknesses. Under 20 Million Toman | Budget Phones In this budget, focus on smooth daily performance, durable battery life, and an acceptable display. Samsung Galaxy A27 5G: 6.7″ 120Hz display, Snapdragon 6 Gen 3, 8GB RAM, 50MP main camera with OIS, 5000mAh battery, IP64 water resistance. Price: 12-13.5M Toman. Redmi Note 15 Pro Plus: 120Hz AMOLED display, 108MP camera, 5500mAh battery, 45W charging. Price: 13-15M Toman. 20-50 Million Toman | Powerful Mid‑rangers Samsung Galaxy A56 5G: 6.7″ FHD+ Super AMOLED 120Hz, Exynos 1580, 8-12GB RAM, 50MP main camera with OIS, 5000mAh battery, 45W charging, IP67, 6 years of updates. Price: 25-30M Toman. vivo V60 Lite: 6.77″ AMOLED 120Hz, Dimensity 7360, 50MP Sony IMX882 main camera, 32MP selfie, 6500mAh battery, 90W charging. Price: 22-28M Toman. 50-150 Million Toman | Premium & Flagship Killers Poco F8 Pro: Snapdragon 8 Elite, 6.59″ AMOLED 120Hz, 50MP camera, 6210mAh battery. Price: 50-60M Toman. Apple iPhone 17: 6.3″ 120Hz ProMotion (first time on standard iPhone), A19 chip, 8GB RAM, storage from 256GB, dual 48MP camera. Price: 100-120M Toman. 150-300 Million Toman | True Flagships Samsung Galaxy S26 Ultra: 6.9″ Dynamic AMOLED 2X with Privacy Display, Snapdragon 8 Elite Gen 5, 200MP camera, 5000mAh battery, 60W charging. Price: 250-300M Toman. vivo X300 Ultra: Dimensity 9500 (3nm), dual 200MP cameras, 6600mAh battery. Price: ~200M Toman. Above 300 Million Toman | Beyond Flagship Apple iPhone 18 Pro Max (Autumn 2026): First 2nm A20 Pro chip, variable aperture camera, smaller Dynamic Island. Price: over 400M Toman. Summary Table: Best Choice for Every Budget Budget Range Best Choice Reason Under 20M Samsung Galaxy A27 5G 120Hz display, Snapdragon, Galaxy AI 20-50M Samsung Galaxy A56 5G 6 years of updates, IP67, 50MP OIS camera 50-150M Apple iPhone 17 First standard iPhone with 120Hz, A19 chip, 8GB RAM 150-300M Samsung Galaxy S26 Ultra Privacy Display, 3nm chip, 200MP camera Above 300M iPhone 18 Pro Max First 2nm chip, Apple's latest technology Golden tips before buying: AI is the top priority in 2026 (phones with less than 8GB RAM can't fully run AI features). Take software updates seriously (Samsung 6 years, Apple 5+ years). 120Hz displays are the new standard. 'New' isn't always best—last year's models sometimes offer better value."
+      },
+      "url": "https://techaneh.ir/fa/articles/18-complete-mobile-buying-guide-2026-best-choice-for-every-budget/",
+      "alternateUrl": "https://techaneh.ir/en/articles/18-complete-mobile-buying-guide-2026-best-choice-for-every-budget/",
+      "updatedAt": null,
+      "sources": []
+    },
+    {
+      "id": "product-apple-iphone-17-pro-max",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 17 Pro Max",
+      "title": {
+        "fa": "Apple iPhone 17 Pro Max",
+        "en": "Apple iPhone 17 Pro Max"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-17-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 17 Pro",
+      "title": {
+        "fa": "Apple iPhone 17 Pro",
+        "en": "Apple iPhone 17 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-air",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone Air",
+      "title": {
+        "fa": "Apple iPhone Air",
+        "en": "Apple iPhone Air"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-17",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 17",
+      "title": {
+        "fa": "Apple iPhone 17",
+        "en": "Apple iPhone 17"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-17e",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 17e",
+      "title": {
+        "fa": "Apple iPhone 17e",
+        "en": "Apple iPhone 17e"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-16-pro-max",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 16 Pro Max",
+      "title": {
+        "fa": "Apple iPhone 16 Pro Max",
+        "en": "Apple iPhone 16 Pro Max"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-16-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 16 Pro",
+      "title": {
+        "fa": "Apple iPhone 16 Pro",
+        "en": "Apple iPhone 16 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-16-plus",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 16 Plus",
+      "title": {
+        "fa": "Apple iPhone 16 Plus",
+        "en": "Apple iPhone 16 Plus"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-16",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 16",
+      "title": {
+        "fa": "Apple iPhone 16",
+        "en": "Apple iPhone 16"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-16e",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 16e",
+      "title": {
+        "fa": "Apple iPhone 16e",
+        "en": "Apple iPhone 16e"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s26-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S26 Ultra",
+      "title": {
+        "fa": "Samsung Galaxy S26 Ultra",
+        "en": "Samsung Galaxy S26 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s26",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S26+",
+      "title": {
+        "fa": "Samsung Galaxy S26+",
+        "en": "Samsung Galaxy S26+"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s26",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S26",
+      "title": {
+        "fa": "Samsung Galaxy S26",
+        "en": "Samsung Galaxy S26"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s25-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S25 Ultra",
+      "title": {
+        "fa": "Samsung Galaxy S25 Ultra",
+        "en": "Samsung Galaxy S25 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s25",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S25+",
+      "title": {
+        "fa": "Samsung Galaxy S25+",
+        "en": "Samsung Galaxy S25+"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s25",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S25",
+      "title": {
+        "fa": "Samsung Galaxy S25",
+        "en": "Samsung Galaxy S25"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-z-fold7",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy Z Fold7",
+      "title": {
+        "fa": "Samsung Galaxy Z Fold7",
+        "en": "Samsung Galaxy Z Fold7"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-z-flip7",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy Z Flip7",
+      "title": {
+        "fa": "Samsung Galaxy Z Flip7",
+        "en": "Samsung Galaxy Z Flip7"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-a57-5g",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy A57 5G",
+      "title": {
+        "fa": "Samsung Galaxy A57 5G",
+        "en": "Samsung Galaxy A57 5G"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-a56-5g",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy A56 5G",
+      "title": {
+        "fa": "Samsung Galaxy A56 5G",
+        "en": "Samsung Galaxy A56 5G"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-10-pro-xl",
+      "type": "product",
+      "category": "Phone",
+      "name": "Google Pixel 10 Pro XL",
+      "title": {
+        "fa": "Google Pixel 10 Pro XL",
+        "en": "Google Pixel 10 Pro XL"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-10-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Google Pixel 10 Pro",
+      "title": {
+        "fa": "Google Pixel 10 Pro",
+        "en": "Google Pixel 10 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-10",
+      "type": "product",
+      "category": "Phone",
+      "name": "Google Pixel 10",
+      "title": {
+        "fa": "Google Pixel 10",
+        "en": "Google Pixel 10"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-9a",
+      "type": "product",
+      "category": "Phone",
+      "name": "Google Pixel 9a",
+      "title": {
+        "fa": "Google Pixel 9a",
+        "en": "Google Pixel 9a"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oneplus-13",
+      "type": "product",
+      "category": "Phone",
+      "name": "OnePlus 13",
+      "title": {
+        "fa": "OnePlus 13",
+        "en": "OnePlus 13"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oneplus-13r",
+      "type": "product",
+      "category": "Phone",
+      "name": "OnePlus 13R",
+      "title": {
+        "fa": "OnePlus 13R",
+        "en": "OnePlus 13R"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-xiaomi-15-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Xiaomi 15 Ultra",
+      "title": {
+        "fa": "Xiaomi 15 Ultra",
+        "en": "Xiaomi 15 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-xiaomi-15",
+      "type": "product",
+      "category": "Phone",
+      "name": "Xiaomi 15",
+      "title": {
+        "fa": "Xiaomi 15",
+        "en": "Xiaomi 15"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-xiaomi-14t-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Xiaomi 14T Pro",
+      "title": {
+        "fa": "Xiaomi 14T Pro",
+        "en": "Xiaomi 14T Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-redmi-note-14-pro-5g",
+      "type": "product",
+      "category": "Phone",
+      "name": "Redmi Note 14 Pro+ 5G",
+      "title": {
+        "fa": "Redmi Note 14 Pro+ 5G",
+        "en": "Redmi Note 14 Pro+ 5G"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oppo-find-x8-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "OPPO Find X8 Pro",
+      "title": {
+        "fa": "OPPO Find X8 Pro",
+        "en": "OPPO Find X8 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oppo-find-n5",
+      "type": "product",
+      "category": "Phone",
+      "name": "OPPO Find N5",
+      "title": {
+        "fa": "OPPO Find N5",
+        "en": "OPPO Find N5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-vivo-x200-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "vivo X200 Pro",
+      "title": {
+        "fa": "vivo X200 Pro",
+        "en": "vivo X200 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-honor-magic7-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "HONOR Magic7 Pro",
+      "title": {
+        "fa": "HONOR Magic7 Pro",
+        "en": "HONOR Magic7 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-honor-magic-v3",
+      "type": "product",
+      "category": "Phone",
+      "name": "HONOR Magic V3",
+      "title": {
+        "fa": "HONOR Magic V3",
+        "en": "HONOR Magic V3"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-huawei-pura-70-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Huawei Pura 70 Ultra",
+      "title": {
+        "fa": "Huawei Pura 70 Ultra",
+        "en": "Huawei Pura 70 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-huawei-mate-x6",
+      "type": "product",
+      "category": "Phone",
+      "name": "Huawei Mate X6",
+      "title": {
+        "fa": "Huawei Mate X6",
+        "en": "Huawei Mate X6"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-motorola-razr-60-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Motorola Razr 60 Ultra",
+      "title": {
+        "fa": "Motorola Razr 60 Ultra",
+        "en": "Motorola Razr 60 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-motorola-edge-60-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Motorola Edge 60 Pro",
+      "title": {
+        "fa": "Motorola Edge 60 Pro",
+        "en": "Motorola Edge 60 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nothing-phone-3",
+      "type": "product",
+      "category": "Phone",
+      "name": "Nothing Phone (3)",
+      "title": {
+        "fa": "Nothing Phone (3)",
+        "en": "Nothing Phone (3)"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nothing-phone-3a-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Nothing Phone (3a) Pro",
+      "title": {
+        "fa": "Nothing Phone (3a) Pro",
+        "en": "Nothing Phone (3a) Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sony-xperia-1-vii",
+      "type": "product",
+      "category": "Phone",
+      "name": "Sony Xperia 1 VII",
+      "title": {
+        "fa": "Sony Xperia 1 VII",
+        "en": "Sony Xperia 1 VII"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-asus-rog-phone-9-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "ASUS ROG Phone 9 Pro",
+      "title": {
+        "fa": "ASUS ROG Phone 9 Pro",
+        "en": "ASUS ROG Phone 9 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-macbook-air-13-inch-m5",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Apple MacBook Air 13-inch M5",
+      "title": {
+        "fa": "Apple MacBook Air 13-inch M5",
+        "en": "Apple MacBook Air 13-inch M5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-macbook-air-15-inch-m5",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Apple MacBook Air 15-inch M5",
+      "title": {
+        "fa": "Apple MacBook Air 15-inch M5",
+        "en": "Apple MacBook Air 15-inch M5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-macbook-pro-14-inch-m5",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Apple MacBook Pro 14-inch M5",
+      "title": {
+        "fa": "Apple MacBook Pro 14-inch M5",
+        "en": "Apple MacBook Pro 14-inch M5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-macbook-pro-14-inch-m5-pro",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Apple MacBook Pro 14-inch M5 Pro",
+      "title": {
+        "fa": "Apple MacBook Pro 14-inch M5 Pro",
+        "en": "Apple MacBook Pro 14-inch M5 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-macbook-pro-16-inch-m5-pro",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Apple MacBook Pro 16-inch M5 Pro",
+      "title": {
+        "fa": "Apple MacBook Pro 16-inch M5 Pro",
+        "en": "Apple MacBook Pro 16-inch M5 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-macbook-pro-16-inch-m5-max",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Apple MacBook Pro 16-inch M5 Max",
+      "title": {
+        "fa": "Apple MacBook Pro 16-inch M5 Max",
+        "en": "Apple MacBook Pro 16-inch M5 Max"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-dell-xps-13-9350",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Dell XPS 13 9350",
+      "title": {
+        "fa": "Dell XPS 13 9350",
+        "en": "Dell XPS 13 9350"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-dell-14-premium",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Dell 14 Premium",
+      "title": {
+        "fa": "Dell 14 Premium",
+        "en": "Dell 14 Premium"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-dell-16-premium",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Dell 16 Premium",
+      "title": {
+        "fa": "Dell 16 Premium",
+        "en": "Dell 16 Premium"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-hp-spectre-x360-14",
+      "type": "product",
+      "category": "Laptop",
+      "name": "HP Spectre x360 14",
+      "title": {
+        "fa": "HP Spectre x360 14",
+        "en": "HP Spectre x360 14"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-hp-omnibook-ultra-flip-14",
+      "type": "product",
+      "category": "Laptop",
+      "name": "HP OmniBook Ultra Flip 14",
+      "title": {
+        "fa": "HP OmniBook Ultra Flip 14",
+        "en": "HP OmniBook Ultra Flip 14"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lenovo-thinkpad-x1-carbon-gen-13",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Lenovo ThinkPad X1 Carbon Gen 13",
+      "title": {
+        "fa": "Lenovo ThinkPad X1 Carbon Gen 13",
+        "en": "Lenovo ThinkPad X1 Carbon Gen 13"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lenovo-yoga-slim-9i",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Lenovo Yoga Slim 9i",
+      "title": {
+        "fa": "Lenovo Yoga Slim 9i",
+        "en": "Lenovo Yoga Slim 9i"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lenovo-legion-pro-7i-gen-10",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Lenovo Legion Pro 7i Gen 10",
+      "title": {
+        "fa": "Lenovo Legion Pro 7i Gen 10",
+        "en": "Lenovo Legion Pro 7i Gen 10"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-asus-zenbook-s-14",
+      "type": "product",
+      "category": "Laptop",
+      "name": "ASUS Zenbook S 14",
+      "title": {
+        "fa": "ASUS Zenbook S 14",
+        "en": "ASUS Zenbook S 14"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-asus-rog-zephyrus-g14",
+      "type": "product",
+      "category": "Laptop",
+      "name": "ASUS ROG Zephyrus G14",
+      "title": {
+        "fa": "ASUS ROG Zephyrus G14",
+        "en": "ASUS ROG Zephyrus G14"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-asus-rog-zephyrus-g16",
+      "type": "product",
+      "category": "Laptop",
+      "name": "ASUS ROG Zephyrus G16",
+      "title": {
+        "fa": "ASUS ROG Zephyrus G16",
+        "en": "ASUS ROG Zephyrus G16"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-asus-rog-strix-scar-18",
+      "type": "product",
+      "category": "Laptop",
+      "name": "ASUS ROG Strix SCAR 18",
+      "title": {
+        "fa": "ASUS ROG Strix SCAR 18",
+        "en": "ASUS ROG Strix SCAR 18"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-acer-swift-14-ai",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Acer Swift 14 AI",
+      "title": {
+        "fa": "Acer Swift 14 AI",
+        "en": "Acer Swift 14 AI"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-acer-predator-helios-18-ai",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Acer Predator Helios 18 AI",
+      "title": {
+        "fa": "Acer Predator Helios 18 AI",
+        "en": "Acer Predator Helios 18 AI"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-microsoft-surface-laptop-7-13-8-inch",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Microsoft Surface Laptop 7 13.8-inch",
+      "title": {
+        "fa": "Microsoft Surface Laptop 7 13.8-inch",
+        "en": "Microsoft Surface Laptop 7 13.8-inch"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-microsoft-surface-laptop-7-15-inch",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Microsoft Surface Laptop 7 15-inch",
+      "title": {
+        "fa": "Microsoft Surface Laptop 7 15-inch",
+        "en": "Microsoft Surface Laptop 7 15-inch"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-framework-laptop-13",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Framework Laptop 13",
+      "title": {
+        "fa": "Framework Laptop 13",
+        "en": "Framework Laptop 13"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-framework-laptop-16",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Framework Laptop 16",
+      "title": {
+        "fa": "Framework Laptop 16",
+        "en": "Framework Laptop 16"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-book5-pro-14",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Samsung Galaxy Book5 Pro 14",
+      "title": {
+        "fa": "Samsung Galaxy Book5 Pro 14",
+        "en": "Samsung Galaxy Book5 Pro 14"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-book5-pro-16",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Samsung Galaxy Book5 Pro 16",
+      "title": {
+        "fa": "Samsung Galaxy Book5 Pro 16",
+        "en": "Samsung Galaxy Book5 Pro 16"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-book5-pro-360",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Samsung Galaxy Book5 Pro 360",
+      "title": {
+        "fa": "Samsung Galaxy Book5 Pro 360",
+        "en": "Samsung Galaxy Book5 Pro 360"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-msi-stealth-a16-ai",
+      "type": "product",
+      "category": "Laptop",
+      "name": "MSI Stealth A16 AI+",
+      "title": {
+        "fa": "MSI Stealth A16 AI+",
+        "en": "MSI Stealth A16 AI+"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-razer-blade-14",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Razer Blade 14",
+      "title": {
+        "fa": "Razer Blade 14",
+        "en": "Razer Blade 14"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-razer-blade-16",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Razer Blade 16",
+      "title": {
+        "fa": "Razer Blade 16",
+        "en": "Razer Blade 16"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lg-gram-pro-16",
+      "type": "product",
+      "category": "Laptop",
+      "name": "LG gram Pro 16",
+      "title": {
+        "fa": "LG gram Pro 16",
+        "en": "LG gram Pro 16"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-alienware-m16-r2",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Alienware m16 R2",
+      "title": {
+        "fa": "Alienware m16 R2",
+        "en": "Alienware m16 R2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-huawei-matebook-x-pro-2024",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Huawei MateBook X Pro 2024",
+      "title": {
+        "fa": "Huawei MateBook X Pro 2024",
+        "en": "Huawei MateBook X Pro 2024"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-ipad-pro-11-inch-m5",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Apple iPad Pro 11-inch M5",
+      "title": {
+        "fa": "Apple iPad Pro 11-inch M5",
+        "en": "Apple iPad Pro 11-inch M5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-ipad-pro-13-inch-m5",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Apple iPad Pro 13-inch M5",
+      "title": {
+        "fa": "Apple iPad Pro 13-inch M5",
+        "en": "Apple iPad Pro 13-inch M5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-ipad-air-11-inch-m3",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Apple iPad Air 11-inch M3",
+      "title": {
+        "fa": "Apple iPad Air 11-inch M3",
+        "en": "Apple iPad Air 11-inch M3"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-ipad-air-13-inch-m3",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Apple iPad Air 13-inch M3",
+      "title": {
+        "fa": "Apple iPad Air 13-inch M3",
+        "en": "Apple iPad Air 13-inch M3"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-ipad-mini-a17-pro",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Apple iPad mini A17 Pro",
+      "title": {
+        "fa": "Apple iPad mini A17 Pro",
+        "en": "Apple iPad mini A17 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-tab-s10-ultra",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Samsung Galaxy Tab S10 Ultra",
+      "title": {
+        "fa": "Samsung Galaxy Tab S10 Ultra",
+        "en": "Samsung Galaxy Tab S10 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-tab-s10",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Samsung Galaxy Tab S10+",
+      "title": {
+        "fa": "Samsung Galaxy Tab S10+",
+        "en": "Samsung Galaxy Tab S10+"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-tab-s10-fe",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Samsung Galaxy Tab S10 FE",
+      "title": {
+        "fa": "Samsung Galaxy Tab S10 FE",
+        "en": "Samsung Galaxy Tab S10 FE"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-microsoft-surface-pro-11",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Microsoft Surface Pro 11",
+      "title": {
+        "fa": "Microsoft Surface Pro 11",
+        "en": "Microsoft Surface Pro 11"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oneplus-pad-2",
+      "type": "product",
+      "category": "Tablet",
+      "name": "OnePlus Pad 2",
+      "title": {
+        "fa": "OnePlus Pad 2",
+        "en": "OnePlus Pad 2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-xiaomi-pad-7-pro",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Xiaomi Pad 7 Pro",
+      "title": {
+        "fa": "Xiaomi Pad 7 Pro",
+        "en": "Xiaomi Pad 7 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lenovo-yoga-tab-plus",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Lenovo Yoga Tab Plus",
+      "title": {
+        "fa": "Lenovo Yoga Tab Plus",
+        "en": "Lenovo Yoga Tab Plus"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-tablet",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Google Pixel Tablet",
+      "title": {
+        "fa": "Google Pixel Tablet",
+        "en": "Google Pixel Tablet"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-huawei-matepad-pro-13-2",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Huawei MatePad Pro 13.2",
+      "title": {
+        "fa": "Huawei MatePad Pro 13.2",
+        "en": "Huawei MatePad Pro 13.2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-redmi-pad-pro",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Redmi Pad Pro",
+      "title": {
+        "fa": "Redmi Pad Pro",
+        "en": "Redmi Pad Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-honor-magicpad-2",
+      "type": "product",
+      "category": "Tablet",
+      "name": "HONOR MagicPad 2",
+      "title": {
+        "fa": "HONOR MagicPad 2",
+        "en": "HONOR MagicPad 2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-5090",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5090",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 5090",
+        "en": "NVIDIA GeForce RTX 5090"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-5080",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5080",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 5080",
+        "en": "NVIDIA GeForce RTX 5080"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-5070-ti",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5070 Ti",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 5070 Ti",
+        "en": "NVIDIA GeForce RTX 5070 Ti"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-5070",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5070",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 5070",
+        "en": "NVIDIA GeForce RTX 5070"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-5060-ti",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5060 Ti",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 5060 Ti",
+        "en": "NVIDIA GeForce RTX 5060 Ti"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-5060",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5060",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 5060",
+        "en": "NVIDIA GeForce RTX 5060"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-4090",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 4090",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 4090",
+        "en": "NVIDIA GeForce RTX 4090"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-4080-super",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 4080 SUPER",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 4080 SUPER",
+        "en": "NVIDIA GeForce RTX 4080 SUPER"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nvidia-geforce-rtx-4070-super",
+      "type": "product",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 4070 SUPER",
+      "title": {
+        "fa": "NVIDIA GeForce RTX 4070 SUPER",
+        "en": "NVIDIA GeForce RTX 4070 SUPER"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-amd-radeon-rx-9070-xt",
+      "type": "product",
+      "category": "GPU",
+      "name": "AMD Radeon RX 9070 XT",
+      "title": {
+        "fa": "AMD Radeon RX 9070 XT",
+        "en": "AMD Radeon RX 9070 XT"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-amd-radeon-rx-9070",
+      "type": "product",
+      "category": "GPU",
+      "name": "AMD Radeon RX 9070",
+      "title": {
+        "fa": "AMD Radeon RX 9070",
+        "en": "AMD Radeon RX 9070"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-amd-radeon-rx-7900-xtx",
+      "type": "product",
+      "category": "GPU",
+      "name": "AMD Radeon RX 7900 XTX",
+      "title": {
+        "fa": "AMD Radeon RX 7900 XTX",
+        "en": "AMD Radeon RX 7900 XTX"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-intel-arc-b580",
+      "type": "product",
+      "category": "GPU",
+      "name": "Intel Arc B580",
+      "title": {
+        "fa": "Intel Arc B580",
+        "en": "Intel Arc B580"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-intel-arc-a770",
+      "type": "product",
+      "category": "GPU",
+      "name": "Intel Arc A770",
+      "title": {
+        "fa": "Intel Arc A770",
+        "en": "Intel Arc A770"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sony-playstation-5-pro",
+      "type": "product",
+      "category": "Console",
+      "name": "Sony PlayStation 5 Pro",
+      "title": {
+        "fa": "Sony PlayStation 5 Pro",
+        "en": "Sony PlayStation 5 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sony-playstation-5-slim",
+      "type": "product",
+      "category": "Console",
+      "name": "Sony PlayStation 5 Slim",
+      "title": {
+        "fa": "Sony PlayStation 5 Slim",
+        "en": "Sony PlayStation 5 Slim"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sony-playstation-5-digital-edition",
+      "type": "product",
+      "category": "Console",
+      "name": "Sony PlayStation 5 Digital Edition",
+      "title": {
+        "fa": "Sony PlayStation 5 Digital Edition",
+        "en": "Sony PlayStation 5 Digital Edition"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-microsoft-xbox-series-x-2tb-galaxy-black",
+      "type": "product",
+      "category": "Console",
+      "name": "Microsoft Xbox Series X 2TB Galaxy Black",
+      "title": {
+        "fa": "Microsoft Xbox Series X 2TB Galaxy Black",
+        "en": "Microsoft Xbox Series X 2TB Galaxy Black"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-microsoft-xbox-series-x-1tb-digital-edition",
+      "type": "product",
+      "category": "Console",
+      "name": "Microsoft Xbox Series X 1TB Digital Edition",
+      "title": {
+        "fa": "Microsoft Xbox Series X 1TB Digital Edition",
+        "en": "Microsoft Xbox Series X 1TB Digital Edition"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-microsoft-xbox-series-s-1tb",
+      "type": "product",
+      "category": "Console",
+      "name": "Microsoft Xbox Series S 1TB",
+      "title": {
+        "fa": "Microsoft Xbox Series S 1TB",
+        "en": "Microsoft Xbox Series S 1TB"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nintendo-switch-2",
+      "type": "product",
+      "category": "Console",
+      "name": "Nintendo Switch 2",
+      "title": {
+        "fa": "Nintendo Switch 2",
+        "en": "Nintendo Switch 2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-valve-steam-deck-oled",
+      "type": "product",
+      "category": "Console",
+      "name": "Valve Steam Deck OLED",
+      "title": {
+        "fa": "Valve Steam Deck OLED",
+        "en": "Valve Steam Deck OLED"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-asus-rog-ally-x",
+      "type": "product",
+      "category": "Console",
+      "name": "ASUS ROG Ally X",
+      "title": {
+        "fa": "ASUS ROG Ally X",
+        "en": "ASUS ROG Ally X"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-airpods-pro-2",
+      "type": "product",
+      "category": "Audio",
+      "name": "Apple AirPods Pro 2",
+      "title": {
+        "fa": "Apple AirPods Pro 2",
+        "en": "Apple AirPods Pro 2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-airpods-4-with-active-noise-cancellation",
+      "type": "product",
+      "category": "Audio",
+      "name": "Apple AirPods 4 with Active Noise Cancellation",
+      "title": {
+        "fa": "Apple AirPods 4 with Active Noise Cancellation",
+        "en": "Apple AirPods 4 with Active Noise Cancellation"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sony-wh-1000xm6",
+      "type": "product",
+      "category": "Audio",
+      "name": "Sony WH-1000XM6",
+      "title": {
+        "fa": "Sony WH-1000XM6",
+        "en": "Sony WH-1000XM6"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sony-wh-1000xm5",
+      "type": "product",
+      "category": "Audio",
+      "name": "Sony WH-1000XM5",
+      "title": {
+        "fa": "Sony WH-1000XM5",
+        "en": "Sony WH-1000XM5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-bose-quietcomfort-ultra-headphones",
+      "type": "product",
+      "category": "Audio",
+      "name": "Bose QuietComfort Ultra Headphones",
+      "title": {
+        "fa": "Bose QuietComfort Ultra Headphones",
+        "en": "Bose QuietComfort Ultra Headphones"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-bose-quietcomfort-ultra-earbuds",
+      "type": "product",
+      "category": "Audio",
+      "name": "Bose QuietComfort Ultra Earbuds",
+      "title": {
+        "fa": "Bose QuietComfort Ultra Earbuds",
+        "en": "Bose QuietComfort Ultra Earbuds"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-buds3-pro",
+      "type": "product",
+      "category": "Audio",
+      "name": "Samsung Galaxy Buds3 Pro",
+      "title": {
+        "fa": "Samsung Galaxy Buds3 Pro",
+        "en": "Samsung Galaxy Buds3 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-buds-pro-2",
+      "type": "product",
+      "category": "Audio",
+      "name": "Google Pixel Buds Pro 2",
+      "title": {
+        "fa": "Google Pixel Buds Pro 2",
+        "en": "Google Pixel Buds Pro 2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nothing-ear",
+      "type": "product",
+      "category": "Audio",
+      "name": "Nothing Ear",
+      "title": {
+        "fa": "Nothing Ear",
+        "en": "Nothing Ear"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oneplus-buds-pro-3",
+      "type": "product",
+      "category": "Audio",
+      "name": "OnePlus Buds Pro 3",
+      "title": {
+        "fa": "OnePlus Buds Pro 3",
+        "en": "OnePlus Buds Pro 3"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sennheiser-momentum-4-wireless",
+      "type": "product",
+      "category": "Audio",
+      "name": "Sennheiser Momentum 4 Wireless",
+      "title": {
+        "fa": "Sennheiser Momentum 4 Wireless",
+        "en": "Sennheiser Momentum 4 Wireless"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sennheiser-momentum-true-wireless-4",
+      "type": "product",
+      "category": "Audio",
+      "name": "Sennheiser Momentum True Wireless 4",
+      "title": {
+        "fa": "Sennheiser Momentum True Wireless 4",
+        "en": "Sennheiser Momentum True Wireless 4"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sonos-ace",
+      "type": "product",
+      "category": "Audio",
+      "name": "Sonos Ace",
+      "title": {
+        "fa": "Sonos Ace",
+        "en": "Sonos Ace"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-jbl-tour-one-m3",
+      "type": "product",
+      "category": "Audio",
+      "name": "JBL Tour One M3",
+      "title": {
+        "fa": "JBL Tour One M3",
+        "en": "JBL Tour One M3"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-beats-studio-pro",
+      "type": "product",
+      "category": "Audio",
+      "name": "Beats Studio Pro",
+      "title": {
+        "fa": "Beats Studio Pro",
+        "en": "Beats Studio Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-watch-ultra-2",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Apple Watch Ultra 2",
+      "title": {
+        "fa": "Apple Watch Ultra 2",
+        "en": "Apple Watch Ultra 2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-watch-series-10",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Apple Watch Series 10",
+      "title": {
+        "fa": "Apple Watch Series 10",
+        "en": "Apple Watch Series 10"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-watch-se-2",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Apple Watch SE 2",
+      "title": {
+        "fa": "Apple Watch SE 2",
+        "en": "Apple Watch SE 2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-watch-ultra",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Samsung Galaxy Watch Ultra",
+      "title": {
+        "fa": "Samsung Galaxy Watch Ultra",
+        "en": "Samsung Galaxy Watch Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-watch7",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Samsung Galaxy Watch7",
+      "title": {
+        "fa": "Samsung Galaxy Watch7",
+        "en": "Samsung Galaxy Watch7"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-watch-3",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Google Pixel Watch 3",
+      "title": {
+        "fa": "Google Pixel Watch 3",
+        "en": "Google Pixel Watch 3"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-garmin-fenix-8",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Garmin Fenix 8",
+      "title": {
+        "fa": "Garmin Fenix 8",
+        "en": "Garmin Fenix 8"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-garmin-forerunner-970",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Garmin Forerunner 970",
+      "title": {
+        "fa": "Garmin Forerunner 970",
+        "en": "Garmin Forerunner 970"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-garmin-venu-3",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Garmin Venu 3",
+      "title": {
+        "fa": "Garmin Venu 3",
+        "en": "Garmin Venu 3"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-huawei-watch-gt-5-pro",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Huawei Watch GT 5 Pro",
+      "title": {
+        "fa": "Huawei Watch GT 5 Pro",
+        "en": "Huawei Watch GT 5 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-xiaomi-watch-2-pro",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Xiaomi Watch 2 Pro",
+      "title": {
+        "fa": "Xiaomi Watch 2 Pro",
+        "en": "Xiaomi Watch 2 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oura-ring-4",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Oura Ring 4",
+      "title": {
+        "fa": "Oura Ring 4",
+        "en": "Oura Ring 4"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-ring",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Samsung Galaxy Ring",
+      "title": {
+        "fa": "Samsung Galaxy Ring",
+        "en": "Samsung Galaxy Ring"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-whoop-5-0",
+      "type": "product",
+      "category": "Wearable",
+      "name": "WHOOP 5.0",
+      "title": {
+        "fa": "WHOOP 5.0",
+        "en": "WHOOP 5.0"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-fitbit-charge-6",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Fitbit Charge 6",
+      "title": {
+        "fa": "Fitbit Charge 6",
+        "en": "Fitbit Charge 6"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-studio-display",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Apple Studio Display",
+      "title": {
+        "fa": "Apple Studio Display",
+        "en": "Apple Studio Display"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-odyssey-oled-g9-g95sd",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Samsung Odyssey OLED G9 G95SD",
+      "title": {
+        "fa": "Samsung Odyssey OLED G9 G95SD",
+        "en": "Samsung Odyssey OLED G9 G95SD"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-odyssey-oled-g8-g80sd",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Samsung Odyssey OLED G8 G80SD",
+      "title": {
+        "fa": "Samsung Odyssey OLED G8 G80SD",
+        "en": "Samsung Odyssey OLED G8 G80SD"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lg-ultragear-32gs95ue",
+      "type": "product",
+      "category": "Monitor",
+      "name": "LG UltraGear 32GS95UE",
+      "title": {
+        "fa": "LG UltraGear 32GS95UE",
+        "en": "LG UltraGear 32GS95UE"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-dell-ultrasharp-u3225qe",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Dell UltraSharp U3225QE",
+      "title": {
+        "fa": "Dell UltraSharp U3225QE",
+        "en": "Dell UltraSharp U3225QE"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-alienware-aw3225qf",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Alienware AW3225QF",
+      "title": {
+        "fa": "Alienware AW3225QF",
+        "en": "Alienware AW3225QF"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-asus-rog-swift-oled-pg32ucdm",
+      "type": "product",
+      "category": "Monitor",
+      "name": "ASUS ROG Swift OLED PG32UCDM",
+      "title": {
+        "fa": "ASUS ROG Swift OLED PG32UCDM",
+        "en": "ASUS ROG Swift OLED PG32UCDM"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-msi-mpg-321urx-qd-oled",
+      "type": "product",
+      "category": "Monitor",
+      "name": "MSI MPG 321URX QD-OLED",
+      "title": {
+        "fa": "MSI MPG 321URX QD-OLED",
+        "en": "MSI MPG 321URX QD-OLED"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-gigabyte-aorus-fo32u2p",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Gigabyte AORUS FO32U2P",
+      "title": {
+        "fa": "Gigabyte AORUS FO32U2P",
+        "en": "Gigabyte AORUS FO32U2P"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-benq-pd3225u",
+      "type": "product",
+      "category": "Monitor",
+      "name": "BenQ PD3225U",
+      "title": {
+        "fa": "BenQ PD3225U",
+        "en": "BenQ PD3225U"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-alienware-aw2725df",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Alienware AW2725DF",
+      "title": {
+        "fa": "Alienware AW2725DF",
+        "en": "Alienware AW2725DF"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lg-dualup-28mq780",
+      "type": "product",
+      "category": "Monitor",
+      "name": "LG DualUp 28MQ780",
+      "title": {
+        "fa": "LG DualUp 28MQ780",
+        "en": "LG DualUp 28MQ780"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-viewfinity-s9-s90pc",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Samsung ViewFinity S9 S90PC",
+      "title": {
+        "fa": "Samsung ViewFinity S9 S90PC",
+        "en": "Samsung ViewFinity S9 S90PC"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    }
+  ]
+}

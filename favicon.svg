@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Techaneh animated signal mark</title><desc id="desc">A luminous pulse inside orbital rings.</desc>
+  <defs>
+    <linearGradient id="g" x1="72" y1="52" x2="448" y2="464" gradientUnits="userSpaceOnUse"><stop stop-color="#A989FF"/><stop offset=".43" stop-color="#28D7FF"/><stop offset="1" stop-color="#FF4FA3"/></linearGradient>
+    <radialGradient id="core" cx="38%" cy="30%" r="76%"><stop stop-color="#fff"/><stop offset=".18" stop-color="#CBF7FF"/><stop offset=".48" stop-color="#6F63FF"/><stop offset=".78" stop-color="#32266E"/><stop offset="1" stop-color="#0B1027"/></radialGradient>
+    <radialGradient id="halo"><stop stop-color="#705CFF" stop-opacity=".48"/><stop offset="1" stop-color="#705CFF" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="13" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="28"/></filter>
+  </defs>
+  <circle cx="256" cy="256" r="216" fill="url(#halo)" opacity=".55" filter="url(#soft)"><animate attributeName="r" values="205;228;205" dur="4s" repeatCount="indefinite"/></circle>
+  <g transform-origin="256px 256px"><animateTransform attributeName="transform" type="rotate" from="0 256 256" to="360 256 256" dur="18s" repeatCount="indefinite"/>
+    <ellipse cx="256" cy="256" rx="222" ry="132" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round" stroke-dasharray="5 18" opacity=".86"/>
+    <circle cx="462" cy="224" r="12" fill="#28D7FF" filter="url(#glow)"/>
+  </g>
+  <g transform-origin="256px 256px"><animateTransform attributeName="transform" type="rotate" from="360 256 256" to="0 256 256" dur="12s" repeatCount="indefinite"/>
+    <ellipse cx="256" cy="256" rx="174" ry="225" fill="none" stroke="url(#g)" stroke-width="5" stroke-dasharray="52 24" opacity=".52" transform="rotate(38 256 256)"/>
+    <circle cx="116" cy="140" r="9" fill="#FF4FA3" filter="url(#glow)"/>
+  </g>
+  <circle cx="256" cy="256" r="144" fill="url(#core)" stroke="#fff" stroke-opacity=".32" stroke-width="4"/>
+  <circle cx="256" cy="256" r="122" fill="none" stroke="#fff" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M105 268h73l31-83 50 157 43-118 31 44h77" fill="none" stroke="url(#g)" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)" stroke-dasharray="660" stroke-dashoffset="660">
+    <animate attributeName="stroke-dashoffset" values="660;0;-660" keyTimes="0;.58;1" dur="3.8s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="105" cy="268" r="15" fill="#A989FF" filter="url(#glow)"><animate attributeName="r" values="13;18;13" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="410" cy="268" r="15" fill="#FF4FA3" filter="url(#glow)"><animate attributeName="r" values="18;13;18" dur="2.2s" repeatCount="indefinite"/></circle>
+  <circle cx="256" cy="256" r="15" fill="#fff" filter="url(#glow)"><animate attributeName="r" values="12;20;12" dur="2.5s" repeatCount="indefinite"/></circle>
+</svg>

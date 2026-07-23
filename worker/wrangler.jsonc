@@ -1,0 +1,22 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "techaneh-agent",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-01",
+  "observability": { "enabled": true },
+  "ai": { "binding": "AI" },
+  "vars": {
+    "ALLOWED_ORIGINS": "https://techaneh.ir,https://www.techaneh.ir,https://shhryara404-source.github.io,http://localhost:8000,http://127.0.0.1:8000",
+    "CONTENT_BASE_URL": "https://techaneh.ir",
+    "TEXT_AI_PROVIDERS": "deepseek",
+    "DEEPSEEK_MODEL": "deepseek-v4-flash",
+    "GITHUB_MODELS_MODEL": "openai/gpt-4o-mini",
+    "OPENAI_MODEL": "gpt-5-mini",
+    "OPENAI_TTS_MODEL": "gpt-4o-mini-tts",
+    "OPENAI_TTS_VOICE": "coral",
+    "CLOUDFLARE_TTS_MODEL": "@cf/deepgram/aura-2-en",
+    "CLOUDFLARE_TTS_SPEAKER": "luna",
+    "SEARCH_PROVIDERS": "gnews,tavily,tavily_keyless,hacker_news",
+    "RATE_LIMIT_PER_MINUTE": "15"
+  }
+}

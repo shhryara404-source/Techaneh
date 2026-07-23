@@ -1,0 +1,23 @@
+{
+  "series": [
+    {
+      "slug": "python-from-zero",
+      "title": {"fa": "پایتون از صفر تا ساخت پروژه", "en": "Python from Zero to Building Projects"},
+      "category": "Programming",
+      "lessons": [
+        {"fa": "پایتون چیست، نصب امن و اجرای نخستین برنامه", "en": "What Python is, safe installation, and your first program", "query": "Python official tutorial installing Python first program"},
+        {"fa": "متغیرها، نوع‌های داده و ورودی کاربر", "en": "Variables, data types, and user input", "query": "Python official tutorial variables data types input"},
+        {"fa": "شرط‌ها و تصمیم‌گیری در برنامه", "en": "Conditionals and decision-making", "query": "Python official tutorial if elif else"},
+        {"fa": "حلقه‌ها و تکرار هوشمند", "en": "Loops and structured repetition", "query": "Python official tutorial for while loops"},
+        {"fa": "لیست، تاپل، مجموعه و دیکشنری", "en": "Lists, tuples, sets, and dictionaries", "query": "Python official tutorial data structures lists dictionaries sets tuples"},
+        {"fa": "توابع، ورودی‌ها و خروجی‌ها", "en": "Functions, parameters, and return values", "query": "Python official tutorial defining functions parameters return"},
+        {"fa": "مدیریت خطاها و دیباگ اصولی", "en": "Exceptions and systematic debugging", "query": "Python official tutorial errors exceptions debugging"},
+        {"fa": "فایل‌ها، JSON و ذخیره داده", "en": "Files, JSON, and persistent data", "query": "Python official tutorial reading writing files json"},
+        {"fa": "ماژول‌ها، پکیج‌ها و محیط مجازی", "en": "Modules, packages, and virtual environments", "query": "Python official tutorial modules packages venv pip"},
+        {"fa": "شی‌گرایی به زبان ساده", "en": "Object-oriented programming made practical", "query": "Python official tutorial classes object oriented programming"},
+        {"fa": "ساخت یک ابزار خط فرمان واقعی", "en": "Building a real command-line tool", "query": "Python argparse official documentation command line tool"},
+        {"fa": "پروژه پایانی، تست و انتشار امن", "en": "Final project, testing, and safe publishing", "query": "Python official unittest packaging tutorial security best practices"}
+      ]
+    }
+  ]
+}

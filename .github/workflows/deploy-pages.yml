@@ -1,0 +1,72 @@
+name: Deploy Techaneh to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Build indexable article pages and sitemap
+        run: node build-seo-pages.mjs
+
+      - name: Assemble public site
+        shell: bash
+        run: |
+          mkdir -p _site
+          rsync -av ./ _site/ \
+            --exclude '.git/' \
+            --exclude '.github/' \
+            --exclude '_site/' \
+            --exclude 'worker/' \
+            --exclude 'scripts/' \
+            --exclude 'config/' \
+            --exclude 'requirements.txt' \
+            --exclude 'README.md' \
+            --exclude 'SECURITY.md' \
+            --exclude 'UPLOAD-GUIDE-FA.md' \
+            --exclude 'SETUP-AGENTS-FA.md' \
+            --exclude 'AGENTS.md' \
+            --exclude 'install-techaneh-v6.yml' \
+            --exclude 'START-HERE-FA.txt' \
+            --exclude 'CHANGELOG.md' \
+            --exclude 'package-lock.json'
+          touch _site/.nojekyll
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

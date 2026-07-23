@@ -1,0 +1,11 @@
+{
+  "feeds": [
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "AI"},
+    {"name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "Technology"},
+    {"name": "Ars Technica", "url": "https://feeds.arstechnica.com/arstechnica/index", "category": "Technology"},
+    {"name": "Google AI", "url": "https://blog.google/technology/ai/rss/", "category": "AI"}
+  ],
+  "allowed_categories": ["AI", "Programming", "Phone", "Laptop", "BuyingGuide", "Technology"],
+  "max_feed_age_hours": 72,
+  "max_candidates": 12
+}

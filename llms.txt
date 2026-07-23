@@ -1,0 +1,11 @@
+# Techaneh | تکانه
+
+> Bilingual technology media with source-backed news, practical education, product comparisons, and buying guides.
+
+- Home: https://techaneh.ir/
+- RSS: https://techaneh.ir/feed.xml
+- JSON Feed: https://techaneh.ir/feed.json
+- Sitemap: https://techaneh.ir/sitemap.xml
+- Contact: mailto:shahryarvn@gmail.com
+
+Articles are available as indexable Persian and English HTML pages under /fa/articles/ and /en/articles/.

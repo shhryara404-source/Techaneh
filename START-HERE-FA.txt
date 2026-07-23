@@ -1,0 +1,27 @@
+شروع نصب Techaneh v6
+=====================
+
+اول فایل «راهنمای-کامل-Techaneh-v6.pdf» را باز کنید.
+
+ترتیب نصب:
+1) در GitHub یک repository عمومی و خالی با نام Techaneh بسازید.
+2) فایل Techaneh-v6-site.zip را در ریشه repository بارگذاری کنید.
+3) فایل جدید زیر را بسازید:
+   .github/workflows/install-techaneh-v6.yml
+4) محتوای install-techaneh-v6.yml را بدون تغییر در آن قرار دهید.
+5) در Actions، گردش‌کار Install Techaneh v6 را اجرا کنید.
+6) پس از نصب، Secretها را دقیقاً طبق PDF اضافه کنید.
+
+نام Secretها در GitHub:
+DEEPSEEK_ARTICLES_API_KEY
+TAVILY_API_KEY
+GNEWS_API_KEY
+
+نام Secretها در Cloudflare:
+DEEPSEEK_ASSISTANT_API_KEY
+TAVILY_API_KEY
+GNEWS_API_KEY
+TURNSTILE_SECRET_KEY  (اختیاری)
+
+Hugging Face در این نسخه لازم نیست.
+کلیدها را داخل چت، واتساپ، فایل سایت، commit، Issue یا عکس قرار ندهید.

@@ -1,0 +1,10 @@
+# Never commit real secrets. Copy this file to .dev.vars only on your own device.
+DEEPSEEK_ASSISTANT_API_KEY=replace_me
+TAVILY_API_KEY=replace_me
+GNEWS_API_KEY=replace_me
+# Optional fallback outside GitHub Actions. Use a fine-grained token with minimum model permission only.
+GITHUB_MODELS_TOKEN=replace_me
+# Optional abuse protection:
+TURNSTILE_SECRET_KEY=replace_me
+# Optional cloud Persian/English TTS fallback. Device speech is free and needs no key.
+OPENAI_API_KEY=replace_me

@@ -1,0 +1,8 @@
+{
+  "topics": [
+    {"slug": "smartphones", "category": "Phone", "fa": "راهنمای خرید گوشی هوشمند", "en": "Smartphone buying guide", "query": "best smartphones current month official specifications reviews buying guide"},
+    {"slug": "laptops", "category": "Laptop", "fa": "راهنمای خرید لپ‌تاپ", "en": "Laptop buying guide", "query": "best laptops current month official specifications reviews buying guide"},
+    {"slug": "ai-tools", "category": "AI", "fa": "راهنمای انتخاب ابزار هوش مصنوعی", "en": "AI tools selection guide", "query": "best AI productivity tools current month official pricing privacy comparison"},
+    {"slug": "developer-gear", "category": "BuyingGuide", "fa": "راهنمای خرید تجهیزات برنامه‌نویسی", "en": "Developer gear buying guide", "query": "developer hardware buying guide monitors keyboards current month reviews"}
+  ]
+}
