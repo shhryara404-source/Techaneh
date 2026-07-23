@@ -1,0 +1,97 @@
+name: Install Techaneh v6 (fixed)
+
+on:
+  workflow_dispatch:
+
+# The built-in GITHUB_TOKEN only reads the repository here.
+# A repository-scoped PAT stored in TECHANEH_INSTALL_TOKEN performs the push,
+# because the package creates files inside .github/workflows/.
+permissions:
+  contents: read
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check installer token
+        shell: bash
+        env:
+          INSTALL_TOKEN: ${{ secrets.TECHANEH_INSTALL_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${INSTALL_TOKEN}" ]; then
+            echo "::error::Repository secret TECHANEH_INSTALL_TOKEN is missing."
+            exit 1
+          fi
+
+      - name: Checkout repository with installer token
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TECHANEH_INSTALL_TOKEN }}
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Find and extract Techaneh package
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          ZIP_FILE="$(find . -maxdepth 1 -type f -iname 'Techaneh-v6-site.zip' -print -quit)"
+          if [ -z "${ZIP_FILE}" ]; then
+            echo "::error::Techaneh-v6-site.zip was not found in the repository root."
+            exit 1
+          fi
+
+          rm -rf .techaneh-install
+          mkdir -p .techaneh-install
+          unzip -q "${ZIP_FILE}" -d .techaneh-install
+
+          SOURCE_DIR=".techaneh-install"
+          FIRST_COUNT="$(find .techaneh-install -mindepth 1 -maxdepth 1 | wc -l | tr -d ' ')"
+          FIRST_DIR="$(find .techaneh-install -mindepth 1 -maxdepth 1 -type d -print -quit)"
+          if [ "${FIRST_COUNT}" = "1" ] && [ -n "${FIRST_DIR}" ]; then
+            SOURCE_DIR="${FIRST_DIR}"
+          fi
+
+          rsync -a "${SOURCE_DIR}/" ./ \
+            --exclude '.git/' \
+            --exclude '.github/workflows/install-techaneh-v6.yml' \
+            --exclude '.github/workflows/install-techaneh-v6-fixed.yml'
+
+          rm -rf .techaneh-install "${ZIP_FILE}"
+
+      - name: Validate installed files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -s index.html
+          test -s assets/v6.css
+          test -s assets/v6.js
+          test -s worker/dashboard-worker.js
+          test -s data/knowledge.json
+
+          node --check assets/app.js
+          node --check assets/v6.js
+          node --check worker/dashboard-worker.js
+          node scripts/validate_site.mjs
+
+      - name: Commit and push installed site
+        shell: bash
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          set -euo pipefail
+
+          git config user.name "Techaneh Installer"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No installation changes found."
+            exit 0
+          fi
+
+          git commit -m "install: Techaneh v6"
+          git push origin "HEAD:${DEFAULT_BRANCH}"
