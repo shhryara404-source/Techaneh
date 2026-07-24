@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-24T10:29:03.971Z",
+  "generatedAt": "2026-07-24T10:36:06.913Z",
   "itemCount": 176,
   "items": [
     {
@@ -310,13 +310,13 @@
       "sources": []
     },
     {
-      "id": "product-apple-iphone-17-pro-max",
+      "id": "product-apple-airpods-4-with-active-noise-cancellation",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 17 Pro Max",
+      "category": "Audio",
+      "name": "Apple AirPods 4 with Active Noise Cancellation",
       "title": {
-        "fa": "Apple iPhone 17 Pro Max",
-        "en": "Apple iPhone 17 Pro Max"
+        "fa": "Apple AirPods 4 with Active Noise Cancellation",
+        "en": "Apple AirPods 4 with Active Noise Cancellation"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -328,13 +328,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-17-pro",
+      "id": "product-apple-airpods-pro-2",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 17 Pro",
+      "category": "Audio",
+      "name": "Apple AirPods Pro 2",
       "title": {
-        "fa": "Apple iPhone 17 Pro",
-        "en": "Apple iPhone 17 Pro"
+        "fa": "Apple AirPods Pro 2",
+        "en": "Apple AirPods Pro 2"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -346,13 +346,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-air",
+      "id": "product-beats-studio-pro",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone Air",
+      "category": "Audio",
+      "name": "Beats Studio Pro",
       "title": {
-        "fa": "Apple iPhone Air",
-        "en": "Apple iPhone Air"
+        "fa": "Beats Studio Pro",
+        "en": "Beats Studio Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -364,13 +364,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-17",
+      "id": "product-bose-quietcomfort-ultra-earbuds",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 17",
+      "category": "Audio",
+      "name": "Bose QuietComfort Ultra Earbuds",
       "title": {
-        "fa": "Apple iPhone 17",
-        "en": "Apple iPhone 17"
+        "fa": "Bose QuietComfort Ultra Earbuds",
+        "en": "Bose QuietComfort Ultra Earbuds"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -382,13 +382,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-17e",
+      "id": "product-bose-quietcomfort-ultra-headphones",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 17e",
+      "category": "Audio",
+      "name": "Bose QuietComfort Ultra Headphones",
       "title": {
-        "fa": "Apple iPhone 17e",
-        "en": "Apple iPhone 17e"
+        "fa": "Bose QuietComfort Ultra Headphones",
+        "en": "Bose QuietComfort Ultra Headphones"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -400,13 +400,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-16-pro-max",
+      "id": "product-google-pixel-buds-pro-2",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 16 Pro Max",
+      "category": "Audio",
+      "name": "Google Pixel Buds Pro 2",
       "title": {
-        "fa": "Apple iPhone 16 Pro Max",
-        "en": "Apple iPhone 16 Pro Max"
+        "fa": "Google Pixel Buds Pro 2",
+        "en": "Google Pixel Buds Pro 2"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -418,13 +418,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-16-pro",
+      "id": "product-jbl-tour-one-m3",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 16 Pro",
+      "category": "Audio",
+      "name": "JBL Tour One M3",
       "title": {
-        "fa": "Apple iPhone 16 Pro",
-        "en": "Apple iPhone 16 Pro"
+        "fa": "JBL Tour One M3",
+        "en": "JBL Tour One M3"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -436,13 +436,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-16-plus",
+      "id": "product-nothing-ear",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 16 Plus",
+      "category": "Audio",
+      "name": "Nothing Ear",
       "title": {
-        "fa": "Apple iPhone 16 Plus",
-        "en": "Apple iPhone 16 Plus"
+        "fa": "Nothing Ear",
+        "en": "Nothing Ear"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -454,13 +454,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-16",
+      "id": "product-oneplus-buds-pro-3",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 16",
+      "category": "Audio",
+      "name": "OnePlus Buds Pro 3",
       "title": {
-        "fa": "Apple iPhone 16",
-        "en": "Apple iPhone 16"
+        "fa": "OnePlus Buds Pro 3",
+        "en": "OnePlus Buds Pro 3"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -472,13 +472,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-iphone-16e",
+      "id": "product-samsung-galaxy-buds3-pro",
       "type": "product",
-      "category": "Phone",
-      "name": "Apple iPhone 16e",
+      "category": "Audio",
+      "name": "Samsung Galaxy Buds3 Pro",
       "title": {
-        "fa": "Apple iPhone 16e",
-        "en": "Apple iPhone 16e"
+        "fa": "Samsung Galaxy Buds3 Pro",
+        "en": "Samsung Galaxy Buds3 Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -490,13 +490,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-s26-ultra",
+      "id": "product-sennheiser-momentum-4-wireless",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy S26 Ultra",
+      "category": "Audio",
+      "name": "Sennheiser Momentum 4 Wireless",
       "title": {
-        "fa": "Samsung Galaxy S26 Ultra",
-        "en": "Samsung Galaxy S26 Ultra"
+        "fa": "Sennheiser Momentum 4 Wireless",
+        "en": "Sennheiser Momentum 4 Wireless"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -508,13 +508,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-s26",
+      "id": "product-sennheiser-momentum-true-wireless-4",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy S26+",
+      "category": "Audio",
+      "name": "Sennheiser Momentum True Wireless 4",
       "title": {
-        "fa": "Samsung Galaxy S26+",
-        "en": "Samsung Galaxy S26+"
+        "fa": "Sennheiser Momentum True Wireless 4",
+        "en": "Sennheiser Momentum True Wireless 4"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -526,13 +526,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-s26",
+      "id": "product-sonos-ace",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy S26",
+      "category": "Audio",
+      "name": "Sonos Ace",
       "title": {
-        "fa": "Samsung Galaxy S26",
-        "en": "Samsung Galaxy S26"
+        "fa": "Sonos Ace",
+        "en": "Sonos Ace"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -544,13 +544,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-s25-ultra",
+      "id": "product-sony-wh-1000xm5",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy S25 Ultra",
+      "category": "Audio",
+      "name": "Sony WH-1000XM5",
       "title": {
-        "fa": "Samsung Galaxy S25 Ultra",
-        "en": "Samsung Galaxy S25 Ultra"
+        "fa": "Sony WH-1000XM5",
+        "en": "Sony WH-1000XM5"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -562,13 +562,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-s25",
+      "id": "product-sony-wh-1000xm6",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy S25+",
+      "category": "Audio",
+      "name": "Sony WH-1000XM6",
       "title": {
-        "fa": "Samsung Galaxy S25+",
-        "en": "Samsung Galaxy S25+"
+        "fa": "Sony WH-1000XM6",
+        "en": "Sony WH-1000XM6"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -580,13 +580,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-s25",
+      "id": "product-asus-rog-ally-x",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy S25",
+      "category": "Console",
+      "name": "ASUS ROG Ally X",
       "title": {
-        "fa": "Samsung Galaxy S25",
-        "en": "Samsung Galaxy S25"
+        "fa": "ASUS ROG Ally X",
+        "en": "ASUS ROG Ally X"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -598,13 +598,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-z-fold7",
+      "id": "product-microsoft-xbox-series-s-1tb",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy Z Fold7",
+      "category": "Console",
+      "name": "Microsoft Xbox Series S 1TB",
       "title": {
-        "fa": "Samsung Galaxy Z Fold7",
-        "en": "Samsung Galaxy Z Fold7"
+        "fa": "Microsoft Xbox Series S 1TB",
+        "en": "Microsoft Xbox Series S 1TB"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -616,13 +616,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-z-flip7",
+      "id": "product-microsoft-xbox-series-x-1tb-digital-edition",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy Z Flip7",
+      "category": "Console",
+      "name": "Microsoft Xbox Series X 1TB Digital Edition",
       "title": {
-        "fa": "Samsung Galaxy Z Flip7",
-        "en": "Samsung Galaxy Z Flip7"
+        "fa": "Microsoft Xbox Series X 1TB Digital Edition",
+        "en": "Microsoft Xbox Series X 1TB Digital Edition"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -634,13 +634,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-a57-5g",
+      "id": "product-microsoft-xbox-series-x-2tb-galaxy-black",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy A57 5G",
+      "category": "Console",
+      "name": "Microsoft Xbox Series X 2TB Galaxy Black",
       "title": {
-        "fa": "Samsung Galaxy A57 5G",
-        "en": "Samsung Galaxy A57 5G"
+        "fa": "Microsoft Xbox Series X 2TB Galaxy Black",
+        "en": "Microsoft Xbox Series X 2TB Galaxy Black"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -652,13 +652,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-a56-5g",
+      "id": "product-nintendo-switch-2",
       "type": "product",
-      "category": "Phone",
-      "name": "Samsung Galaxy A56 5G",
+      "category": "Console",
+      "name": "Nintendo Switch 2",
       "title": {
-        "fa": "Samsung Galaxy A56 5G",
-        "en": "Samsung Galaxy A56 5G"
+        "fa": "Nintendo Switch 2",
+        "en": "Nintendo Switch 2"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -670,13 +670,13 @@
       "status": "seed"
     },
     {
-      "id": "product-google-pixel-10-pro-xl",
+      "id": "product-sony-playstation-5-digital-edition",
       "type": "product",
-      "category": "Phone",
-      "name": "Google Pixel 10 Pro XL",
+      "category": "Console",
+      "name": "Sony PlayStation 5 Digital Edition",
       "title": {
-        "fa": "Google Pixel 10 Pro XL",
-        "en": "Google Pixel 10 Pro XL"
+        "fa": "Sony PlayStation 5 Digital Edition",
+        "en": "Sony PlayStation 5 Digital Edition"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -688,13 +688,13 @@
       "status": "seed"
     },
     {
-      "id": "product-google-pixel-10-pro",
+      "id": "product-sony-playstation-5-pro",
       "type": "product",
-      "category": "Phone",
-      "name": "Google Pixel 10 Pro",
+      "category": "Console",
+      "name": "Sony PlayStation 5 Pro",
       "title": {
-        "fa": "Google Pixel 10 Pro",
-        "en": "Google Pixel 10 Pro"
+        "fa": "Sony PlayStation 5 Pro",
+        "en": "Sony PlayStation 5 Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -706,13 +706,13 @@
       "status": "seed"
     },
     {
-      "id": "product-google-pixel-10",
+      "id": "product-sony-playstation-5-slim",
       "type": "product",
-      "category": "Phone",
-      "name": "Google Pixel 10",
+      "category": "Console",
+      "name": "Sony PlayStation 5 Slim",
       "title": {
-        "fa": "Google Pixel 10",
-        "en": "Google Pixel 10"
+        "fa": "Sony PlayStation 5 Slim",
+        "en": "Sony PlayStation 5 Slim"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -724,13 +724,13 @@
       "status": "seed"
     },
     {
-      "id": "product-google-pixel-9a",
+      "id": "product-valve-steam-deck-oled",
       "type": "product",
-      "category": "Phone",
-      "name": "Google Pixel 9a",
+      "category": "Console",
+      "name": "Valve Steam Deck OLED",
       "title": {
-        "fa": "Google Pixel 9a",
-        "en": "Google Pixel 9a"
+        "fa": "Valve Steam Deck OLED",
+        "en": "Valve Steam Deck OLED"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -742,13 +742,13 @@
       "status": "seed"
     },
     {
-      "id": "product-oneplus-13",
+      "id": "product-amd-radeon-rx-7900-xtx",
       "type": "product",
-      "category": "Phone",
-      "name": "OnePlus 13",
+      "category": "GPU",
+      "name": "AMD Radeon RX 7900 XTX",
       "title": {
-        "fa": "OnePlus 13",
-        "en": "OnePlus 13"
+        "fa": "AMD Radeon RX 7900 XTX",
+        "en": "AMD Radeon RX 7900 XTX"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -760,13 +760,13 @@
       "status": "seed"
     },
     {
-      "id": "product-oneplus-13r",
+      "id": "product-amd-radeon-rx-9070",
       "type": "product",
-      "category": "Phone",
-      "name": "OnePlus 13R",
+      "category": "GPU",
+      "name": "AMD Radeon RX 9070",
       "title": {
-        "fa": "OnePlus 13R",
-        "en": "OnePlus 13R"
+        "fa": "AMD Radeon RX 9070",
+        "en": "AMD Radeon RX 9070"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -778,13 +778,13 @@
       "status": "seed"
     },
     {
-      "id": "product-xiaomi-15-ultra",
+      "id": "product-amd-radeon-rx-9070-xt",
       "type": "product",
-      "category": "Phone",
-      "name": "Xiaomi 15 Ultra",
+      "category": "GPU",
+      "name": "AMD Radeon RX 9070 XT",
       "title": {
-        "fa": "Xiaomi 15 Ultra",
-        "en": "Xiaomi 15 Ultra"
+        "fa": "AMD Radeon RX 9070 XT",
+        "en": "AMD Radeon RX 9070 XT"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -796,13 +796,13 @@
       "status": "seed"
     },
     {
-      "id": "product-xiaomi-15",
+      "id": "product-intel-arc-a770",
       "type": "product",
-      "category": "Phone",
-      "name": "Xiaomi 15",
+      "category": "GPU",
+      "name": "Intel Arc A770",
       "title": {
-        "fa": "Xiaomi 15",
-        "en": "Xiaomi 15"
+        "fa": "Intel Arc A770",
+        "en": "Intel Arc A770"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -814,13 +814,13 @@
       "status": "seed"
     },
     {
-      "id": "product-xiaomi-14t-pro",
+      "id": "product-intel-arc-b580",
       "type": "product",
-      "category": "Phone",
-      "name": "Xiaomi 14T Pro",
+      "category": "GPU",
+      "name": "Intel Arc B580",
       "title": {
-        "fa": "Xiaomi 14T Pro",
-        "en": "Xiaomi 14T Pro"
+        "fa": "Intel Arc B580",
+        "en": "Intel Arc B580"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -832,13 +832,13 @@
       "status": "seed"
     },
     {
-      "id": "product-redmi-note-14-pro-5g",
+      "id": "product-nvidia-geforce-rtx-4070-super",
       "type": "product",
-      "category": "Phone",
-      "name": "Redmi Note 14 Pro+ 5G",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 4070 SUPER",
       "title": {
-        "fa": "Redmi Note 14 Pro+ 5G",
-        "en": "Redmi Note 14 Pro+ 5G"
+        "fa": "NVIDIA GeForce RTX 4070 SUPER",
+        "en": "NVIDIA GeForce RTX 4070 SUPER"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -850,13 +850,13 @@
       "status": "seed"
     },
     {
-      "id": "product-oppo-find-x8-pro",
+      "id": "product-nvidia-geforce-rtx-4080-super",
       "type": "product",
-      "category": "Phone",
-      "name": "OPPO Find X8 Pro",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 4080 SUPER",
       "title": {
-        "fa": "OPPO Find X8 Pro",
-        "en": "OPPO Find X8 Pro"
+        "fa": "NVIDIA GeForce RTX 4080 SUPER",
+        "en": "NVIDIA GeForce RTX 4080 SUPER"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -868,13 +868,13 @@
       "status": "seed"
     },
     {
-      "id": "product-oppo-find-n5",
+      "id": "product-nvidia-geforce-rtx-4090",
       "type": "product",
-      "category": "Phone",
-      "name": "OPPO Find N5",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 4090",
       "title": {
-        "fa": "OPPO Find N5",
-        "en": "OPPO Find N5"
+        "fa": "NVIDIA GeForce RTX 4090",
+        "en": "NVIDIA GeForce RTX 4090"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -886,13 +886,13 @@
       "status": "seed"
     },
     {
-      "id": "product-vivo-x200-pro",
+      "id": "product-nvidia-geforce-rtx-5060",
       "type": "product",
-      "category": "Phone",
-      "name": "vivo X200 Pro",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5060",
       "title": {
-        "fa": "vivo X200 Pro",
-        "en": "vivo X200 Pro"
+        "fa": "NVIDIA GeForce RTX 5060",
+        "en": "NVIDIA GeForce RTX 5060"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -904,13 +904,13 @@
       "status": "seed"
     },
     {
-      "id": "product-honor-magic7-pro",
+      "id": "product-nvidia-geforce-rtx-5060-ti",
       "type": "product",
-      "category": "Phone",
-      "name": "HONOR Magic7 Pro",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5060 Ti",
       "title": {
-        "fa": "HONOR Magic7 Pro",
-        "en": "HONOR Magic7 Pro"
+        "fa": "NVIDIA GeForce RTX 5060 Ti",
+        "en": "NVIDIA GeForce RTX 5060 Ti"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -922,13 +922,13 @@
       "status": "seed"
     },
     {
-      "id": "product-honor-magic-v3",
+      "id": "product-nvidia-geforce-rtx-5070",
       "type": "product",
-      "category": "Phone",
-      "name": "HONOR Magic V3",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5070",
       "title": {
-        "fa": "HONOR Magic V3",
-        "en": "HONOR Magic V3"
+        "fa": "NVIDIA GeForce RTX 5070",
+        "en": "NVIDIA GeForce RTX 5070"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -940,13 +940,13 @@
       "status": "seed"
     },
     {
-      "id": "product-huawei-pura-70-ultra",
+      "id": "product-nvidia-geforce-rtx-5070-ti",
       "type": "product",
-      "category": "Phone",
-      "name": "Huawei Pura 70 Ultra",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5070 Ti",
       "title": {
-        "fa": "Huawei Pura 70 Ultra",
-        "en": "Huawei Pura 70 Ultra"
+        "fa": "NVIDIA GeForce RTX 5070 Ti",
+        "en": "NVIDIA GeForce RTX 5070 Ti"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -958,13 +958,13 @@
       "status": "seed"
     },
     {
-      "id": "product-huawei-mate-x6",
+      "id": "product-nvidia-geforce-rtx-5080",
       "type": "product",
-      "category": "Phone",
-      "name": "Huawei Mate X6",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5080",
       "title": {
-        "fa": "Huawei Mate X6",
-        "en": "Huawei Mate X6"
+        "fa": "NVIDIA GeForce RTX 5080",
+        "en": "NVIDIA GeForce RTX 5080"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -976,13 +976,13 @@
       "status": "seed"
     },
     {
-      "id": "product-motorola-razr-60-ultra",
+      "id": "product-nvidia-geforce-rtx-5090",
       "type": "product",
-      "category": "Phone",
-      "name": "Motorola Razr 60 Ultra",
+      "category": "GPU",
+      "name": "NVIDIA GeForce RTX 5090",
       "title": {
-        "fa": "Motorola Razr 60 Ultra",
-        "en": "Motorola Razr 60 Ultra"
+        "fa": "NVIDIA GeForce RTX 5090",
+        "en": "NVIDIA GeForce RTX 5090"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -994,13 +994,13 @@
       "status": "seed"
     },
     {
-      "id": "product-motorola-edge-60-pro",
+      "id": "product-asus-rog-strix-scar-18",
       "type": "product",
-      "category": "Phone",
-      "name": "Motorola Edge 60 Pro",
+      "category": "Laptop",
+      "name": "ASUS ROG Strix SCAR 18",
       "title": {
-        "fa": "Motorola Edge 60 Pro",
-        "en": "Motorola Edge 60 Pro"
+        "fa": "ASUS ROG Strix SCAR 18",
+        "en": "ASUS ROG Strix SCAR 18"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1012,13 +1012,13 @@
       "status": "seed"
     },
     {
-      "id": "product-nothing-phone-3",
+      "id": "product-asus-rog-zephyrus-g14",
       "type": "product",
-      "category": "Phone",
-      "name": "Nothing Phone (3)",
+      "category": "Laptop",
+      "name": "ASUS ROG Zephyrus G14",
       "title": {
-        "fa": "Nothing Phone (3)",
-        "en": "Nothing Phone (3)"
+        "fa": "ASUS ROG Zephyrus G14",
+        "en": "ASUS ROG Zephyrus G14"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1030,13 +1030,13 @@
       "status": "seed"
     },
     {
-      "id": "product-nothing-phone-3a-pro",
+      "id": "product-asus-rog-zephyrus-g16",
       "type": "product",
-      "category": "Phone",
-      "name": "Nothing Phone (3a) Pro",
+      "category": "Laptop",
+      "name": "ASUS ROG Zephyrus G16",
       "title": {
-        "fa": "Nothing Phone (3a) Pro",
-        "en": "Nothing Phone (3a) Pro"
+        "fa": "ASUS ROG Zephyrus G16",
+        "en": "ASUS ROG Zephyrus G16"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1048,13 +1048,13 @@
       "status": "seed"
     },
     {
-      "id": "product-sony-xperia-1-vii",
+      "id": "product-asus-zenbook-s-14",
       "type": "product",
-      "category": "Phone",
-      "name": "Sony Xperia 1 VII",
+      "category": "Laptop",
+      "name": "ASUS Zenbook S 14",
       "title": {
-        "fa": "Sony Xperia 1 VII",
-        "en": "Sony Xperia 1 VII"
+        "fa": "ASUS Zenbook S 14",
+        "en": "ASUS Zenbook S 14"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1066,13 +1066,49 @@
       "status": "seed"
     },
     {
-      "id": "product-asus-rog-phone-9-pro",
+      "id": "product-acer-predator-helios-18-ai",
       "type": "product",
-      "category": "Phone",
-      "name": "ASUS ROG Phone 9 Pro",
+      "category": "Laptop",
+      "name": "Acer Predator Helios 18 AI",
       "title": {
-        "fa": "ASUS ROG Phone 9 Pro",
-        "en": "ASUS ROG Phone 9 Pro"
+        "fa": "Acer Predator Helios 18 AI",
+        "en": "Acer Predator Helios 18 AI"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-acer-swift-14-ai",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Acer Swift 14 AI",
+      "title": {
+        "fa": "Acer Swift 14 AI",
+        "en": "Acer Swift 14 AI"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-alienware-m16-r2",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Alienware m16 R2",
+      "title": {
+        "fa": "Alienware m16 R2",
+        "en": "Alienware m16 R2"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1156,24 +1192,6 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-macbook-pro-16-inch-m5-pro",
-      "type": "product",
-      "category": "Laptop",
-      "name": "Apple MacBook Pro 16-inch M5 Pro",
-      "title": {
-        "fa": "Apple MacBook Pro 16-inch M5 Pro",
-        "en": "Apple MacBook Pro 16-inch M5 Pro"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
       "id": "product-apple-macbook-pro-16-inch-m5-max",
       "type": "product",
       "category": "Laptop",
@@ -1192,13 +1210,13 @@
       "status": "seed"
     },
     {
-      "id": "product-dell-xps-13-9350",
+      "id": "product-apple-macbook-pro-16-inch-m5-pro",
       "type": "product",
       "category": "Laptop",
-      "name": "Dell XPS 13 9350",
+      "name": "Apple MacBook Pro 16-inch M5 Pro",
       "title": {
-        "fa": "Dell XPS 13 9350",
-        "en": "Dell XPS 13 9350"
+        "fa": "Apple MacBook Pro 16-inch M5 Pro",
+        "en": "Apple MacBook Pro 16-inch M5 Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1246,13 +1264,49 @@
       "status": "seed"
     },
     {
-      "id": "product-hp-spectre-x360-14",
+      "id": "product-dell-xps-13-9350",
       "type": "product",
       "category": "Laptop",
-      "name": "HP Spectre x360 14",
+      "name": "Dell XPS 13 9350",
       "title": {
-        "fa": "HP Spectre x360 14",
-        "en": "HP Spectre x360 14"
+        "fa": "Dell XPS 13 9350",
+        "en": "Dell XPS 13 9350"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-framework-laptop-13",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Framework Laptop 13",
+      "title": {
+        "fa": "Framework Laptop 13",
+        "en": "Framework Laptop 13"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-framework-laptop-16",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Framework Laptop 16",
+      "title": {
+        "fa": "Framework Laptop 16",
+        "en": "Framework Laptop 16"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1271,6 +1325,78 @@
       "title": {
         "fa": "HP OmniBook Ultra Flip 14",
         "en": "HP OmniBook Ultra Flip 14"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-hp-spectre-x360-14",
+      "type": "product",
+      "category": "Laptop",
+      "name": "HP Spectre x360 14",
+      "title": {
+        "fa": "HP Spectre x360 14",
+        "en": "HP Spectre x360 14"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-huawei-matebook-x-pro-2024",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Huawei MateBook X Pro 2024",
+      "title": {
+        "fa": "Huawei MateBook X Pro 2024",
+        "en": "Huawei MateBook X Pro 2024"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lg-gram-pro-16",
+      "type": "product",
+      "category": "Laptop",
+      "name": "LG gram Pro 16",
+      "title": {
+        "fa": "LG gram Pro 16",
+        "en": "LG gram Pro 16"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lenovo-legion-pro-7i-gen-10",
+      "type": "product",
+      "category": "Laptop",
+      "name": "Lenovo Legion Pro 7i Gen 10",
+      "title": {
+        "fa": "Lenovo Legion Pro 7i Gen 10",
+        "en": "Lenovo Legion Pro 7i Gen 10"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1318,121 +1444,13 @@
       "status": "seed"
     },
     {
-      "id": "product-lenovo-legion-pro-7i-gen-10",
+      "id": "product-msi-stealth-a16-ai",
       "type": "product",
       "category": "Laptop",
-      "name": "Lenovo Legion Pro 7i Gen 10",
+      "name": "MSI Stealth A16 AI+",
       "title": {
-        "fa": "Lenovo Legion Pro 7i Gen 10",
-        "en": "Lenovo Legion Pro 7i Gen 10"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-asus-zenbook-s-14",
-      "type": "product",
-      "category": "Laptop",
-      "name": "ASUS Zenbook S 14",
-      "title": {
-        "fa": "ASUS Zenbook S 14",
-        "en": "ASUS Zenbook S 14"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-asus-rog-zephyrus-g14",
-      "type": "product",
-      "category": "Laptop",
-      "name": "ASUS ROG Zephyrus G14",
-      "title": {
-        "fa": "ASUS ROG Zephyrus G14",
-        "en": "ASUS ROG Zephyrus G14"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-asus-rog-zephyrus-g16",
-      "type": "product",
-      "category": "Laptop",
-      "name": "ASUS ROG Zephyrus G16",
-      "title": {
-        "fa": "ASUS ROG Zephyrus G16",
-        "en": "ASUS ROG Zephyrus G16"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-asus-rog-strix-scar-18",
-      "type": "product",
-      "category": "Laptop",
-      "name": "ASUS ROG Strix SCAR 18",
-      "title": {
-        "fa": "ASUS ROG Strix SCAR 18",
-        "en": "ASUS ROG Strix SCAR 18"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-acer-swift-14-ai",
-      "type": "product",
-      "category": "Laptop",
-      "name": "Acer Swift 14 AI",
-      "title": {
-        "fa": "Acer Swift 14 AI",
-        "en": "Acer Swift 14 AI"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-acer-predator-helios-18-ai",
-      "type": "product",
-      "category": "Laptop",
-      "name": "Acer Predator Helios 18 AI",
-      "title": {
-        "fa": "Acer Predator Helios 18 AI",
-        "en": "Acer Predator Helios 18 AI"
+        "fa": "MSI Stealth A16 AI+",
+        "en": "MSI Stealth A16 AI+"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1480,13 +1498,13 @@
       "status": "seed"
     },
     {
-      "id": "product-framework-laptop-13",
+      "id": "product-razer-blade-14",
       "type": "product",
       "category": "Laptop",
-      "name": "Framework Laptop 13",
+      "name": "Razer Blade 14",
       "title": {
-        "fa": "Framework Laptop 13",
-        "en": "Framework Laptop 13"
+        "fa": "Razer Blade 14",
+        "en": "Razer Blade 14"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1498,13 +1516,13 @@
       "status": "seed"
     },
     {
-      "id": "product-framework-laptop-16",
+      "id": "product-razer-blade-16",
       "type": "product",
       "category": "Laptop",
-      "name": "Framework Laptop 16",
+      "name": "Razer Blade 16",
       "title": {
-        "fa": "Framework Laptop 16",
-        "en": "Framework Laptop 16"
+        "fa": "Razer Blade 16",
+        "en": "Razer Blade 16"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1570,13 +1588,130 @@
       "status": "seed"
     },
     {
-      "id": "product-msi-stealth-a16-ai",
+      "id": "product-asus-rog-swift-oled-pg32ucdm",
       "type": "product",
-      "category": "Laptop",
-      "name": "MSI Stealth A16 AI+",
+      "category": "Monitor",
+      "name": "ASUS ROG Swift OLED PG32UCDM",
       "title": {
-        "fa": "MSI Stealth A16 AI+",
-        "en": "MSI Stealth A16 AI+"
+        "fa": "ASUS ROG Swift OLED PG32UCDM",
+        "en": "ASUS ROG Swift OLED PG32UCDM"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "PCMag",
+          "url": "https://www.pcmag.com/reviews/asus-rog-swift-oled-pg32ucdm"
+        },
+        {
+          "name": "TFTCentral",
+          "url": "https://tftcentral.co.uk/reviews/asus-rog-swift-pg32ucdm"
+        },
+        {
+          "name": "Forbes",
+          "url": "https://www.forbes.com/sites/mitchwallace/2025/05/15/asus-rog-swift-32-4k-oled-gaming-monitor-pg32ucdm-review-delicate-power"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/monitors/gaming-monitors/asus-rog-swift-pg32ucdm3-32-inch-240-hz-qd-oled-gaming-monitor-review"
+        },
+        {
+          "name": "RTINGS.com",
+          "url": "https://www.rtings.com/monitor/reviews/asus/rog-swift-oled-pg32ucdm"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-alienware-aw2725df",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Alienware AW2725DF",
+      "title": {
+        "fa": "Alienware AW2725DF",
+        "en": "Alienware AW2725DF"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "TweakTown",
+          "url": "https://www.tweaktown.com/reviews/10867/alienware-aw2725df-gaming-monitor-peak-1440p-with-qd-oled-at-360hz/index.html"
+        },
+        {
+          "name": "Dell USA",
+          "url": "https://www.dell.com/en-us/shop/alienware-27-360hz-qd-oled-gaming-monitor-aw2725df/apd/210-bljd/monitors-monitor-accessories"
+        },
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Alienware-AW2725DF-OLED-Gaming-Monitor/dp/B0CZSGWLD5"
+        },
+        {
+          "name": "TFTCentral",
+          "url": "https://tftcentral.co.uk/reviews/dell-alienware-aw2725df"
+        },
+        {
+          "name": "RTINGS",
+          "url": "https://www.rtings.com/monitor/reviews/dell/alienware-aw2725df"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-alienware-aw3225qf",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Alienware AW3225QF",
+      "title": {
+        "fa": "Alienware AW3225QF",
+        "en": "Alienware AW3225QF"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "PCMag",
+          "url": "https://www.pcmag.com/reviews/alienware-aw3225qf-4k-qd-oled"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/monitors/gaming-monitors/alienware-aw3225qf-oled-4k-gaming-monitor-review"
+        },
+        {
+          "name": "Laptop Mag",
+          "url": "https://www.laptopmag.com/gaming/gaming-monitors/alienware-32-inch-4k-qd-oled-aw3225qf"
+        },
+        {
+          "name": "TFTCentral",
+          "url": "https://tftcentral.co.uk/reviews/dell-alienware-aw3225qf"
+        },
+        {
+          "name": "PC Perspective",
+          "url": "https://pcper.com/2024/04/alienware-aw3225qf-4k-qd-oled-monitor-review"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-studio-display",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Apple Studio Display",
+      "title": {
+        "fa": "Apple Studio Display",
+        "en": "Apple Studio Display"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1588,13 +1723,13 @@
       "status": "seed"
     },
     {
-      "id": "product-razer-blade-14",
+      "id": "product-benq-pd3225u",
       "type": "product",
-      "category": "Laptop",
-      "name": "Razer Blade 14",
+      "category": "Monitor",
+      "name": "BenQ PD3225U",
       "title": {
-        "fa": "Razer Blade 14",
-        "en": "Razer Blade 14"
+        "fa": "BenQ PD3225U",
+        "en": "BenQ PD3225U"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1606,13 +1741,196 @@
       "status": "seed"
     },
     {
-      "id": "product-razer-blade-16",
+      "id": "product-dell-ultrasharp-u3225qe",
       "type": "product",
-      "category": "Laptop",
-      "name": "Razer Blade 16",
+      "category": "Monitor",
+      "name": "Dell UltraSharp U3225QE",
       "title": {
-        "fa": "Razer Blade 16",
-        "en": "Razer Blade 16"
+        "fa": "Dell UltraSharp U3225QE",
+        "en": "Dell UltraSharp U3225QE"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "PCWorld",
+          "url": "https://www.pcworld.com/article/2618102/dell-ultrasharp-u3225qe-review-the-best-home-office-monitor-yet.html"
+        },
+        {
+          "name": "Laptop Mag",
+          "url": "https://www.laptopmag.com/gaming/gaming-monitors/dell-ultrasharp-32-4k-thunderbolt-hub-monitor-review"
+        },
+        {
+          "name": "Dell USA",
+          "url": "https://www.dell.com/en-us/shop/dell-ultrasharp-32-4k-thunderbolt-hub-monitor-u3225qe/apd/210-bqhs/monitors-monitor-accessories"
+        },
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/Dell-UltraSharp-32-inch-Thunderbolt-Monitor/dp/B0FDCLPZC6"
+        },
+        {
+          "name": "YouTube Review",
+          "url": "https://www.youtube.com/watch?v=auBJ2a57dDs"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-gigabyte-aorus-fo32u2p",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Gigabyte AORUS FO32U2P",
+      "title": {
+        "fa": "Gigabyte AORUS FO32U2P",
+        "en": "Gigabyte AORUS FO32U2P"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "Wccftech",
+          "url": "https://wccftech.com/review/gigabyte-aorus-fo32u2p-4k-240hz-qd-oled-gaming-monitor-review-an-oled-stunner-with-full-dp2-1-bandwidth"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-aorus-fo32u2p-240-hz-4k-oled-gaming-monitor-review"
+        },
+        {
+          "name": "Geekawhat",
+          "url": "https://geekawhat.com/gigabyte-aorus-fo32u2p-monitor-review"
+        },
+        {
+          "name": "TechPorn",
+          "url": "https://www.techporn.ph/gigabyte-aorus-fo32u2p-gaming-monitor-review"
+        },
+        {
+          "name": "TFTCentral",
+          "url": "https://tftcentral.co.uk/reviews/gigabyte-aorus-fo32u2p"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-lg-dualup-28mq780",
+      "type": "product",
+      "category": "Monitor",
+      "name": "LG DualUp 28MQ780",
+      "title": {
+        "fa": "LG DualUp 28MQ780",
+        "en": "LG DualUp 28MQ780"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "PCWorld",
+          "url": "https://www.pcworld.com/article/796390/lg-dualup-28mq780-b-monitor-review.html"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/reviews/lg-28mw70-dualup-monitor"
+        },
+        {
+          "name": "Versus",
+          "url": "https://versus.com/en/lg-dualup-28mq780-b-27-6"
+        },
+        {
+          "name": "HardwareZone",
+          "url": "https://www.hardwarezone.com.sg/pc/accessories/review-lg-dualup-ergo-28mq780-b-square-work-office-monitor-review-price-specs-features-singapore"
+        },
+        {
+          "name": "LG USA",
+          "url": "https://www.lg.com/us/monitors/lg-28mq780-b-dualup-monitor"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-lg-ultragear-32gs95ue",
+      "type": "product",
+      "category": "Monitor",
+      "name": "LG UltraGear 32GS95UE",
+      "title": {
+        "fa": "LG UltraGear 32GS95UE",
+        "en": "LG UltraGear 32GS95UE"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "Display Ninja",
+          "url": "https://www.displayninja.com/lg-32gs95ue-review"
+        },
+        {
+          "name": "TechSpot",
+          "url": "https://www.techspot.com/review/2822-lg-32gs95ue-woled"
+        },
+        {
+          "name": "Amazon",
+          "url": "https://www.amazon.com/LG-%E2%80%8E32GS95UE-Ultragear-DisplayHDR-DisplayPort/dp/B0CV1Y7NLT"
+        },
+        {
+          "name": "LG USA",
+          "url": "https://www.lg.com/us/monitors/lg-32gs95ue-b-gaming-monitor"
+        },
+        {
+          "name": "TFTCentral",
+          "url": "https://tftcentral.co.uk/reviews/lg-32gs95ue"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-msi-mpg-321urx-qd-oled",
+      "type": "product",
+      "category": "Monitor",
+      "name": "MSI MPG 321URX QD-OLED",
+      "title": {
+        "fa": "MSI MPG 321URX QD-OLED",
+        "en": "MSI MPG 321URX QD-OLED"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "MSI Official Site",
+          "url": "https://www.msi.com/Monitor/MPG-321URX-QD-OLED"
+        },
+        {
+          "name": "YouTube Review",
+          "url": "https://www.youtube.com/watch?v=z-U8MdpTuDE&vl=en"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-odyssey-oled-g8-g80sd",
+      "type": "product",
+      "category": "Monitor",
+      "name": "Samsung Odyssey OLED G8 G80SD",
+      "title": {
+        "fa": "Samsung Odyssey OLED G8 G80SD",
+        "en": "Samsung Odyssey OLED G8 G80SD"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1624,13 +1942,13 @@
       "status": "seed"
     },
     {
-      "id": "product-lg-gram-pro-16",
+      "id": "product-samsung-odyssey-oled-g9-g95sd",
       "type": "product",
-      "category": "Laptop",
-      "name": "LG gram Pro 16",
+      "category": "Monitor",
+      "name": "Samsung Odyssey OLED G9 G95SD",
       "title": {
-        "fa": "LG gram Pro 16",
-        "en": "LG gram Pro 16"
+        "fa": "Samsung Odyssey OLED G9 G95SD",
+        "en": "Samsung Odyssey OLED G9 G95SD"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1642,13 +1960,52 @@
       "status": "seed"
     },
     {
-      "id": "product-alienware-m16-r2",
+      "id": "product-samsung-viewfinity-s9-s90pc",
       "type": "product",
-      "category": "Laptop",
-      "name": "Alienware m16 R2",
+      "category": "Monitor",
+      "name": "Samsung ViewFinity S9 S90PC",
       "title": {
-        "fa": "Alienware m16 R2",
-        "en": "Alienware m16 R2"
+        "fa": "Samsung ViewFinity S9 S90PC",
+        "en": "Samsung ViewFinity S9 S90PC"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "Samsung Official Site",
+          "url": "https://www.samsung.com/nz/monitors/high-resolution/viewfinity-s9-27-inch-5k-resolution-ls27c900paexxy"
+        },
+        {
+          "name": "Microless",
+          "url": "https://global.microless.com/product/samsung-viewfinity-s9-s90pc-smart-monitor-27-5k-5120-x-2880-ips-display-60hz-refresh-rate-5ms-gtg-response-time-wi-fi5-bt4-2-max-1b-color-built-in-2x-5w-speaker-silver-ls27c902pamxue?currency=usd"
+        },
+        {
+          "name": "Six Colors Review",
+          "url": "https://sixcolors.com/post/2023/09/review-27-inch-samsung-viewfinity-s9-display"
+        },
+        {
+          "name": "TechPowerUp Review",
+          "url": "https://www.techpowerup.com/review/samsung-viewfinity-s9"
+        },
+        {
+          "name": "BGR Review",
+          "url": "https://www.bgr.com/reviews/samsung-viewfinity-s9-review"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-asus-rog-phone-9-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "ASUS ROG Phone 9 Pro",
+      "title": {
+        "fa": "ASUS ROG Phone 9 Pro",
+        "en": "ASUS ROG Phone 9 Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1660,13 +2017,13 @@
       "status": "seed"
     },
     {
-      "id": "product-huawei-matebook-x-pro-2024",
+      "id": "product-apple-iphone-16",
       "type": "product",
-      "category": "Laptop",
-      "name": "Huawei MateBook X Pro 2024",
+      "category": "Phone",
+      "name": "Apple iPhone 16",
       "title": {
-        "fa": "Huawei MateBook X Pro 2024",
-        "en": "Huawei MateBook X Pro 2024"
+        "fa": "Apple iPhone 16",
+        "en": "Apple iPhone 16"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1678,13 +2035,13 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-ipad-pro-11-inch-m5",
+      "id": "product-apple-iphone-16-plus",
       "type": "product",
-      "category": "Tablet",
-      "name": "Apple iPad Pro 11-inch M5",
+      "category": "Phone",
+      "name": "Apple iPhone 16 Plus",
       "title": {
-        "fa": "Apple iPad Pro 11-inch M5",
-        "en": "Apple iPad Pro 11-inch M5"
+        "fa": "Apple iPhone 16 Plus",
+        "en": "Apple iPhone 16 Plus"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1696,13 +2053,732 @@
       "status": "seed"
     },
     {
-      "id": "product-apple-ipad-pro-13-inch-m5",
+      "id": "product-apple-iphone-16-pro",
       "type": "product",
-      "category": "Tablet",
-      "name": "Apple iPad Pro 13-inch M5",
+      "category": "Phone",
+      "name": "Apple iPhone 16 Pro",
       "title": {
-        "fa": "Apple iPad Pro 13-inch M5",
-        "en": "Apple iPad Pro 13-inch M5"
+        "fa": "Apple iPhone 16 Pro",
+        "en": "Apple iPhone 16 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-16-pro-max",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 16 Pro Max",
+      "title": {
+        "fa": "Apple iPhone 16 Pro Max",
+        "en": "Apple iPhone 16 Pro Max"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-16e",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 16e",
+      "title": {
+        "fa": "Apple iPhone 16e",
+        "en": "Apple iPhone 16e"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-17",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 17",
+      "title": {
+        "fa": "Apple iPhone 17",
+        "en": "Apple iPhone 17"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-17-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 17 Pro",
+      "title": {
+        "fa": "Apple iPhone 17 Pro",
+        "en": "Apple iPhone 17 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": "2026-07-24",
+      "sources": [
+        {
+          "name": "PCMag Middle East",
+          "url": "https://me.pcmag.com/en/mobile-phones/32331/apple-iphone-17-pro"
+        },
+        {
+          "name": "GSMArena",
+          "url": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php"
+        },
+        {
+          "name": "AppleInsider",
+          "url": "https://appleinsider.com/articles/25/12/17/iphone-17-pro-review-three-months-later-still-fresh"
+        },
+        {
+          "name": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/IPhone_17_Pro"
+        }
+      ],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-17-pro-max",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 17 Pro Max",
+      "title": {
+        "fa": "Apple iPhone 17 Pro Max",
+        "en": "Apple iPhone 17 Pro Max"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-17e",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone 17e",
+      "title": {
+        "fa": "Apple iPhone 17e",
+        "en": "Apple iPhone 17e"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-iphone-air",
+      "type": "product",
+      "category": "Phone",
+      "name": "Apple iPhone Air",
+      "title": {
+        "fa": "Apple iPhone Air",
+        "en": "Apple iPhone Air"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-10",
+      "type": "product",
+      "category": "Phone",
+      "name": "Google Pixel 10",
+      "title": {
+        "fa": "Google Pixel 10",
+        "en": "Google Pixel 10"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-10-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Google Pixel 10 Pro",
+      "title": {
+        "fa": "Google Pixel 10 Pro",
+        "en": "Google Pixel 10 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-10-pro-xl",
+      "type": "product",
+      "category": "Phone",
+      "name": "Google Pixel 10 Pro XL",
+      "title": {
+        "fa": "Google Pixel 10 Pro XL",
+        "en": "Google Pixel 10 Pro XL"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-google-pixel-9a",
+      "type": "product",
+      "category": "Phone",
+      "name": "Google Pixel 9a",
+      "title": {
+        "fa": "Google Pixel 9a",
+        "en": "Google Pixel 9a"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-honor-magic-v3",
+      "type": "product",
+      "category": "Phone",
+      "name": "HONOR Magic V3",
+      "title": {
+        "fa": "HONOR Magic V3",
+        "en": "HONOR Magic V3"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-honor-magic7-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "HONOR Magic7 Pro",
+      "title": {
+        "fa": "HONOR Magic7 Pro",
+        "en": "HONOR Magic7 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-huawei-mate-x6",
+      "type": "product",
+      "category": "Phone",
+      "name": "Huawei Mate X6",
+      "title": {
+        "fa": "Huawei Mate X6",
+        "en": "Huawei Mate X6"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-huawei-pura-70-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Huawei Pura 70 Ultra",
+      "title": {
+        "fa": "Huawei Pura 70 Ultra",
+        "en": "Huawei Pura 70 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-motorola-edge-60-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Motorola Edge 60 Pro",
+      "title": {
+        "fa": "Motorola Edge 60 Pro",
+        "en": "Motorola Edge 60 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-motorola-razr-60-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Motorola Razr 60 Ultra",
+      "title": {
+        "fa": "Motorola Razr 60 Ultra",
+        "en": "Motorola Razr 60 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nothing-phone-3",
+      "type": "product",
+      "category": "Phone",
+      "name": "Nothing Phone (3)",
+      "title": {
+        "fa": "Nothing Phone (3)",
+        "en": "Nothing Phone (3)"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-nothing-phone-3a-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Nothing Phone (3a) Pro",
+      "title": {
+        "fa": "Nothing Phone (3a) Pro",
+        "en": "Nothing Phone (3a) Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oppo-find-n5",
+      "type": "product",
+      "category": "Phone",
+      "name": "OPPO Find N5",
+      "title": {
+        "fa": "OPPO Find N5",
+        "en": "OPPO Find N5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oppo-find-x8-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "OPPO Find X8 Pro",
+      "title": {
+        "fa": "OPPO Find X8 Pro",
+        "en": "OPPO Find X8 Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oneplus-13",
+      "type": "product",
+      "category": "Phone",
+      "name": "OnePlus 13",
+      "title": {
+        "fa": "OnePlus 13",
+        "en": "OnePlus 13"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-oneplus-13r",
+      "type": "product",
+      "category": "Phone",
+      "name": "OnePlus 13R",
+      "title": {
+        "fa": "OnePlus 13R",
+        "en": "OnePlus 13R"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-redmi-note-14-pro-5g",
+      "type": "product",
+      "category": "Phone",
+      "name": "Redmi Note 14 Pro+ 5G",
+      "title": {
+        "fa": "Redmi Note 14 Pro+ 5G",
+        "en": "Redmi Note 14 Pro+ 5G"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-a56-5g",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy A56 5G",
+      "title": {
+        "fa": "Samsung Galaxy A56 5G",
+        "en": "Samsung Galaxy A56 5G"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-a57-5g",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy A57 5G",
+      "title": {
+        "fa": "Samsung Galaxy A57 5G",
+        "en": "Samsung Galaxy A57 5G"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s25",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S25",
+      "title": {
+        "fa": "Samsung Galaxy S25",
+        "en": "Samsung Galaxy S25"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s25-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S25 Ultra",
+      "title": {
+        "fa": "Samsung Galaxy S25 Ultra",
+        "en": "Samsung Galaxy S25 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s25",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S25+",
+      "title": {
+        "fa": "Samsung Galaxy S25+",
+        "en": "Samsung Galaxy S25+"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s26",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S26",
+      "title": {
+        "fa": "Samsung Galaxy S26",
+        "en": "Samsung Galaxy S26"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s26-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S26 Ultra",
+      "title": {
+        "fa": "Samsung Galaxy S26 Ultra",
+        "en": "Samsung Galaxy S26 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-s26",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy S26+",
+      "title": {
+        "fa": "Samsung Galaxy S26+",
+        "en": "Samsung Galaxy S26+"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-z-flip7",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy Z Flip7",
+      "title": {
+        "fa": "Samsung Galaxy Z Flip7",
+        "en": "Samsung Galaxy Z Flip7"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-z-fold7",
+      "type": "product",
+      "category": "Phone",
+      "name": "Samsung Galaxy Z Fold7",
+      "title": {
+        "fa": "Samsung Galaxy Z Fold7",
+        "en": "Samsung Galaxy Z Fold7"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-sony-xperia-1-vii",
+      "type": "product",
+      "category": "Phone",
+      "name": "Sony Xperia 1 VII",
+      "title": {
+        "fa": "Sony Xperia 1 VII",
+        "en": "Sony Xperia 1 VII"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-xiaomi-14t-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "Xiaomi 14T Pro",
+      "title": {
+        "fa": "Xiaomi 14T Pro",
+        "en": "Xiaomi 14T Pro"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-xiaomi-15",
+      "type": "product",
+      "category": "Phone",
+      "name": "Xiaomi 15",
+      "title": {
+        "fa": "Xiaomi 15",
+        "en": "Xiaomi 15"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-xiaomi-15-ultra",
+      "type": "product",
+      "category": "Phone",
+      "name": "Xiaomi 15 Ultra",
+      "title": {
+        "fa": "Xiaomi 15 Ultra",
+        "en": "Xiaomi 15 Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-vivo-x200-pro",
+      "type": "product",
+      "category": "Phone",
+      "name": "vivo X200 Pro",
+      "title": {
+        "fa": "vivo X200 Pro",
+        "en": "vivo X200 Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1750,6 +2826,42 @@
       "status": "seed"
     },
     {
+      "id": "product-apple-ipad-pro-11-inch-m5",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Apple iPad Pro 11-inch M5",
+      "title": {
+        "fa": "Apple iPad Pro 11-inch M5",
+        "en": "Apple iPad Pro 11-inch M5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-apple-ipad-pro-13-inch-m5",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Apple iPad Pro 13-inch M5",
+      "title": {
+        "fa": "Apple iPad Pro 13-inch M5",
+        "en": "Apple iPad Pro 13-inch M5"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
       "id": "product-apple-ipad-mini-a17-pro",
       "type": "product",
       "category": "Tablet",
@@ -1768,13 +2880,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-tab-s10-ultra",
+      "id": "product-google-pixel-tablet",
       "type": "product",
       "category": "Tablet",
-      "name": "Samsung Galaxy Tab S10 Ultra",
+      "name": "Google Pixel Tablet",
       "title": {
-        "fa": "Samsung Galaxy Tab S10 Ultra",
-        "en": "Samsung Galaxy Tab S10 Ultra"
+        "fa": "Google Pixel Tablet",
+        "en": "Google Pixel Tablet"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1786,13 +2898,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-tab-s10",
+      "id": "product-honor-magicpad-2",
       "type": "product",
       "category": "Tablet",
-      "name": "Samsung Galaxy Tab S10+",
+      "name": "HONOR MagicPad 2",
       "title": {
-        "fa": "Samsung Galaxy Tab S10+",
-        "en": "Samsung Galaxy Tab S10+"
+        "fa": "HONOR MagicPad 2",
+        "en": "HONOR MagicPad 2"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1804,13 +2916,31 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-tab-s10-fe",
+      "id": "product-huawei-matepad-pro-13-2",
       "type": "product",
       "category": "Tablet",
-      "name": "Samsung Galaxy Tab S10 FE",
+      "name": "Huawei MatePad Pro 13.2",
       "title": {
-        "fa": "Samsung Galaxy Tab S10 FE",
-        "en": "Samsung Galaxy Tab S10 FE"
+        "fa": "Huawei MatePad Pro 13.2",
+        "en": "Huawei MatePad Pro 13.2"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-lenovo-yoga-tab-plus",
+      "type": "product",
+      "category": "Tablet",
+      "name": "Lenovo Yoga Tab Plus",
+      "title": {
+        "fa": "Lenovo Yoga Tab Plus",
+        "en": "Lenovo Yoga Tab Plus"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1858,78 +2988,6 @@
       "status": "seed"
     },
     {
-      "id": "product-xiaomi-pad-7-pro",
-      "type": "product",
-      "category": "Tablet",
-      "name": "Xiaomi Pad 7 Pro",
-      "title": {
-        "fa": "Xiaomi Pad 7 Pro",
-        "en": "Xiaomi Pad 7 Pro"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-lenovo-yoga-tab-plus",
-      "type": "product",
-      "category": "Tablet",
-      "name": "Lenovo Yoga Tab Plus",
-      "title": {
-        "fa": "Lenovo Yoga Tab Plus",
-        "en": "Lenovo Yoga Tab Plus"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-google-pixel-tablet",
-      "type": "product",
-      "category": "Tablet",
-      "name": "Google Pixel Tablet",
-      "title": {
-        "fa": "Google Pixel Tablet",
-        "en": "Google Pixel Tablet"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-huawei-matepad-pro-13-2",
-      "type": "product",
-      "category": "Tablet",
-      "name": "Huawei MatePad Pro 13.2",
-      "title": {
-        "fa": "Huawei MatePad Pro 13.2",
-        "en": "Huawei MatePad Pro 13.2"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
       "id": "product-redmi-pad-pro",
       "type": "product",
       "category": "Tablet",
@@ -1948,13 +3006,13 @@
       "status": "seed"
     },
     {
-      "id": "product-honor-magicpad-2",
+      "id": "product-samsung-galaxy-tab-s10-fe",
       "type": "product",
       "category": "Tablet",
-      "name": "HONOR MagicPad 2",
+      "name": "Samsung Galaxy Tab S10 FE",
       "title": {
-        "fa": "HONOR MagicPad 2",
-        "en": "HONOR MagicPad 2"
+        "fa": "Samsung Galaxy Tab S10 FE",
+        "en": "Samsung Galaxy Tab S10 FE"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1966,13 +3024,13 @@
       "status": "seed"
     },
     {
-      "id": "product-nvidia-geforce-rtx-5090",
+      "id": "product-samsung-galaxy-tab-s10-ultra",
       "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 5090",
+      "category": "Tablet",
+      "name": "Samsung Galaxy Tab S10 Ultra",
       "title": {
-        "fa": "NVIDIA GeForce RTX 5090",
-        "en": "NVIDIA GeForce RTX 5090"
+        "fa": "Samsung Galaxy Tab S10 Ultra",
+        "en": "Samsung Galaxy Tab S10 Ultra"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -1984,13 +3042,13 @@
       "status": "seed"
     },
     {
-      "id": "product-nvidia-geforce-rtx-5080",
+      "id": "product-samsung-galaxy-tab-s10",
       "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 5080",
+      "category": "Tablet",
+      "name": "Samsung Galaxy Tab S10+",
       "title": {
-        "fa": "NVIDIA GeForce RTX 5080",
-        "en": "NVIDIA GeForce RTX 5080"
+        "fa": "Samsung Galaxy Tab S10+",
+        "en": "Samsung Galaxy Tab S10+"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -2002,679 +3060,13 @@
       "status": "seed"
     },
     {
-      "id": "product-nvidia-geforce-rtx-5070-ti",
+      "id": "product-xiaomi-pad-7-pro",
       "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 5070 Ti",
+      "category": "Tablet",
+      "name": "Xiaomi Pad 7 Pro",
       "title": {
-        "fa": "NVIDIA GeForce RTX 5070 Ti",
-        "en": "NVIDIA GeForce RTX 5070 Ti"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-nvidia-geforce-rtx-5070",
-      "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 5070",
-      "title": {
-        "fa": "NVIDIA GeForce RTX 5070",
-        "en": "NVIDIA GeForce RTX 5070"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-nvidia-geforce-rtx-5060-ti",
-      "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 5060 Ti",
-      "title": {
-        "fa": "NVIDIA GeForce RTX 5060 Ti",
-        "en": "NVIDIA GeForce RTX 5060 Ti"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-nvidia-geforce-rtx-5060",
-      "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 5060",
-      "title": {
-        "fa": "NVIDIA GeForce RTX 5060",
-        "en": "NVIDIA GeForce RTX 5060"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-nvidia-geforce-rtx-4090",
-      "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 4090",
-      "title": {
-        "fa": "NVIDIA GeForce RTX 4090",
-        "en": "NVIDIA GeForce RTX 4090"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-nvidia-geforce-rtx-4080-super",
-      "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 4080 SUPER",
-      "title": {
-        "fa": "NVIDIA GeForce RTX 4080 SUPER",
-        "en": "NVIDIA GeForce RTX 4080 SUPER"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-nvidia-geforce-rtx-4070-super",
-      "type": "product",
-      "category": "GPU",
-      "name": "NVIDIA GeForce RTX 4070 SUPER",
-      "title": {
-        "fa": "NVIDIA GeForce RTX 4070 SUPER",
-        "en": "NVIDIA GeForce RTX 4070 SUPER"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-amd-radeon-rx-9070-xt",
-      "type": "product",
-      "category": "GPU",
-      "name": "AMD Radeon RX 9070 XT",
-      "title": {
-        "fa": "AMD Radeon RX 9070 XT",
-        "en": "AMD Radeon RX 9070 XT"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-amd-radeon-rx-9070",
-      "type": "product",
-      "category": "GPU",
-      "name": "AMD Radeon RX 9070",
-      "title": {
-        "fa": "AMD Radeon RX 9070",
-        "en": "AMD Radeon RX 9070"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-amd-radeon-rx-7900-xtx",
-      "type": "product",
-      "category": "GPU",
-      "name": "AMD Radeon RX 7900 XTX",
-      "title": {
-        "fa": "AMD Radeon RX 7900 XTX",
-        "en": "AMD Radeon RX 7900 XTX"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-intel-arc-b580",
-      "type": "product",
-      "category": "GPU",
-      "name": "Intel Arc B580",
-      "title": {
-        "fa": "Intel Arc B580",
-        "en": "Intel Arc B580"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-intel-arc-a770",
-      "type": "product",
-      "category": "GPU",
-      "name": "Intel Arc A770",
-      "title": {
-        "fa": "Intel Arc A770",
-        "en": "Intel Arc A770"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-sony-playstation-5-pro",
-      "type": "product",
-      "category": "Console",
-      "name": "Sony PlayStation 5 Pro",
-      "title": {
-        "fa": "Sony PlayStation 5 Pro",
-        "en": "Sony PlayStation 5 Pro"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-sony-playstation-5-slim",
-      "type": "product",
-      "category": "Console",
-      "name": "Sony PlayStation 5 Slim",
-      "title": {
-        "fa": "Sony PlayStation 5 Slim",
-        "en": "Sony PlayStation 5 Slim"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-sony-playstation-5-digital-edition",
-      "type": "product",
-      "category": "Console",
-      "name": "Sony PlayStation 5 Digital Edition",
-      "title": {
-        "fa": "Sony PlayStation 5 Digital Edition",
-        "en": "Sony PlayStation 5 Digital Edition"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-microsoft-xbox-series-x-2tb-galaxy-black",
-      "type": "product",
-      "category": "Console",
-      "name": "Microsoft Xbox Series X 2TB Galaxy Black",
-      "title": {
-        "fa": "Microsoft Xbox Series X 2TB Galaxy Black",
-        "en": "Microsoft Xbox Series X 2TB Galaxy Black"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-microsoft-xbox-series-x-1tb-digital-edition",
-      "type": "product",
-      "category": "Console",
-      "name": "Microsoft Xbox Series X 1TB Digital Edition",
-      "title": {
-        "fa": "Microsoft Xbox Series X 1TB Digital Edition",
-        "en": "Microsoft Xbox Series X 1TB Digital Edition"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-microsoft-xbox-series-s-1tb",
-      "type": "product",
-      "category": "Console",
-      "name": "Microsoft Xbox Series S 1TB",
-      "title": {
-        "fa": "Microsoft Xbox Series S 1TB",
-        "en": "Microsoft Xbox Series S 1TB"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-nintendo-switch-2",
-      "type": "product",
-      "category": "Console",
-      "name": "Nintendo Switch 2",
-      "title": {
-        "fa": "Nintendo Switch 2",
-        "en": "Nintendo Switch 2"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-valve-steam-deck-oled",
-      "type": "product",
-      "category": "Console",
-      "name": "Valve Steam Deck OLED",
-      "title": {
-        "fa": "Valve Steam Deck OLED",
-        "en": "Valve Steam Deck OLED"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-asus-rog-ally-x",
-      "type": "product",
-      "category": "Console",
-      "name": "ASUS ROG Ally X",
-      "title": {
-        "fa": "ASUS ROG Ally X",
-        "en": "ASUS ROG Ally X"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-apple-airpods-pro-2",
-      "type": "product",
-      "category": "Audio",
-      "name": "Apple AirPods Pro 2",
-      "title": {
-        "fa": "Apple AirPods Pro 2",
-        "en": "Apple AirPods Pro 2"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-apple-airpods-4-with-active-noise-cancellation",
-      "type": "product",
-      "category": "Audio",
-      "name": "Apple AirPods 4 with Active Noise Cancellation",
-      "title": {
-        "fa": "Apple AirPods 4 with Active Noise Cancellation",
-        "en": "Apple AirPods 4 with Active Noise Cancellation"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-sony-wh-1000xm6",
-      "type": "product",
-      "category": "Audio",
-      "name": "Sony WH-1000XM6",
-      "title": {
-        "fa": "Sony WH-1000XM6",
-        "en": "Sony WH-1000XM6"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-sony-wh-1000xm5",
-      "type": "product",
-      "category": "Audio",
-      "name": "Sony WH-1000XM5",
-      "title": {
-        "fa": "Sony WH-1000XM5",
-        "en": "Sony WH-1000XM5"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-bose-quietcomfort-ultra-headphones",
-      "type": "product",
-      "category": "Audio",
-      "name": "Bose QuietComfort Ultra Headphones",
-      "title": {
-        "fa": "Bose QuietComfort Ultra Headphones",
-        "en": "Bose QuietComfort Ultra Headphones"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-bose-quietcomfort-ultra-earbuds",
-      "type": "product",
-      "category": "Audio",
-      "name": "Bose QuietComfort Ultra Earbuds",
-      "title": {
-        "fa": "Bose QuietComfort Ultra Earbuds",
-        "en": "Bose QuietComfort Ultra Earbuds"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-samsung-galaxy-buds3-pro",
-      "type": "product",
-      "category": "Audio",
-      "name": "Samsung Galaxy Buds3 Pro",
-      "title": {
-        "fa": "Samsung Galaxy Buds3 Pro",
-        "en": "Samsung Galaxy Buds3 Pro"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-google-pixel-buds-pro-2",
-      "type": "product",
-      "category": "Audio",
-      "name": "Google Pixel Buds Pro 2",
-      "title": {
-        "fa": "Google Pixel Buds Pro 2",
-        "en": "Google Pixel Buds Pro 2"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-nothing-ear",
-      "type": "product",
-      "category": "Audio",
-      "name": "Nothing Ear",
-      "title": {
-        "fa": "Nothing Ear",
-        "en": "Nothing Ear"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-oneplus-buds-pro-3",
-      "type": "product",
-      "category": "Audio",
-      "name": "OnePlus Buds Pro 3",
-      "title": {
-        "fa": "OnePlus Buds Pro 3",
-        "en": "OnePlus Buds Pro 3"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-sennheiser-momentum-4-wireless",
-      "type": "product",
-      "category": "Audio",
-      "name": "Sennheiser Momentum 4 Wireless",
-      "title": {
-        "fa": "Sennheiser Momentum 4 Wireless",
-        "en": "Sennheiser Momentum 4 Wireless"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-sennheiser-momentum-true-wireless-4",
-      "type": "product",
-      "category": "Audio",
-      "name": "Sennheiser Momentum True Wireless 4",
-      "title": {
-        "fa": "Sennheiser Momentum True Wireless 4",
-        "en": "Sennheiser Momentum True Wireless 4"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-sonos-ace",
-      "type": "product",
-      "category": "Audio",
-      "name": "Sonos Ace",
-      "title": {
-        "fa": "Sonos Ace",
-        "en": "Sonos Ace"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-jbl-tour-one-m3",
-      "type": "product",
-      "category": "Audio",
-      "name": "JBL Tour One M3",
-      "title": {
-        "fa": "JBL Tour One M3",
-        "en": "JBL Tour One M3"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-beats-studio-pro",
-      "type": "product",
-      "category": "Audio",
-      "name": "Beats Studio Pro",
-      "title": {
-        "fa": "Beats Studio Pro",
-        "en": "Beats Studio Pro"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-apple-watch-ultra-2",
-      "type": "product",
-      "category": "Wearable",
-      "name": "Apple Watch Ultra 2",
-      "title": {
-        "fa": "Apple Watch Ultra 2",
-        "en": "Apple Watch Ultra 2"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-apple-watch-series-10",
-      "type": "product",
-      "category": "Wearable",
-      "name": "Apple Watch Series 10",
-      "title": {
-        "fa": "Apple Watch Series 10",
-        "en": "Apple Watch Series 10"
+        "fa": "Xiaomi Pad 7 Pro",
+        "en": "Xiaomi Pad 7 Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -2704,13 +3096,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-watch-ultra",
+      "id": "product-apple-watch-series-10",
       "type": "product",
       "category": "Wearable",
-      "name": "Samsung Galaxy Watch Ultra",
+      "name": "Apple Watch Series 10",
       "title": {
-        "fa": "Samsung Galaxy Watch Ultra",
-        "en": "Samsung Galaxy Watch Ultra"
+        "fa": "Apple Watch Series 10",
+        "en": "Apple Watch Series 10"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -2722,13 +3114,13 @@
       "status": "seed"
     },
     {
-      "id": "product-samsung-galaxy-watch7",
+      "id": "product-apple-watch-ultra-2",
       "type": "product",
       "category": "Wearable",
-      "name": "Samsung Galaxy Watch7",
+      "name": "Apple Watch Ultra 2",
       "title": {
-        "fa": "Samsung Galaxy Watch7",
-        "en": "Samsung Galaxy Watch7"
+        "fa": "Apple Watch Ultra 2",
+        "en": "Apple Watch Ultra 2"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -2740,13 +3132,13 @@
       "status": "seed"
     },
     {
-      "id": "product-google-pixel-watch-3",
+      "id": "product-fitbit-charge-6",
       "type": "product",
       "category": "Wearable",
-      "name": "Google Pixel Watch 3",
+      "name": "Fitbit Charge 6",
       "title": {
-        "fa": "Google Pixel Watch 3",
-        "en": "Google Pixel Watch 3"
+        "fa": "Fitbit Charge 6",
+        "en": "Fitbit Charge 6"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -2812,13 +3204,13 @@
       "status": "seed"
     },
     {
-      "id": "product-huawei-watch-gt-5-pro",
+      "id": "product-google-pixel-watch-3",
       "type": "product",
       "category": "Wearable",
-      "name": "Huawei Watch GT 5 Pro",
+      "name": "Google Pixel Watch 3",
       "title": {
-        "fa": "Huawei Watch GT 5 Pro",
-        "en": "Huawei Watch GT 5 Pro"
+        "fa": "Google Pixel Watch 3",
+        "en": "Google Pixel Watch 3"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -2830,13 +3222,13 @@
       "status": "seed"
     },
     {
-      "id": "product-xiaomi-watch-2-pro",
+      "id": "product-huawei-watch-gt-5-pro",
       "type": "product",
       "category": "Wearable",
-      "name": "Xiaomi Watch 2 Pro",
+      "name": "Huawei Watch GT 5 Pro",
       "title": {
-        "fa": "Xiaomi Watch 2 Pro",
-        "en": "Xiaomi Watch 2 Pro"
+        "fa": "Huawei Watch GT 5 Pro",
+        "en": "Huawei Watch GT 5 Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
@@ -2884,6 +3276,42 @@
       "status": "seed"
     },
     {
+      "id": "product-samsung-galaxy-watch-ultra",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Samsung Galaxy Watch Ultra",
+      "title": {
+        "fa": "Samsung Galaxy Watch Ultra",
+        "en": "Samsung Galaxy Watch Ultra"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
+      "id": "product-samsung-galaxy-watch7",
+      "type": "product",
+      "category": "Wearable",
+      "name": "Samsung Galaxy Watch7",
+      "title": {
+        "fa": "Samsung Galaxy Watch7",
+        "en": "Samsung Galaxy Watch7"
+      },
+      "text": {
+        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
+        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
+      },
+      "url": "https://techaneh.ir/#compare",
+      "updatedAt": null,
+      "sources": [],
+      "status": "seed"
+    },
+    {
       "id": "product-whoop-5-0",
       "type": "product",
       "category": "Wearable",
@@ -2902,247 +3330,13 @@
       "status": "seed"
     },
     {
-      "id": "product-fitbit-charge-6",
+      "id": "product-xiaomi-watch-2-pro",
       "type": "product",
       "category": "Wearable",
-      "name": "Fitbit Charge 6",
+      "name": "Xiaomi Watch 2 Pro",
       "title": {
-        "fa": "Fitbit Charge 6",
-        "en": "Fitbit Charge 6"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-apple-studio-display",
-      "type": "product",
-      "category": "Monitor",
-      "name": "Apple Studio Display",
-      "title": {
-        "fa": "Apple Studio Display",
-        "en": "Apple Studio Display"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-samsung-odyssey-oled-g9-g95sd",
-      "type": "product",
-      "category": "Monitor",
-      "name": "Samsung Odyssey OLED G9 G95SD",
-      "title": {
-        "fa": "Samsung Odyssey OLED G9 G95SD",
-        "en": "Samsung Odyssey OLED G9 G95SD"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-samsung-odyssey-oled-g8-g80sd",
-      "type": "product",
-      "category": "Monitor",
-      "name": "Samsung Odyssey OLED G8 G80SD",
-      "title": {
-        "fa": "Samsung Odyssey OLED G8 G80SD",
-        "en": "Samsung Odyssey OLED G8 G80SD"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-lg-ultragear-32gs95ue",
-      "type": "product",
-      "category": "Monitor",
-      "name": "LG UltraGear 32GS95UE",
-      "title": {
-        "fa": "LG UltraGear 32GS95UE",
-        "en": "LG UltraGear 32GS95UE"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-dell-ultrasharp-u3225qe",
-      "type": "product",
-      "category": "Monitor",
-      "name": "Dell UltraSharp U3225QE",
-      "title": {
-        "fa": "Dell UltraSharp U3225QE",
-        "en": "Dell UltraSharp U3225QE"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-alienware-aw3225qf",
-      "type": "product",
-      "category": "Monitor",
-      "name": "Alienware AW3225QF",
-      "title": {
-        "fa": "Alienware AW3225QF",
-        "en": "Alienware AW3225QF"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-asus-rog-swift-oled-pg32ucdm",
-      "type": "product",
-      "category": "Monitor",
-      "name": "ASUS ROG Swift OLED PG32UCDM",
-      "title": {
-        "fa": "ASUS ROG Swift OLED PG32UCDM",
-        "en": "ASUS ROG Swift OLED PG32UCDM"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-msi-mpg-321urx-qd-oled",
-      "type": "product",
-      "category": "Monitor",
-      "name": "MSI MPG 321URX QD-OLED",
-      "title": {
-        "fa": "MSI MPG 321URX QD-OLED",
-        "en": "MSI MPG 321URX QD-OLED"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-gigabyte-aorus-fo32u2p",
-      "type": "product",
-      "category": "Monitor",
-      "name": "Gigabyte AORUS FO32U2P",
-      "title": {
-        "fa": "Gigabyte AORUS FO32U2P",
-        "en": "Gigabyte AORUS FO32U2P"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-benq-pd3225u",
-      "type": "product",
-      "category": "Monitor",
-      "name": "BenQ PD3225U",
-      "title": {
-        "fa": "BenQ PD3225U",
-        "en": "BenQ PD3225U"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-alienware-aw2725df",
-      "type": "product",
-      "category": "Monitor",
-      "name": "Alienware AW2725DF",
-      "title": {
-        "fa": "Alienware AW2725DF",
-        "en": "Alienware AW2725DF"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-lg-dualup-28mq780",
-      "type": "product",
-      "category": "Monitor",
-      "name": "LG DualUp 28MQ780",
-      "title": {
-        "fa": "LG DualUp 28MQ780",
-        "en": "LG DualUp 28MQ780"
-      },
-      "text": {
-        "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
-        "en": "This product is in Techaneh's monitoring catalog; specifications appear after source verification."
-      },
-      "url": "https://techaneh.ir/#compare",
-      "updatedAt": null,
-      "sources": [],
-      "status": "seed"
-    },
-    {
-      "id": "product-samsung-viewfinity-s9-s90pc",
-      "type": "product",
-      "category": "Monitor",
-      "name": "Samsung ViewFinity S9 S90PC",
-      "title": {
-        "fa": "Samsung ViewFinity S9 S90PC",
-        "en": "Samsung ViewFinity S9 S90PC"
+        "fa": "Xiaomi Watch 2 Pro",
+        "en": "Xiaomi Watch 2 Pro"
       },
       "text": {
         "fa": "محصول در فهرست پایش تکانه است و مشخصات آن پس از راستی‌آزمایی منابع نمایش داده می‌شود.",
